@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="2072" dy="4057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1098" dy="3454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,15 +111,14 @@
             <mxPoint x="301.46000000000026" y="217.99999999999955" as="sourcePoint" />
             <mxPoint x="301" y="248" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="390" y="208" />
-              <mxPoint x="390" y="248" />
-              <mxPoint x="302" y="248" />
+              <mxPoint x="470" y="208" />
+              <mxPoint x="470" y="248" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ToUPSf5seXOrwuXV1P-5-25" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Valida tarjeta&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;del cliente&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="ToUPSf5seXOrwuXV1P-5-23" vertex="1" connectable="0">
           <mxGeometry x="-0.0246" y="2" relative="1" as="geometry">
-            <mxPoint x="-26" y="-37" as="offset" />
+            <mxPoint x="-82" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7HixoyYetjCcy4OrqY7s-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="Bnk67_aWibF8yN_9XxKm-9" edge="1">
@@ -127,14 +126,14 @@
             <mxPoint x="300.0000000000003" y="287.99999999999955" as="sourcePoint" />
             <mxPoint x="301.46000000000004" y="338" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="389" y="288" />
-              <mxPoint x="389" y="338" />
+              <mxPoint x="470" y="288" />
+              <mxPoint x="470" y="338" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7HixoyYetjCcy4OrqY7s-13" value="&lt;div&gt;Valida PAN de la tarjeta&lt;/div&gt;&lt;div&gt;[16 DIGITOS]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="7HixoyYetjCcy4OrqY7s-11" vertex="1" connectable="0">
           <mxGeometry x="-0.0083" y="-2" relative="1" as="geometry">
-            <mxPoint x="11" y="-40" as="offset" />
+            <mxPoint x="-78" y="-40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7HixoyYetjCcy4OrqY7s-4" value="&lt;div&gt;&amp;lt;&amp;lt;Mainframe IBM&lt;/div&gt;&lt;div&gt;Altair 390&amp;gt;&amp;gt;&lt;/div&gt;&lt;font color=&quot;#000000&quot;&gt;PAMPA&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
@@ -238,8 +237,8 @@
             <mxPoint x="302.23" y="388.9999999999991" as="sourcePoint" />
             <mxPoint x="302.23" y="428.9999999999991" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="460" y="389" />
-              <mxPoint x="460" y="429" />
+              <mxPoint x="470" y="389" />
+              <mxPoint x="470" y="429" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -252,35 +251,8 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7HixoyYetjCcy4OrqY7s-194" value="Identifica tipo de Tarjeta&amp;nbsp;&lt;div style=&quot;&quot;&gt;(TDD, TDC, tarjeta otros bancos)&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1" connectable="0">
-          <mxGeometry x="376" y="349.00222222222214" as="geometry">
+          <mxGeometry x="350" y="349.00222222222214" as="geometry">
             <mxPoint x="45" y="23" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7HixoyYetjCcy4OrqY7s-197" value="" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" parent="Bnk67_aWibF8yN_9XxKm-9" source="Bnk67_aWibF8yN_9XxKm-161" edge="1">
-          <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="303.9748837209301" y="289" as="sourcePoint" />
-            <mxPoint x="310" y="319" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="320" y="299" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7HixoyYetjCcy4OrqY7s-198" value="" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" parent="Bnk67_aWibF8yN_9XxKm-9" edge="1">
-          <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="300" y="389" as="sourcePoint" />
-            <mxPoint x="307" y="409" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="317" y="389" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7HixoyYetjCcy4OrqY7s-199" value="" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" parent="Bnk67_aWibF8yN_9XxKm-9" edge="1">
-          <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="306.5" y="505.5" as="sourcePoint" />
-            <mxPoint x="313.5" y="525.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="323.5" y="505.5" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7HixoyYetjCcy4OrqY7s-200" value="&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;&lt;li style=&quot;margin-left: 0cm;&quot; class=&quot;MsoListParagraph&quot;&gt;PAN&lt;/li&gt;&lt;li style=&quot;margin-left: 0cm;&quot; class=&quot;MsoListParagraph&quot;&gt;TIPO TARJETA = TDD&lt;/li&gt;&lt;li style=&quot;margin-left: 0cm;&quot; class=&quot;MsoListParagraph&quot;&gt;BIN&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;fontSize=6;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
@@ -530,6 +502,39 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="293.5" y="1862.5" as="sourcePoint" />
             <mxPoint x="373.5" y="1862.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7HixoyYetjCcy4OrqY7s-197" value="" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;curved=0;rounded=0;" parent="Bnk67_aWibF8yN_9XxKm-9" source="ToUPSf5seXOrwuXV1P-5-14" edge="1" target="ToUPSf5seXOrwuXV1P-5-14">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="303.9748837209301" y="289" as="sourcePoint" />
+            <mxPoint x="310" y="339" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="309" />
+              <mxPoint x="320" y="319" />
+              <mxPoint x="310" y="329" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9fkK_CbgTvdw0EqZ_eMq-11" value="" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;curved=0;rounded=0;" edge="1" parent="Bnk67_aWibF8yN_9XxKm-9">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="302" y="400" as="sourcePoint" />
+            <mxPoint x="302" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="400" />
+              <mxPoint x="320" y="410" />
+              <mxPoint x="310" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9fkK_CbgTvdw0EqZ_eMq-12" value="" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;curved=0;rounded=0;" edge="1" parent="Bnk67_aWibF8yN_9XxKm-9">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="302" y="495" as="sourcePoint" />
+            <mxPoint x="302" y="515" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="495" />
+              <mxPoint x="320" y="505" />
+              <mxPoint x="310" y="515" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rOi-mppfedfwNNFNSkrN-1" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Escenario 6: &lt;font style=&quot;font-size: 13px;&quot; color=&quot;#b5739d&quot;&gt;Creación del nombre del archivo de salida&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#b5739d&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Nomenclatura para la generación del nombre del archivo de salida.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Ejemplo:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ff0000&quot;&gt;ODIN&lt;/font&gt;_E9999K05_VS_B_NSP0003583_DT020322_TNMJ4_CVK99990003583.TXT&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;ODIN_E – Valor fijo&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;9999 - Entidad&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;K - Entornos – G (prueba integrada) - K (Aprobación) - P (Producción)&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;05 – Estampado de código de empresa&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;_ - Valor fijo&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;VS – Bandera – VS -Visa, MC – Master, AM – Amex,&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;_ - Valor fijo&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;B – Chip de bandera que se utilizará para seleccionar la plantilla en DataPreparation.&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;_NSP - Valor fijo&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;0003583 – Número de procesamiento secuencial (único para cada impresora)&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;_DT - Valor fijo&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;020322 – Fecha de movimiento (no la fecha de generación)&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;_T - Valor fijo&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;NMJ4 – Código de la estación transmisora de la empresa externa&amp;nbsp;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;&quot;&gt;_ - Valor fijo&lt;/div&gt;&lt;div style=&quot;&quot;&gt;CVK99990003583 – Nombre del archivo final que se enviará a la impresora&lt;/div&gt;&lt;div style=&quot;&quot;&gt;.TXT – Valor fijo&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#B5739D;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
