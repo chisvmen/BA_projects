@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="311" dy="1293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="836" dy="1618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -477,12 +477,12 @@
           <mxGeometry x="257.75" y="605" width="1334.5" height="537" as="geometry" />
         </mxCell>
         <mxCell id="7HixoyYetjCcy4OrqY7s-168" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=#E8A6A6;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
-          <mxGeometry x="787.25" y="797" width="10" height="49" as="geometry" />
+          <mxGeometry x="787.25" y="798" width="10" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7HixoyYetjCcy4OrqY7s-173" value="Consulta tabla de&amp;nbsp; RIB" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="Bnk67_aWibF8yN_9XxKm-9" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="317.21000000000004" y="763.0000000000005" as="sourcePoint" />
-            <mxPoint x="638.25" y="763" as="targetPoint" />
+            <mxPoint x="313.21000000000004" y="763.0000000000005" as="sourcePoint" />
+            <mxPoint x="616" y="766" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7HixoyYetjCcy4OrqY7s-175" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="Bnk67_aWibF8yN_9XxKm-9" source="7HixoyYetjCcy4OrqY7s-168" target="7HixoyYetjCcy4OrqY7s-24" edge="1">
@@ -495,13 +495,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7HixoyYetjCcy4OrqY7s-32" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
-          <mxGeometry x="1327.25" y="899.25" width="10" height="40" as="geometry" />
+          <mxGeometry x="1320.25" y="899.25" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7HixoyYetjCcy4OrqY7s-43" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};verticalAlign=top;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
           <mxGeometry x="1508.5" y="929" width="10" height="116" as="geometry" />
         </mxCell>
         <mxCell id="7HixoyYetjCcy4OrqY7s-26" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=#E8A6A6;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
-          <mxGeometry x="1140" y="865.5" width="10" height="36" as="geometry" />
+          <mxGeometry x="1140" y="865.5" width="10" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="7HixoyYetjCcy4OrqY7s-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="Bnk67_aWibF8yN_9XxKm-9" source="7HixoyYetjCcy4OrqY7s-24" target="7HixoyYetjCcy4OrqY7s-26" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -518,20 +518,20 @@
             <mxPoint x="1160.89" y="827.84" as="sourcePoint" />
             <mxPoint x="1710.75" y="818" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1150.25" y="898" />
+              <mxPoint x="1320" y="904" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7HixoyYetjCcy4OrqY7s-41" value="Consulta trx LMCH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7HixoyYetjCcy4OrqY7s-38" vertex="1" connectable="0">
           <mxGeometry x="-0.0706" relative="1" as="geometry">
-            <mxPoint x="176" y="31" as="offset" />
+            <mxPoint x="181" y="24" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7HixoyYetjCcy4OrqY7s-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" parent="Bnk67_aWibF8yN_9XxKm-9" source="7HixoyYetjCcy4OrqY7s-211" target="7HixoyYetjCcy4OrqY7s-168" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7HixoyYetjCcy4OrqY7s-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=#E8A6A6;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
-          <mxGeometry x="965.25" y="835" width="10" height="40" as="geometry" />
+          <mxGeometry x="965.25" y="836" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9fkK_CbgTvdw0EqZ_eMq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="Bnk67_aWibF8yN_9XxKm-9" source="7HixoyYetjCcy4OrqY7s-32" target="7HixoyYetjCcy4OrqY7s-43">
           <mxGeometry relative="1" as="geometry" />
