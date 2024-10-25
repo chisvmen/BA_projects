@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1512" dy="3710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2173" dy="4120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -473,18 +473,17 @@
         </mxCell>
         <mxCell id="7HixoyYetjCcy4OrqY7s-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="Bnk67_aWibF8yN_9XxKm-9" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="589" as="sourcePoint" />
-            <mxPoint x="300" y="619" as="targetPoint" />
+            <mxPoint x="315.02" y="499" as="sourcePoint" />
+            <mxPoint x="315.02" y="529" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="470" y="589" />
-              <mxPoint x="470" y="619" />
-              <mxPoint x="300" y="619" />
+              <mxPoint x="500" y="499" />
+              <mxPoint x="500" y="529" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7HixoyYetjCcy4OrqY7s-56" value="Consulta tabla de BINES&lt;div&gt;(Actualizacion diaria&amp;nbsp;&lt;/div&gt;&lt;div&gt;Proceso manual)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="7HixoyYetjCcy4OrqY7s-55" vertex="1" connectable="0">
           <mxGeometry x="-0.0246" y="2" relative="1" as="geometry">
-            <mxPoint x="-92" y="-40" as="offset" />
+            <mxPoint x="-92" y="-31" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7HixoyYetjCcy4OrqY7s-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0.938;entryY=0.066;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Bnk67_aWibF8yN_9XxKm-9" edge="1">
@@ -628,7 +627,7 @@
         <mxCell id="7HixoyYetjCcy4OrqY7s-153" value="Escenarios" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A3A3A3;strokeColor=#314354;fontColor=#ffffff;fontSize=15;fontStyle=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="490" y="-641" width="440" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="7HixoyYetjCcy4OrqY7s-154" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div&gt;&lt;b&gt;Escenario 2:&amp;nbsp;&lt;font color=&quot;#b5739d&quot;&gt;Valida excepcion de comision por uso de ATM&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#b5739d&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;El módulo&amp;nbsp; de Embozado, tiene la funcionalidad de realizar la creación del archivo de salida de embozado para todas las cuentas aperturadas del cliente para cada uno de los personalizadores.&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;Información a filtrar tendrá el siguiente estado:&lt;/div&gt;&lt;div&gt;Estado&lt;i style=&quot;border-color: var(--border-color); text-indent: -24px;&quot;&gt;&amp;nbsp;=&amp;nbsp;01 - Actualizado exitosamente.&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#e6d0de;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="7HixoyYetjCcy4OrqY7s-154" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div&gt;&lt;b&gt;Escenario 2:&amp;nbsp;&lt;font color=&quot;#b5739d&quot;&gt;Valida excepción de pago de comisión por uso de ATM&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#b5739d&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;El flujo funcional para el canal de ATM, incluye la funcionalidad de realizar una validación para excepcionar el pago de comisión por uso de cajero automático para Clientes externos a Grupo Santander.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#e6d0de;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="490.1700000000001" y="-499" width="440" height="139" as="geometry" />
         </mxCell>
         <mxCell id="9fkK_CbgTvdw0EqZ_eMq-1" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div&gt;&lt;b&gt;Escenario 3:&amp;nbsp;&lt;font color=&quot;#b5739d&quot;&gt;Obtiene informacion de la tarjeta del cliente&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#b5739d&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;El módulo&amp;nbsp; de Embozado, tiene la funcionalidad de realizar la creación del archivo de salida de embozado para todas las cuentas aperturadas del cliente para cada uno de los personalizadores.&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;Información a filtrar tendrá el siguiente estado:&lt;/div&gt;&lt;div&gt;Estado&lt;i style=&quot;border-color: var(--border-color); text-indent: -24px;&quot;&gt;&amp;nbsp;=&amp;nbsp;01 - Actualizado exitosamente.&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#e6d0de;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;strokeWidth=2;fontColor=#000000;" vertex="1" parent="1">
