@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="2173" dy="4120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1843" dy="3915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
         <mxCell id="Bnk67_aWibF8yN_9XxKm-24" value="&amp;lt;&amp;lt;CaaS&amp;gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Integration Layer&lt;/span&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
           <mxGeometry x="888" y="76" width="160" height="1615" as="geometry" />
         </mxCell>
-        <mxCell id="Bnk67_aWibF8yN_9XxKm-85" value="&amp;nbsp; &amp;nbsp;MQ Launcher&amp;nbsp;&lt;div&gt;PLARD&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
+        <mxCell id="Bnk67_aWibF8yN_9XxKm-85" value="&amp;lt;&amp;lt;MQ&amp;gt;&amp;gt;&lt;div&gt;Launcher&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;PLARD&lt;/span&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
           <mxGeometry x="710" y="76" width="160" height="1615" as="geometry" />
         </mxCell>
         <mxCell id="Bnk67_aWibF8yN_9XxKm-161" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt;&amp;lt;CANAL&amp;gt;&amp;gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;ATM Cajero Automático&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
@@ -400,7 +400,7 @@
             <mxPoint x="163.5" y="1865.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ToUPSf5seXOrwuXV1P-5-6" value="&lt;div style=&quot;&quot;&gt;&amp;lt;&amp;lt;Plataforma SaaS&amp;gt;&amp;gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;PLARD&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
+        <mxCell id="ToUPSf5seXOrwuXV1P-5-6" value="&lt;div style=&quot;&quot;&gt;&amp;lt;&amp;lt;PLATAFORMA SaaS&amp;gt;&amp;gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;PLARD&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
           <mxGeometry x="1062.75" y="76" width="160" height="1615" as="geometry" />
         </mxCell>
         <mxCell id="ToUPSf5seXOrwuXV1P-5-8" value="&lt;span style=&quot;&quot;&gt;&amp;lt;&amp;lt;API&amp;gt;&amp;gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Gluon&lt;/span&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
@@ -425,7 +425,7 @@
             <mxPoint x="-82" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7HixoyYetjCcy4OrqY7s-4" value="&lt;div&gt;&amp;lt;&amp;lt;Mainframe IBM&lt;/div&gt;&lt;div&gt;Altair 390&amp;gt;&amp;gt;&lt;/div&gt;&lt;font color=&quot;#000000&quot;&gt;PAMPA&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
+        <mxCell id="7HixoyYetjCcy4OrqY7s-4" value="&lt;div&gt;&amp;lt;&amp;lt;MAINFRAME IBM&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;390&amp;gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt;Altair AaaS&amp;gt;&amp;gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#000000&quot;&gt;PAMPA&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
           <mxGeometry x="1430.25" y="76" width="162" height="1595" as="geometry" />
         </mxCell>
         <mxCell id="7HixoyYetjCcy4OrqY7s-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="Bnk67_aWibF8yN_9XxKm-9" edge="1">
@@ -622,16 +622,16 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7HixoyYetjCcy4OrqY7s-152" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div&gt;&lt;b&gt;Escenario 1:&amp;nbsp;&lt;font color=&quot;#b5739d&quot;&gt;Identifica informacion de la tarjeta del cliente&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#b5739d&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;El Cajero automatico ATM identifica através del PAN la infoirmacion de la tarjeta del cliente.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#e6d0de;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="490.1700000000001" y="-590" width="440" height="70" as="geometry" />
+          <mxGeometry x="490" y="-590" width="440" height="180" as="geometry" />
         </mxCell>
         <mxCell id="7HixoyYetjCcy4OrqY7s-153" value="Escenarios" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A3A3A3;strokeColor=#314354;fontColor=#ffffff;fontSize=15;fontStyle=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="490" y="-641" width="440" height="39" as="geometry" />
         </mxCell>
         <mxCell id="7HixoyYetjCcy4OrqY7s-154" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div&gt;&lt;b&gt;Escenario 2:&amp;nbsp;&lt;font color=&quot;#b5739d&quot;&gt;Valida excepción de pago de comisión por uso de ATM&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#b5739d&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;El flujo funcional para el canal de ATM, incluye la funcionalidad de realizar una validación para excepcionar el pago de comisión por uso de cajero automático para Clientes externos a Grupo Santander.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#e6d0de;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="490.1700000000001" y="-499" width="440" height="139" as="geometry" />
+          <mxGeometry x="490" y="-395" width="440" height="180" as="geometry" />
         </mxCell>
         <mxCell id="9fkK_CbgTvdw0EqZ_eMq-1" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div&gt;&lt;b&gt;Escenario 3:&amp;nbsp;&lt;font color=&quot;#b5739d&quot;&gt;Obtiene informacion de la tarjeta del cliente&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#b5739d&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;El módulo&amp;nbsp; de Embozado, tiene la funcionalidad de realizar la creación del archivo de salida de embozado para todas las cuentas aperturadas del cliente para cada uno de los personalizadores.&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;Información a filtrar tendrá el siguiente estado:&lt;/div&gt;&lt;div&gt;Estado&lt;i style=&quot;border-color: var(--border-color); text-indent: -24px;&quot;&gt;&amp;nbsp;=&amp;nbsp;01 - Actualizado exitosamente.&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#e6d0de;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;strokeWidth=2;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="490.00000000000006" y="-340" width="440" height="139" as="geometry" />
+          <mxGeometry x="490" y="-200" width="440" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
