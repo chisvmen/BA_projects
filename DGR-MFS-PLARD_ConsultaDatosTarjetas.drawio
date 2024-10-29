@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="525" dy="-8521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="618" dy="-8472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
           <mxGeometry x="1001" y="12242" width="518" height="81" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;PLARD Consulta Datos de Tarjeta&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=310;height=44;fontStyle=1;fontSize=13;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="40" y="9584" width="1760" height="2050" as="geometry" />
+          <mxGeometry x="40" y="9582" width="1760" height="2050" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-13" value="&amp;nbsp; Cliente Santander" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#FFFFFF;strokeColor=#000000;align=center;gradientColor=#ffffff;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
           <mxGeometry x="25" y="76" width="161" height="1954" as="geometry" />
@@ -351,7 +351,7 @@
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-68" value="&lt;div&gt;Valida PAN de la tarjeta&lt;/div&gt;&lt;div&gt;[16 DIGITOS]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="nctrB8vf493KiRFq7X1_-67" vertex="1" connectable="0">
           <mxGeometry x="-0.0083" y="-2" relative="1" as="geometry">
-            <mxPoint x="-79" y="-24" as="offset" />
+            <mxPoint x="-76" y="-27" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="nctrB8vf493KiRFq7X1_-12" edge="1" target="nctrB8vf493KiRFq7X1_-18" source="nctrB8vf493KiRFq7X1_-18">
@@ -400,12 +400,12 @@
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-75" value="" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;curved=0;rounded=0;endSize=2;" parent="nctrB8vf493KiRFq7X1_-12" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="313" y="271" as="sourcePoint" />
-            <mxPoint x="313" y="291" as="targetPoint" />
+            <mxPoint x="307.43006993006986" y="275" as="sourcePoint" />
+            <mxPoint x="307.43006993006986" y="290" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="321" y="271" />
-              <mxPoint x="331" y="281" />
-              <mxPoint x="321" y="291" />
+              <mxPoint x="321" y="275" />
+              <mxPoint x="330" y="285" />
+              <mxPoint x="320" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
