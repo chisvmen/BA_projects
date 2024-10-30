@@ -1,29 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1222" dy="-8043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1323" dy="-7980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nctrB8vf493KiRFq7X1_-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;PLARD Consulta Datos de Tarjeta&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=310;height=44;fontStyle=1;fontSize=13;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="40" y="9582" width="1760" height="2228" as="geometry" />
+          <mxGeometry x="10" y="9582" width="1790" height="2250" as="geometry" />
+        </mxCell>
+        <mxCell id="nctrB8vf493KiRFq7X1_-36" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};verticalAlign=top;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
+          <mxGeometry x="1514.25" y="1991" width="10" height="106" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-18" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt;&amp;lt;CANAL&amp;gt;&amp;gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;ATM Cajero Automático&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
-          <mxGeometry x="212" y="76" width="190" height="2134" as="geometry" />
-        </mxCell>
-        <mxCell id="pCUDI1BJ3AaRnasVNfEv-62" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
-          <mxGeometry x="297" y="179" width="10" height="1989" as="geometry" />
-        </mxCell>
-        <mxCell id="nctrB8vf493KiRFq7X1_-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.492;exitY=0.467;exitDx=0;exitDy=0;exitPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" source="nctrB8vf493KiRFq7X1_-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1329.676" y="1069.0159999999996" as="sourcePoint" />
-            <mxPoint x="314" y="1068" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nctrB8vf493KiRFq7X1_-95" value="Valida informacion de la tarjeta del cliente" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nctrB8vf493KiRFq7X1_-94" vertex="1" connectable="0">
-          <mxGeometry x="0.1847" relative="1" as="geometry">
-            <mxPoint x="63" y="18" as="offset" />
-          </mxGeometry>
+          <mxGeometry x="210" y="76" width="190" height="2154" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="nctrB8vf493KiRFq7X1_-12" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -34,17 +22,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5DmThwKaOj8gvai7ZJwh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.506;exitY=0.467;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.522;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" source="nctrB8vf493KiRFq7X1_-99" target="nctrB8vf493KiRFq7X1_-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1140.8820000000003" y="1068.5879999999997" as="targetPoint" />
-            <mxPoint x="1324.9980000000003" y="1067.9959999999992" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5DmThwKaOj8gvai7ZJwh-13" value="Envia informacion del cliente" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5DmThwKaOj8gvai7ZJwh-12" vertex="1" connectable="0">
-          <mxGeometry x="0.3975" y="1" relative="1" as="geometry">
-            <mxPoint x="45" y="9" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5DmThwKaOj8gvai7ZJwh-7" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;exitX=0.503;exitY=0.474;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.506;entryY=0.436;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" target="nctrB8vf493KiRFq7X1_-99" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="791.44" y="1002.3460000000001" as="sourcePoint" />
@@ -52,20 +29,6 @@
             <Array as="points">
               <mxPoint x="857.32" y="990.3400000000007" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5DmThwKaOj8gvai7ZJwh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.506;exitY=0.404;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.502;entryY=0.402;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" source="nctrB8vf493KiRFq7X1_-54" target="nctrB8vf493KiRFq7X1_-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1508.25" y="938" as="sourcePoint" />
-            <mxPoint x="304" y="938" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="330" y="934" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5DmThwKaOj8gvai7ZJwh-3" value="Valida informacion de la tarjeta del cliente" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5DmThwKaOj8gvai7ZJwh-2" vertex="1" connectable="0">
-          <mxGeometry x="0.1847" relative="1" as="geometry">
-            <mxPoint x="2" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="nctrB8vf493KiRFq7X1_-12" edge="1">
@@ -88,9 +51,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pCUDI1BJ3AaRnasVNfEv-32" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=#E8A6A6;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
-          <mxGeometry x="626" y="788.5" width="10" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="5DmThwKaOj8gvai7ZJwh-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.782;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.782;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="962.1039999999994" as="sourcePoint" />
@@ -101,13 +61,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pCUDI1BJ3AaRnasVNfEv-31" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=#E8A6A6;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
-          <mxGeometry x="790" y="826" width="10" height="184" as="geometry" />
+          <mxGeometry x="790" y="826" width="10" height="194" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-13" value="&amp;nbsp; Cliente Santander" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#FFFFFF;strokeColor=#000000;align=center;gradientColor=#ffffff;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
-          <mxGeometry x="25" y="76" width="161" height="2124" as="geometry" />
-        </mxCell>
-        <mxCell id="nctrB8vf493KiRFq7X1_-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="nctrB8vf493KiRFq7X1_-13" vertex="1">
-          <mxGeometry x="75" y="103" width="10" height="1999" as="geometry" />
+          <mxGeometry x="10" y="70.5" width="161" height="2174" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-15" value="&lt;span style=&quot;&quot;&gt;&amp;lt;&amp;lt;COMPONENTE&amp;gt;&amp;gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;Agave&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
           <mxGeometry x="538" y="76" width="161" height="1944" as="geometry" />
@@ -116,7 +73,7 @@
           <mxGeometry x="888" y="76" width="160" height="2124" as="geometry" />
         </mxCell>
         <mxCell id="pCUDI1BJ3AaRnasVNfEv-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=#E8A6A6;" parent="nctrB8vf493KiRFq7X1_-16" vertex="1">
-          <mxGeometry x="73" y="774.5" width="10" height="230.5" as="geometry" />
+          <mxGeometry x="72" y="774.5" width="10" height="65.5" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-17" value="&amp;lt;&amp;lt;MQ&amp;gt;&amp;gt;&lt;div&gt;Launcher&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;PLARD&lt;/span&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
           <mxGeometry x="710" y="76" width="160" height="1944" as="geometry" />
@@ -142,30 +99,6 @@
         <mxCell id="nctrB8vf493KiRFq7X1_-57" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt;&amp;lt;Altair 390&amp;gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;font color=&quot;#000000&quot;&gt;PAMPA&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
           <mxGeometry x="1430.25" y="76" width="162" height="2114" as="geometry" />
         </mxCell>
-        <mxCell id="nctrB8vf493KiRFq7X1_-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="nctrB8vf493KiRFq7X1_-12" source="nctrB8vf493KiRFq7X1_-18" target="nctrB8vf493KiRFq7X1_-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="313.02000000000004" y="407.02" as="sourcePoint" />
-            <mxPoint x="313.02000000000004" y="447.02" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="498" y="407" />
-              <mxPoint x="498" y="447" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nctrB8vf493KiRFq7X1_-59" value="Valida BIN de la&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Tarjeta&lt;/span&gt;&lt;div&gt;[6 DIGITOS INICIO]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="nctrB8vf493KiRFq7X1_-58" vertex="1" connectable="0">
-          <mxGeometry x="-0.0083" y="-2" relative="1" as="geometry">
-            <mxPoint x="-84" y="-33" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nctrB8vf493KiRFq7X1_-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" source="nctrB8vf493KiRFq7X1_-14" target="nctrB8vf493KiRFq7X1_-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="302" y="202" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="250" y="202" />
-              <mxPoint x="250" y="202" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-63" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Ingresa tarjeta a ATM&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1" connectable="0">
           <mxGeometry x="210" y="189.00241379310376" as="geometry">
             <mxPoint x="-13" y="5" as="offset" />
@@ -180,21 +113,6 @@
               <mxPoint x="331.56" y="429.52" />
               <mxPoint x="321.56" y="439.52" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nctrB8vf493KiRFq7X1_-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="nctrB8vf493KiRFq7X1_-12" source="nctrB8vf493KiRFq7X1_-18" target="nctrB8vf493KiRFq7X1_-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="313.02" y="486.24" as="sourcePoint" />
-            <mxPoint x="313.02" y="516.24" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="498" y="486" />
-              <mxPoint x="498" y="516" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nctrB8vf493KiRFq7X1_-66" value="Consulta tabla de BINES&lt;div&gt;(Actualizacion diaria&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Proceso manual)&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="nctrB8vf493KiRFq7X1_-65" vertex="1" connectable="0">
-          <mxGeometry x="-0.0246" y="2" relative="1" as="geometry">
-            <mxPoint x="-93" y="-25" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="nctrB8vf493KiRFq7X1_-12" source="nctrB8vf493KiRFq7X1_-18" target="nctrB8vf493KiRFq7X1_-18" edge="1">
@@ -238,21 +156,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nctrB8vf493KiRFq7X1_-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="nctrB8vf493KiRFq7X1_-12" source="nctrB8vf493KiRFq7X1_-18" target="nctrB8vf493KiRFq7X1_-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="314" y="542.24" as="sourcePoint" />
-            <mxPoint x="314" y="572.24" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="499" y="542" />
-              <mxPoint x="499" y="572" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nctrB8vf493KiRFq7X1_-73" value="Valida origen de la tarjeta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="nctrB8vf493KiRFq7X1_-72" vertex="1" connectable="0">
-          <mxGeometry x="-0.0246" y="2" relative="1" as="geometry">
-            <mxPoint x="-94" y="-18" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-74" value="&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;&lt;li style=&quot;margin-left: 0cm;&quot; class=&quot;MsoListParagraph&quot;&gt;PAN&lt;/li&gt;&lt;li style=&quot;margin-left: 0cm;&quot; class=&quot;MsoListParagraph&quot;&gt;TIPO TARJETA = TDD&lt;/li&gt;&lt;li style=&quot;margin-left: 0cm;&quot; class=&quot;MsoListParagraph&quot;&gt;BIN&lt;/li&gt;&lt;li style=&quot;margin-left: 0cm;&quot; class=&quot;MsoListParagraph&quot;&gt;Origen&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;fontSize=6;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
           <mxGeometry x="187" y="578" width="110" height="26.5" as="geometry" />
         </mxCell>
@@ -266,24 +169,6 @@
               <mxPoint x="320" y="290" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="nctrB8vf493KiRFq7X1_-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.502;exitY=0.318;exitDx=0;exitDy=0;exitPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="307.3800000000001" y="695.3719999999994" as="sourcePoint" />
-            <mxPoint x="304.6428571428569" y="746" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="504" y="695" />
-              <mxPoint x="504" y="746" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nctrB8vf493KiRFq7X1_-80" value="Valida BIN Excento de comision&lt;div&gt;BIN = origen de la tarjeta == Grupo Santander Internacional&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="nctrB8vf493KiRFq7X1_-79" vertex="1" connectable="0">
-          <mxGeometry x="-0.0246" y="2" relative="1" as="geometry">
-            <mxPoint x="-162" y="-38" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nctrB8vf493KiRFq7X1_-81" value="alt&lt;div style=&quot;font-size: 5px;&quot;&gt;&lt;font style=&quot;font-size: 5px;&quot;&gt;TARJETA SANTANDER INTERNACIONAL&lt;/font&gt;&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
-          <mxGeometry x="30" y="605" width="1562.25" height="1105" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-99" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt;&amp;lt;MQ CANAL&amp;gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;font color=&quot;#000000&quot;&gt;MQ&amp;nbsp;&lt;/font&gt;OPEN" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;fillColor=#ffcccc;strokeColor=#B85450;labelBorderColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
           <mxGeometry x="1245" y="76" width="162" height="2124" as="geometry" />
@@ -376,7 +261,7 @@
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-39" value="Obtiene informacion de la tarjeta del cliente" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="nctrB8vf493KiRFq7X1_-37" vertex="1" connectable="0">
           <mxGeometry x="0.1847" relative="1" as="geometry">
-            <mxPoint x="-122" y="-720" as="offset" />
+            <mxPoint x="-148" y="-774" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0.517;entryY=0.857;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.504;exitY=0.853;exitDx=0;exitDy=0;exitPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" edge="1">
@@ -397,7 +282,7 @@
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-50" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFD966;" parent="nctrB8vf493KiRFq7X1_-49" vertex="1" connectable="0">
           <mxGeometry x="-0.0246" y="2" relative="1" as="geometry">
-            <mxPoint x="-72" y="3" as="offset" />
+            <mxPoint x="-74" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.503;exitY=0.905;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.493;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" edge="1">
@@ -409,10 +294,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pCUDI1BJ3AaRnasVNfEv-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.856;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.852;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" edge="1">
+        <mxCell id="pCUDI1BJ3AaRnasVNfEv-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.852;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="234" y="1676.6200000000003" as="sourcePoint" />
-            <mxPoint x="1596.25" y="1672.9999999999995" as="targetPoint" />
+            <mxPoint x="10.000000000000114" y="1652.5349999999999" as="sourcePoint" />
+            <mxPoint x="1596.25" y="1651.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pCUDI1BJ3AaRnasVNfEv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.5;exitY=0.631;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.499;entryY=0.646;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" edge="1">
@@ -436,21 +321,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pCUDI1BJ3AaRnasVNfEv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.5;exitY=0.678;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.062;entryY=0.67;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="nctrB8vf493KiRFq7X1_-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="311" y="1465.812" as="sourcePoint" />
-            <mxPoint x="114.61999999999989" y="1467.33" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="254" y="1466" />
-              <mxPoint x="254" y="1467" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pCUDI1BJ3AaRnasVNfEv-15" value="&lt;span style=&quot;&quot;&gt;Muestra menú RED&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;ATM&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="pCUDI1BJ3AaRnasVNfEv-14" vertex="1" connectable="0">
-          <mxGeometry x="-0.0083" y="-2" relative="1" as="geometry">
-            <mxPoint x="-35" y="-13" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pCUDI1BJ3AaRnasVNfEv-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.717;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.001;entryY=0.717;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" source="nctrB8vf493KiRFq7X1_-33" target="nctrB8vf493KiRFq7X1_-33" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="245.95999999999978" y="1493.504" as="sourcePoint" />
@@ -472,34 +342,19 @@
             <mxPoint x="-58" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pCUDI1BJ3AaRnasVNfEv-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.495;exitY=0.745;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.055;entryY=0.741;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="nctrB8vf493KiRFq7X1_-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310.0500000000002" y="1596.7299999999996" as="sourcePoint" />
-            <mxPoint x="114.55000000000018" y="1595.059000000001" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="255" y="1597" />
-              <mxPoint x="255" y="1595" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pCUDI1BJ3AaRnasVNfEv-23" value="&lt;span style=&quot;&quot;&gt;Muestra menú RED&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;ATM&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="pCUDI1BJ3AaRnasVNfEv-22" vertex="1" connectable="0">
-          <mxGeometry x="-0.0083" y="-2" relative="1" as="geometry">
-            <mxPoint x="-35" y="-13" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pCUDI1BJ3AaRnasVNfEv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.5;exitY=0.82;exitDx=0;exitDy=0;exitPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="311" y="1752.2799999999988" as="sourcePoint" />
-            <mxPoint x="308.6428571428569" y="1781.1428571428569" as="targetPoint" />
+            <mxPoint x="309" y="1725.2799999999988" as="sourcePoint" />
+            <mxPoint x="306.6428571428569" y="1754.1428571428569" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="516" y="1752" />
-              <mxPoint x="516" y="1781" />
+              <mxPoint x="514" y="1725" />
+              <mxPoint x="514" y="1754" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pCUDI1BJ3AaRnasVNfEv-25" value="Consulta informacion del cliente" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="pCUDI1BJ3AaRnasVNfEv-24" vertex="1" connectable="0">
           <mxGeometry x="-0.0246" y="2" relative="1" as="geometry">
-            <mxPoint x="-101" y="66" as="offset" />
+            <mxPoint x="-104" y="93" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.496;exitY=0.868;exitDx=0;exitDy=0;exitPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" edge="1">
@@ -517,35 +372,11 @@
             <mxPoint x="34" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pCUDI1BJ3AaRnasVNfEv-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.498;exitY=0.887;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.513;entryY=0.886;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="901" y="1911" />
-            </Array>
-            <mxPoint x="793.6799999999998" y="1911.3280000000013" as="sourcePoint" />
-            <mxPoint x="969.0799999999999" y="1910.384" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pCUDI1BJ3AaRnasVNfEv-44" value="&lt;span style=&quot;&quot;&gt;Envía petición&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;de consulta&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="pCUDI1BJ3AaRnasVNfEv-43" vertex="1" connectable="0">
-          <mxGeometry x="-0.3279" relative="1" as="geometry">
-            <mxPoint x="31" y="-10" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pCUDI1BJ3AaRnasVNfEv-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.483;exitY=0.812;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.021;entryY=0.046;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" target="pCUDI1BJ3AaRnasVNfEv-51" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="969.2800000000002" y="1911.688" as="sourcePoint" />
             <mxPoint x="1144" y="1912" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nctrB8vf493KiRFq7X1_-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=-0.017;exitY=0.972;exitDx=0;exitDy=0;exitPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" source="nctrB8vf493KiRFq7X1_-36" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="972" y="2094" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nctrB8vf493KiRFq7X1_-42" value="Envia informacion del cliente" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nctrB8vf493KiRFq7X1_-41" vertex="1" connectable="0">
-          <mxGeometry x="0.3975" y="1" relative="1" as="geometry">
-            <mxPoint x="103" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pCUDI1BJ3AaRnasVNfEv-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.501;exitY=0.945;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.498;entryY=0.957;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" edge="1">
@@ -564,26 +395,8 @@
             <mxPoint x="-76" y="-567" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pCUDI1BJ3AaRnasVNfEv-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.498;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310.6199999999999" y="2263.7219999999998" as="sourcePoint" />
-            <mxPoint x="110" y="2208" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="311" y="2208" />
-              <mxPoint x="111" y="2208" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pCUDI1BJ3AaRnasVNfEv-77" value="Solicita NIP de la tarjeta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="pCUDI1BJ3AaRnasVNfEv-76" vertex="1" connectable="0">
-          <mxGeometry x="-0.0083" y="-2" relative="1" as="geometry">
-            <mxPoint x="-63" y="-8" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pCUDI1BJ3AaRnasVNfEv-42" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=#E8A6A6;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
           <mxGeometry x="622" y="1834" width="10" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="pCUDI1BJ3AaRnasVNfEv-45" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=#E8A6A6;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
-          <mxGeometry x="794" y="1870" width="10" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pCUDI1BJ3AaRnasVNfEv-51" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=#E8A6A6;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
           <mxGeometry x="1147" y="1909" width="10" height="49" as="geometry" />
@@ -592,13 +405,13 @@
           <mxGeometry x="1325" y="1953" width="10" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-33" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;alt&lt;/font&gt;&lt;div style=&quot;font-size: 5px;&quot;&gt;&lt;font style=&quot;font-size: 5px;&quot;&gt;&lt;font style=&quot;font-size: 5px;&quot;&gt;Excepción de pago de&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;comisión&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
-          <mxGeometry x="244" y="1133" width="346.75" height="502" as="geometry" />
+          <mxGeometry x="210" y="1133" width="380.75" height="502" as="geometry" />
         </mxCell>
         <mxCell id="pCUDI1BJ3AaRnasVNfEv-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;else&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
-          <mxGeometry x="255.75" y="1683.0000000000002" width="49.25" height="40" as="geometry" />
+          <mxGeometry x="20" y="1658.0000000000002" width="49.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pCUDI1BJ3AaRnasVNfEv-6" value="&lt;h1 style=&quot;text-align: left; margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;BIN = Tarjeta Santander Nacional&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
-          <mxGeometry x="314" y="1701" width="180" height="18" as="geometry" />
+          <mxGeometry x="316" y="1680" width="180" height="18" as="geometry" />
         </mxCell>
         <mxCell id="pCUDI1BJ3AaRnasVNfEv-18" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;else&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
           <mxGeometry x="255.75" y="1491" width="49.25" height="28" as="geometry" />
@@ -618,7 +431,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pCUDI1BJ3AaRnasVNfEv-64" value="Valida informacion de tarjeta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1" connectable="0">
-          <mxGeometry x="414" y="1743.0033263956648" as="geometry" />
+          <mxGeometry x="412" y="1716.0033263956648" as="geometry" />
         </mxCell>
         <mxCell id="pCUDI1BJ3AaRnasVNfEv-65" value="Obtiene informacion del cliente" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nctrB8vf493KiRFq7X1_-12" vertex="1" connectable="0">
           <mxGeometry x="504.0020735861583" y="2105.998801330854" as="geometry">
@@ -629,10 +442,7 @@
           <mxGeometry x="405.9966666666666" y="2172.9966662332026" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-97" value="&lt;div&gt;REFERENCIA CU002&lt;/div&gt;&lt;div&gt;FIN FUNCIONALIDAD&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;fontSize=6;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
-          <mxGeometry x="122" y="2218" width="80" height="24.5" as="geometry" />
-        </mxCell>
-        <mxCell id="nctrB8vf493KiRFq7X1_-36" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};verticalAlign=top;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
-          <mxGeometry x="1514.25" y="1991" width="10" height="106" as="geometry" />
+          <mxGeometry x="100" y="2215.5" width="80" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="pCUDI1BJ3AaRnasVNfEv-46" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=default;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
           <mxGeometry x="964" y="1896" width="10" height="210" as="geometry" />
@@ -660,55 +470,238 @@
             <mxPoint x="1508.0880000000002" y="1070.1759999999995" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5DmThwKaOj8gvai7ZJwh-11" value="Envia informacion del cliente" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5DmThwKaOj8gvai7ZJwh-10" vertex="1" connectable="0">
+        <mxCell id="5DmThwKaOj8gvai7ZJwh-11" value="Envia informacion del RIBs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5DmThwKaOj8gvai7ZJwh-10" vertex="1" connectable="0">
           <mxGeometry x="0.3975" y="1" relative="1" as="geometry">
             <mxPoint x="45" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pCUDI1BJ3AaRnasVNfEv-32" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=#E8A6A6;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
+          <mxGeometry x="626" y="788.5" width="10" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="nctrB8vf493KiRFq7X1_-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
+          <mxGeometry x="85.5" y="189" width="10" height="2051" as="geometry" />
+        </mxCell>
+        <mxCell id="pCUDI1BJ3AaRnasVNfEv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.5;exitY=0.678;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" parent="nctrB8vf493KiRFq7X1_-12" edge="1" target="nctrB8vf493KiRFq7X1_-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="311" y="1465.812" as="sourcePoint" />
+            <mxPoint x="114.61999999999989" y="1467.33" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="254" y="1466" />
+              <mxPoint x="254" y="1467" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pCUDI1BJ3AaRnasVNfEv-15" value="&lt;span style=&quot;&quot;&gt;Muestra menú RED&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;ATM&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="pCUDI1BJ3AaRnasVNfEv-14" vertex="1" connectable="0">
+          <mxGeometry x="-0.0083" y="-2" relative="1" as="geometry">
+            <mxPoint x="-53" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pCUDI1BJ3AaRnasVNfEv-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.5;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" edge="1" target="nctrB8vf493KiRFq7X1_-13" source="nctrB8vf493KiRFq7X1_-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310.6199999999999" y="2263.7219999999998" as="sourcePoint" />
+            <mxPoint x="110" y="2208" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="2209" />
+              <mxPoint x="270" y="2208" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pCUDI1BJ3AaRnasVNfEv-77" value="Solicita NIP de la tarjeta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="pCUDI1BJ3AaRnasVNfEv-76" vertex="1" connectable="0">
+          <mxGeometry x="-0.0083" y="-2" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nctrB8vf493KiRFq7X1_-81" value="alt&lt;div style=&quot;font-size: 5px;&quot;&gt;&lt;font style=&quot;font-size: 5px;&quot;&gt;TARJETA SANTANDER INTERNACIONAL&lt;/font&gt;&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
+          <mxGeometry x="10" y="605" width="1582.25" height="1175" as="geometry" />
+        </mxCell>
+        <mxCell id="0MKC2kMee8wcmqNdDVME-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.5;exitY=0.678;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;entryX=0.506;entryY=0.702;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="nctrB8vf493KiRFq7X1_-12" target="nctrB8vf493KiRFq7X1_-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="307" y="1595.0020000000004" as="sourcePoint" />
+            <mxPoint x="87" y="1596.1900000000005" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="1595" />
+              <mxPoint x="250" y="1597" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0MKC2kMee8wcmqNdDVME-6" value="&lt;span style=&quot;&quot;&gt;Muestra menú RED&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;ATM&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="0MKC2kMee8wcmqNdDVME-5">
+          <mxGeometry x="-0.0083" y="-2" relative="1" as="geometry">
+            <mxPoint x="-49" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pCUDI1BJ3AaRnasVNfEv-62" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
+          <mxGeometry x="295" y="184" width="10" height="2046" as="geometry" />
+        </mxCell>
+        <mxCell id="nctrB8vf493KiRFq7X1_-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" source="nctrB8vf493KiRFq7X1_-14" target="nctrB8vf493KiRFq7X1_-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="302" y="202" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="202" />
+              <mxPoint x="250" y="202" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nctrB8vf493KiRFq7X1_-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.503;exitY=0.469;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.502;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" source="nctrB8vf493KiRFq7X1_-99" edge="1" target="nctrB8vf493KiRFq7X1_-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1329.676" y="1069.0159999999996" as="sourcePoint" />
+            <mxPoint x="314" y="1068" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="1072" />
+              <mxPoint x="310" y="1073" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nctrB8vf493KiRFq7X1_-95" value="Obtiene informacion Valida informacion solicitada de RIBs&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nctrB8vf493KiRFq7X1_-94" vertex="1" connectable="0">
+          <mxGeometry x="0.1847" relative="1" as="geometry">
+            <mxPoint x="63" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5DmThwKaOj8gvai7ZJwh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.506;exitY=0.404;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.494;entryY=0.399;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" source="nctrB8vf493KiRFq7X1_-54" target="nctrB8vf493KiRFq7X1_-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1508.25" y="938" as="sourcePoint" />
+            <mxPoint x="304" y="938" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="308" y="934" />
+              <mxPoint x="308" y="935" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5DmThwKaOj8gvai7ZJwh-3" value="Valida informacion de la tarjeta del cliente" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5DmThwKaOj8gvai7ZJwh-2" vertex="1" connectable="0">
+          <mxGeometry x="0.1847" relative="1" as="geometry">
+            <mxPoint x="2" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nctrB8vf493KiRFq7X1_-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.502;exitY=0.318;exitDx=0;exitDy=0;exitPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="307.3800000000001" y="695.3719999999994" as="sourcePoint" />
+            <mxPoint x="304.6428571428569" y="746" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="504" y="695" />
+              <mxPoint x="504" y="746" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nctrB8vf493KiRFq7X1_-80" value="Valida BIN == PLARD" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="nctrB8vf493KiRFq7X1_-79" vertex="1" connectable="0">
+          <mxGeometry x="-0.0246" y="2" relative="1" as="geometry">
+            <mxPoint x="-162" y="-28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nctrB8vf493KiRFq7X1_-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="nctrB8vf493KiRFq7X1_-12" source="nctrB8vf493KiRFq7X1_-18" target="nctrB8vf493KiRFq7X1_-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="314" y="542.24" as="sourcePoint" />
+            <mxPoint x="314" y="572.24" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="499" y="542" />
+              <mxPoint x="499" y="572" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nctrB8vf493KiRFq7X1_-73" value="Valida origen de la tarjeta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="nctrB8vf493KiRFq7X1_-72" vertex="1" connectable="0">
+          <mxGeometry x="-0.0246" y="2" relative="1" as="geometry">
+            <mxPoint x="-94" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nctrB8vf493KiRFq7X1_-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="nctrB8vf493KiRFq7X1_-12" source="nctrB8vf493KiRFq7X1_-18" target="nctrB8vf493KiRFq7X1_-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="313.02" y="486.24" as="sourcePoint" />
+            <mxPoint x="313.02" y="516.24" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="498" y="486" />
+              <mxPoint x="498" y="516" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nctrB8vf493KiRFq7X1_-66" value="Consulta tabla de BINES&lt;div&gt;(Actualizacion diaria&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Proceso manual)&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="nctrB8vf493KiRFq7X1_-65" vertex="1" connectable="0">
+          <mxGeometry x="-0.0246" y="2" relative="1" as="geometry">
+            <mxPoint x="-93" y="-25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nctrB8vf493KiRFq7X1_-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="nctrB8vf493KiRFq7X1_-12" source="nctrB8vf493KiRFq7X1_-18" target="nctrB8vf493KiRFq7X1_-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="313.02000000000004" y="407.02" as="sourcePoint" />
+            <mxPoint x="313.02000000000004" y="447.02" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="498" y="407" />
+              <mxPoint x="498" y="447" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nctrB8vf493KiRFq7X1_-59" value="Valida BIN de la&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Tarjeta&lt;/span&gt;&lt;div&gt;[6 DIGITOS INICIO]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="nctrB8vf493KiRFq7X1_-58" vertex="1" connectable="0">
+          <mxGeometry x="-0.0083" y="-2" relative="1" as="geometry">
+            <mxPoint x="-84" y="-33" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pCUDI1BJ3AaRnasVNfEv-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.498;exitY=0.887;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.513;entryY=0.886;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="901" y="1911" />
+            </Array>
+            <mxPoint x="793.6799999999998" y="1911.3280000000013" as="sourcePoint" />
+            <mxPoint x="969.0799999999999" y="1910.384" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pCUDI1BJ3AaRnasVNfEv-44" value="&lt;span style=&quot;&quot;&gt;Envía petición&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;de consulta&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="pCUDI1BJ3AaRnasVNfEv-43" vertex="1" connectable="0">
+          <mxGeometry x="-0.3279" relative="1" as="geometry">
+            <mxPoint x="31" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pCUDI1BJ3AaRnasVNfEv-45" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=#E8A6A6;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
+          <mxGeometry x="794" y="1870" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nctrB8vf493KiRFq7X1_-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=-0.017;exitY=0.972;exitDx=0;exitDy=0;exitPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" source="nctrB8vf493KiRFq7X1_-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="972" y="2094" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nctrB8vf493KiRFq7X1_-42" value="Envia informacion del cliente" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nctrB8vf493KiRFq7X1_-41" vertex="1" connectable="0">
+          <mxGeometry x="0.3975" y="1" relative="1" as="geometry">
+            <mxPoint x="103" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-1" value="MODELO FUNCIONAL DE SECUENCIA - PLARD / ATM : CONSULTA DE DATOS DE TARJETA DEL CLIENTE" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#FFFFFF;strokeColor=default;fontColor=#000000;fontSize=16;fontStyle=1;labelBackgroundColor=default;" parent="1" vertex="1">
-          <mxGeometry x="40" y="9503" width="1760" height="79" as="geometry" />
+          <mxGeometry x="10" y="9503" width="1790" height="79" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-2" value="&lt;img alt=&quot;&quot; src=&quot;data:image/png;base64,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&quot; style=&quot;font-size: 10px;&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="140" y="9542.5" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-5" value="Funcionalidad" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fillColor=#BAC8D3;fontColor=#ffffff;strokeColor=#BAC8D3;" parent="1" vertex="1">
-          <mxGeometry x="40.00000000000006" y="8860" width="443.5" height="41" as="geometry" />
+          <mxGeometry x="10.000000000000057" y="8862" width="443.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-131" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Escenario 1:&amp;nbsp;Identifica información de la tarjeta del cliente&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;El Cajero automático ATM identifica a través del PAN de la tarjeta la información origen de la tarjeta&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;del cliente&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;a través del BIN si es una tarjeta registrada activa en PLARD.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 13px; background-color: initial; border-color: var(--border-color); text-indent: -24px;&quot;&gt;1. BIN == PLARD&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 13px; background-color: initial; border-color: var(--border-color); text-indent: -24px;&quot;&gt;2. Origen de la tarjeta = [Nacional || Internacional]&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Dado que un cliente ha insertado su tarjeta en el cajero automático,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;cuando el sistema intente consultar la información de la tarjeta del cliente a través del PAN,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;entonces el ATM deberá validar los datos de la tarjeta (PAN, BIN, tipo de tarjeta y origen) correspondiente para autorizar al cliente a realizar las operaciones.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="530" y="8903" width="440" height="197" as="geometry" />
+          <mxGeometry x="500" y="8903" width="440" height="197" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-132" value="Escenarios" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BAC8D3;strokeColor=#BAC8D3;fontColor=#ffffff;fontSize=15;fontStyle=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="530" y="8862" width="440" height="39" as="geometry" />
+          <mxGeometry x="500" y="8862" width="440" height="39" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-133" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Escenario 2:&amp;nbsp;Valida excepción de pago de comisión por uso de ATM&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;El ATM realiza la validación para excepcionar el pago de comisión en tabla de RIBs por uso de cajero automática para Clientes Internacionales del Grupo Santander a través del consumo de la API &lt;b&gt;DebitCardRIBs &lt;/b&gt;&amp;nbsp;o una transacción (trx) del core bancario, de acuerdo a la solicitud realizada.&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;&lt;span style=&quot;background-color: initial; font-size: 13px; border-color: var(--border-color); text-indent: -24px;&quot;&gt;3. BIN PLARD = Tarjeta Grupo Santander Internacional &amp;amp;&amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 13px; border-color: var(--border-color); text-indent: -24px;&quot;&gt;RIBs TABLE == BIN existente --&amp;gt; Sin pago comisión&lt;/span&gt;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;i&gt;&lt;span style=&quot;background-color: initial; border-color: var(--border-color); text-indent: -24px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; text-indent: -24px;&quot;&gt;Dado que el cliente desea realizar una operación en el cajero automático, cuando el cajero valide si el cliente cumple con las condiciones necesarias para exentar el cobro de comisiones según las políticas del banco, entonces deberá la plataforma PLARD deberá validar la información de la tarjeta del cliente si se aplicará o no una comisión por la operación y, de ser así, deberá enviar en pantalla del ATM el menú la cadena RED ATM para validar las operaciones del usuario&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="530" y="9100" width="440" height="197" as="geometry" />
+          <mxGeometry x="500" y="9100" width="440" height="197" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-134" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Escenario 3:&amp;nbsp;Obtiene información de la tarjeta del cliente&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;El ATM extrae la información de la TDD del cliente una vez siendo identificado como Cliente externo o de Grupo Santander &lt;span style=&quot;background-color: initial;&quot;&gt;a través del consumo de la API DebitCardRIBs o una transacción (trx) del core bancario,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;para poder continuar con las operaciones deseadas por cliente dentro del flujo operativo de ATM.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 9px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Dado que el cliente ha sido autenticado exitosamente, cuándo&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;el cajero obtenga los datos del cliente a través del sistema bancario,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;entonces el ATM deberá consultar los detalles de la información del cliente antes de proceder con cualquier operación.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="530" y="9297" width="440" height="197" as="geometry" />
+          <mxGeometry x="500" y="9297" width="440" height="197" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-135" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1011" y="8901" width="309" height="589" as="geometry" />
+          <mxGeometry x="991" y="8901" width="309" height="589" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-136" value="Transacciones Altair" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BAC8D3;strokeColor=#BAC8D3;fontColor=#ffffff;fontSize=15;fontStyle=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="8860" width="310" height="39" as="geometry" />
+          <mxGeometry x="990" y="8860" width="310" height="39" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-137" value="LM88 (PAMPA)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;verticalAlign=top;fillColor=#EEEEEE;strokeColor=#EEEEEE;" parent="1" vertex="1">
-          <mxGeometry x="1028" y="9220" width="274" height="39" as="geometry" />
+          <mxGeometry x="1008" y="9220" width="274" height="39" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-138" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Campo&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px; -webkit-tap-highlight-color: transparent; color: rgb(60, 64, 67); font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; background-color: rgb(245, 245, 245);&quot; class=&quot;jCAhz&quot;&gt;&lt;span style=&quot;-webkit-tap-highlight-color: transparent;&quot; class=&quot;ryNqvb&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;-&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;* PAN (NUMERO DE TARJETA)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- CLIENTE&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;(NUMERO DE CLIENTE)&lt;/div&gt;&lt;div&gt;- CODPART (CODIGO DE PARTICIPA)&lt;/div&gt;&lt;div&gt;- ORDPART (ORDEN DE PARTICIPAA)&lt;/div&gt;&lt;div&gt;- CODENT (ENTIDAD)&lt;/div&gt;&lt;div&gt;- CODOFI (SUCURSAL CTA CHQ)&lt;/div&gt;&lt;div&gt;- CUENTA (CUENTA CHEQUES)&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1028" y="9260" width="274" height="198" as="geometry" />
+          <mxGeometry x="1008" y="9260" width="274" height="198" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-139" value="LMCH (PAMPA)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;verticalAlign=top;fillColor=#EEEEEE;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1028.5" y="8930" width="274" height="39" as="geometry" />
+          <mxGeometry x="1008.5" y="8930" width="274" height="39" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-140" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Campos&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- * NUMPANX (NUMERO DEL PAN)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- CODIDIO (IDIOMA)&lt;/div&gt;&lt;div&gt;- DESIDIO (DESCRIPCION IDIOMA)&lt;/div&gt;&lt;div&gt;- CODPAIS (CODIGO DEL PAIS)&lt;/div&gt;&lt;div&gt;- DESPAIS (DESCRIPCION DEL PAIS)&lt;/div&gt;&lt;div&gt;- CODMARC (CODIGO DE MARCA)&lt;/div&gt;&lt;div&gt;- DESMARC (DESCRIPCION MARCA)&lt;/div&gt;&lt;div&gt;- TIPTARJ (TIPO DE TARJETA)&lt;/div&gt;&lt;div&gt;- DESTARJ (DESCRIPCION TP TARJE)&lt;/div&gt;&lt;div&gt;- ADICIO1 (ADICIONAL 1)&lt;/div&gt;&lt;div&gt;- ADICIO2 ADICIONAL 2)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1028.5" y="8970" width="274" height="198" as="geometry" />
+          <mxGeometry x="1008.5" y="8970" width="274" height="198" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-141" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="41.75" y="8903" width="440" height="587" as="geometry" />
+          <mxGeometry x="11.75" y="8905" width="440" height="587" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-142" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;Funcionalidad:&lt;/b&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Consulta de datos de tarjetas del cliente desde ATM Santander.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;COMO&amp;nbsp; canal de cajeros automáticos QUIERO consultar la información de la tarjeta física de un cliente que ingrese su dispositivo (Tarjeta) al medio ATM.PARA validar la identidad del usuario y cobro o excepción de comisión por uso del ATM.&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Alcance&lt;/b&gt;: La funcionalidad aplica para:&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tarjeta de débito (TDD)&amp;nbsp;de Clientes con Cuentas Aperturadas.&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tarjeta de débito (TDD) así como las cuentas de cheques asociadas a estas&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Tarjeta de débito (TDD) que estén o no migradas a la Plataforma de PLARD CLOUD / NO PAMPA&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PLARD MVP 2 (Minimum Vialable Product)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Precondición&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-top:0cm&quot;&gt;&lt;li style=&quot;margin-left:-18.0pt;mso-list:l0 level1 lfo1&quot; class=&quot;Default&quot;&gt;&lt;span style=&quot;font-size:8.0pt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-ligatures:standardcontextual;&lt;br/&gt;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;&lt;div style=&quot;font-family: Helvetica; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 8pt; background-color: initial;&quot;&gt;Cliente TDD Santander cuente con una tarjeta física de débito&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin-left:-18.0pt;mso-list:l0 level1 lfo1&quot; class=&quot;Default&quot;&gt;&lt;div style=&quot;font-family: Helvetica; font-size: 12px;&quot;&gt;Tarjeta de debito TDD se encentra activa en PLARD&lt;/div&gt;&lt;/li&gt;&lt;li style=&quot;margin-left:-18.0pt;mso-list:l0 level1 lfo1&quot; class=&quot;Default&quot;&gt;&lt;div style=&quot;font-family: Helvetica; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 8pt; background-color: initial;&quot;&gt;Cliente TDD Santander inserta tarjeta física de débito en la ranura ATM Santander.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Postcondición&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;ul style=&quot;margin-top: 0cm;&quot; type=&quot;disc&quot;&gt;&lt;li style=&quot;margin-left: -18pt;&quot; class=&quot;Default&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;ATM Santander valida tarjeta física de débito&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin-left: -18pt;&quot; class=&quot;Default&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;ATM exenta comisión para tarjetas del grupo Santander.&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin-left: -18pt;&quot; class=&quot;Default&quot;&gt;ATM muestra menú de RED para tarjetas externas a Grupo Santander.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;Reglas de Negocio:&lt;/b&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;•&amp;nbsp;&lt;i style=&quot;background-color: initial;&quot;&gt;Reglas&amp;nbsp;para la agrupación de los archivos:&lt;br&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color); text-indent: -24px;&quot;&gt;[]&lt;/b&gt;&amp;nbsp;PAN - (Numeración del dispositivo fisico &quot;tarjeta) 16 Dígitos TDD&lt;/font&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color); text-indent: -24px;&quot;&gt;[]&lt;/b&gt;&amp;nbsp;BIN - 6 Dígitos iniciales del PAN&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color); text-indent: -24px;&quot;&gt;[]&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;RIB -&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#EEEEEE;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="56.75" y="8911" width="413.25" height="529" as="geometry" />
+          <mxGeometry x="26.75" y="8913" width="413.25" height="529" as="geometry" />
         </mxCell>
         <mxCell id="f5v7L8ivjZZMmViwqrjB-188" value="API PLARD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BAC8D3;strokeColor=#BAC8D3;fontColor=#ffffff;fontSize=15;fontStyle=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1350" y="8859" width="450" height="39" as="geometry" />
