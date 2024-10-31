@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.3" pages="2">
   <diagram name="ATM Consulta Datos Tarjeta - Secuencia" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="3497" dy="-6060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2614" dy="-6607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1009,7 +1009,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e3NCDMCvRsL2zf-5tcVL-788" value="Request: GET &#xa;/v3/devices/details" style="shape=table;startSize=40;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;fillColor=#BAC8D3;fontColor=#333333;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1225.5" y="8458" width="430" height="180" as="geometry" />
+          <mxGeometry x="1225.5" y="8464" width="430" height="180" as="geometry" />
         </mxCell>
         <mxCell id="e3NCDMCvRsL2zf-5tcVL-789" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="e3NCDMCvRsL2zf-5tcVL-788" vertex="1">
           <mxGeometry y="40" width="430" height="70" as="geometry" />
@@ -1068,10 +1068,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e3NCDMCvRsL2zf-5tcVL-837" value="API PLARD&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 12px; text-wrap: nowrap;&quot;&gt;[Life Cycle services]&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;verticalAlign=top;fillColor=#D1E1ED;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1225.5" y="8418" width="430" height="39" as="geometry" />
+          <mxGeometry x="1225.5" y="8416" width="430" height="47" as="geometry" />
         </mxCell>
         <mxCell id="e3NCDMCvRsL2zf-5tcVL-838" value="Responce: GET&#xa;/v3/devices/details" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;fillColor=#BAC8D3;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1225.5" y="8638" width="430" height="378" as="geometry" />
+          <mxGeometry x="1225.5" y="8644" width="430" height="378" as="geometry" />
         </mxCell>
         <mxCell id="e3NCDMCvRsL2zf-5tcVL-839" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="e3NCDMCvRsL2zf-5tcVL-838" vertex="1">
           <mxGeometry y="30" width="430" height="50" as="geometry" />
@@ -1270,7 +1270,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e3NCDMCvRsL2zf-5tcVL-925" value="Request:" style="shape=table;startSize=40;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;fillColor=#BAC8D3;fontColor=#333333;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="775.5" y="8458" width="430" height="180" as="geometry" />
+          <mxGeometry x="775.5" y="8464" width="430" height="180" as="geometry" />
         </mxCell>
         <mxCell id="e3NCDMCvRsL2zf-5tcVL-926" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="e3NCDMCvRsL2zf-5tcVL-925" vertex="1">
           <mxGeometry y="40" width="430" height="70" as="geometry" />
@@ -1329,10 +1329,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e3NCDMCvRsL2zf-5tcVL-938" value="API PLARD&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 12px; text-wrap: nowrap;&quot;&gt;[TBD RIBS]&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="775.5" y="8418" width="430" height="39" as="geometry" />
+          <mxGeometry x="775.5" y="8416" width="430" height="47" as="geometry" />
         </mxCell>
         <mxCell id="e3NCDMCvRsL2zf-5tcVL-939" value="Responce:" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;fillColor=#BAC8D3;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="775.5" y="8638" width="430" height="130" as="geometry" />
+          <mxGeometry x="775.5" y="8644" width="430" height="130" as="geometry" />
         </mxCell>
         <mxCell id="e3NCDMCvRsL2zf-5tcVL-940" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="e3NCDMCvRsL2zf-5tcVL-939" vertex="1">
           <mxGeometry y="30" width="430" height="50" as="geometry" />
