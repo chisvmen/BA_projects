@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.3" pages="2">
   <diagram name="ATM Consulta Datos Tarjeta - Secuencia" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1222" dy="-6943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="756" dy="-7231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1601,7 +1601,7 @@
             <mxRectangle width="60" height="24" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e3NCDMCvRsL2zf-5tcVL-996" value="E/S" style="shape=table;startSize=22;container=1;collapsible=0;childLayout=tableLayout;fontSize=10;fontStyle=1;fillColor=#BAC8D3;strokeColor=default;" parent="1" vertex="1">
+        <mxCell id="e3NCDMCvRsL2zf-5tcVL-996" value="SALIDA" style="shape=table;startSize=22;container=1;collapsible=0;childLayout=tableLayout;fontSize=10;fontStyle=1;fillColor=#BAC8D3;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="809" y="7947" width="300" height="277" as="geometry" />
         </mxCell>
         <mxCell id="e3NCDMCvRsL2zf-5tcVL-997" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=default;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;" parent="e3NCDMCvRsL2zf-5tcVL-996" vertex="1">
