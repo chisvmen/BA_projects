@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4" pages="3">
   <diagram name="MFS ATM" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="993" dy="-7085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1588" dy="-6716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,10 +224,7 @@
           <mxGeometry x="1043" y="485.32" width="277" height="23" as="geometry" />
         </mxCell>
         <mxCell id="X9y4Wk6Naa9MSp61Uxv0-71" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=86;height=31;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
-          <mxGeometry x="529.5" y="1663" width="270" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="X9y4Wk6Naa9MSp61Uxv0-72" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=86;height=31;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
-          <mxGeometry x="2039" y="1978" width="270" height="280" as="geometry" />
+          <mxGeometry x="709" y="713" width="241" height="247" as="geometry" />
         </mxCell>
         <mxCell id="Ab3tIjmLMZB6VraME5M7-5" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;entryX=0.503;entryY=0.231;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.512;exitY=0.23;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="nctrB8vf493KiRFq7X1_-12">
           <mxGeometry x="-1" relative="1" as="geometry">
@@ -254,6 +251,15 @@
         </mxCell>
         <mxCell id="Ab3tIjmLMZB6VraME5M7-10" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Notifica a Cliente&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;del rechazo de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;operación&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="nctrB8vf493KiRFq7X1_-12">
           <mxGeometry x="407.25" y="1573" width="241" height="26.32" as="geometry" />
+        </mxCell>
+        <mxCell id="Ab3tIjmLMZB6VraME5M7-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.999;entryY=0.699;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.002;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="nctrB8vf493KiRFq7X1_-12" source="X9y4Wk6Naa9MSp61Uxv0-71" target="X9y4Wk6Naa9MSp61Uxv0-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="718.5000000000007" y="826" as="sourcePoint" />
+            <mxPoint x="1216.5" y="823" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ab3tIjmLMZB6VraME5M7-22" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;else&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=11;" vertex="1" parent="nctrB8vf493KiRFq7X1_-12">
+          <mxGeometry x="719.76" y="893" width="49.25" height="29.5" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-1" value="MODELO FUNCIONAL DE SECUENCIA - PLARD / ATM : CONSULTA DE DATOS DE TARJETA DEL CLIENTE" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#FFFFFF;strokeColor=default;fontColor=#000000;fontSize=16;fontStyle=1;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="11" y="9057" width="1670" height="79" as="geometry" />
@@ -1139,6 +1145,18 @@
               <mxPoint x="2330" y="9650" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ab3tIjmLMZB6VraME5M7-26" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=86;height=31;" vertex="1" parent="1">
+          <mxGeometry x="580" y="11620" width="241" height="247" as="geometry" />
+        </mxCell>
+        <mxCell id="Ab3tIjmLMZB6VraME5M7-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.999;entryY=0.699;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.002;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ab3tIjmLMZB6VraME5M7-26" target="Ab3tIjmLMZB6VraME5M7-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="589.5000000000007" y="11733" as="sourcePoint" />
+            <mxPoint x="1087.5" y="11730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ab3tIjmLMZB6VraME5M7-28" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;else&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="590.76" y="11800" width="49.25" height="29.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
