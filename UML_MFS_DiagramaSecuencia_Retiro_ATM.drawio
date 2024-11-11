@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4" pages="3">
   <diagram name="MFS ATM" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="567" dy="-7349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1059" dy="-7044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -387,6 +387,43 @@
               <mxPoint x="2084.4900000000002" y="945" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LlyGPikX8Ats0fdmR3hU-36" value="&lt;div style=&quot;text-align: center;&quot;&gt;Cargo a cuenta&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="nctrB8vf493KiRFq7X1_-12">
+          <mxGeometry x="2056.32" y="913" width="127" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="LlyGPikX8Ats0fdmR3hU-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.491;exitY=0.401;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.501;entryY=0.419;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="nctrB8vf493KiRFq7X1_-12" source="gyVIyl1_PDcGO-czcSNo-16" target="gyVIyl1_PDcGO-czcSNo-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2167" y="945" as="sourcePoint" />
+            <mxPoint x="2169" y="964" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2245" y="946" />
+              <mxPoint x="2245" y="985" />
+              <mxPoint x="2189" y="985" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LlyGPikX8Ats0fdmR3hU-38" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;RNEG0001&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="nctrB8vf493KiRFq7X1_-12">
+          <mxGeometry x="2183.32" y="916" width="126.68" height="26.32" as="geometry" />
+        </mxCell>
+        <mxCell id="LlyGPikX8Ats0fdmR3hU-39" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;entryX=0.49;entryY=0.419;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.498;exitY=0.419;exitDx=0;exitDy=0;exitPerimeter=0;dashPattern=8 8;" edge="1" parent="nctrB8vf493KiRFq7X1_-12" source="gyVIyl1_PDcGO-czcSNo-13" target="gyVIyl1_PDcGO-czcSNo-16">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="2007.38" y="984.7199999999993" as="sourcePoint" />
+            <mxPoint x="2144.38" y="984.7199999999993" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LlyGPikX8Ats0fdmR3hU-40" value="&lt;div style=&quot;text-align: center;&quot;&gt;Genera Factura&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="nctrB8vf493KiRFq7X1_-12">
+          <mxGeometry x="2051" y="953" width="127" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="LlyGPikX8Ats0fdmR3hU-41" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;entryX=0.498;entryY=0.419;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.496;exitY=0.418;exitDx=0;exitDy=0;exitPerimeter=0;dashPattern=8 8;" edge="1" parent="nctrB8vf493KiRFq7X1_-12" target="gyVIyl1_PDcGO-czcSNo-13">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="518.9959999999996" y="985.988" as="sourcePoint" />
+            <mxPoint x="2022.7700000000002" y="984.0134999999998" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LlyGPikX8Ats0fdmR3hU-42" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Actualiza Saldos&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Stand In y autoriza&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;operación&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="nctrB8vf493KiRFq7X1_-12">
+          <mxGeometry x="1017.25" y="953.34" width="305.5" height="26.32" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-1" value="MODELO FUNCIONAL DE SECUENCIA - PLARD / ATM : CONSULTA DE DATOS DE TARJETA DEL CLIENTE" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#FFFFFF;strokeColor=default;fontColor=#000000;fontSize=16;fontStyle=1;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="11" y="9057" width="1670" height="79" as="geometry" />
