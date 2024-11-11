@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4" pages="3">
   <diagram name="MFS ATM" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1323" dy="-6880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="567" dy="-7349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,13 +25,13 @@
           <mxGeometry x="19" y="63" width="131" height="2207" as="geometry" />
         </mxCell>
         <mxCell id="gyVIyl1_PDcGO-czcSNo-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=#E8A6A6;fillColor=default;strokeColor=default;" parent="gyVIyl1_PDcGO-czcSNo-1" vertex="1">
-          <mxGeometry x="60.5" y="81" width="10" height="170" as="geometry" />
+          <mxGeometry x="60.5" y="81" width="10" height="1709" as="geometry" />
         </mxCell>
         <mxCell id="gyVIyl1_PDcGO-czcSNo-3" value="&lt;div&gt;&amp;lt;&amp;lt;Canal&amp;gt;&amp;gt;&lt;/div&gt;Cajero Automático" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
           <mxGeometry x="299" y="65" width="131" height="2213" as="geometry" />
         </mxCell>
         <mxCell id="gyVIyl1_PDcGO-czcSNo-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=#E8A6A6;fillColor=default;strokeColor=default;" parent="gyVIyl1_PDcGO-czcSNo-3" vertex="1">
-          <mxGeometry x="60.5" y="79" width="10" height="61" as="geometry" />
+          <mxGeometry x="60.5" y="79" width="10" height="1711" as="geometry" />
         </mxCell>
         <mxCell id="gyVIyl1_PDcGO-czcSNo-5" value="&lt;div&gt;&amp;lt;&amp;lt;Queque&amp;gt;&amp;gt;&lt;/div&gt;MQ Canal" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
           <mxGeometry x="908.5" y="63" width="118" height="2201" as="geometry" />
@@ -71,6 +71,12 @@
         </mxCell>
         <mxCell id="X9y4Wk6Naa9MSp61Uxv0-1" value="&lt;div&gt;&amp;lt;&amp;lt;xxx&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;BIT (&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CARD CONTROL&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
           <mxGeometry x="2249" y="64" width="140" height="2193.75" as="geometry" />
+        </mxCell>
+        <mxCell id="LlyGPikX8Ats0fdmR3hU-54" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=#E8A6A6;fillColor=default;strokeColor=default;" vertex="1" parent="X9y4Wk6Naa9MSp61Uxv0-1">
+          <mxGeometry x="65" y="389" width="10" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="LlyGPikX8Ats0fdmR3hU-55" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=#E8A6A6;fillColor=default;strokeColor=default;" vertex="1" parent="X9y4Wk6Naa9MSp61Uxv0-1">
+          <mxGeometry x="65" y="519" width="10" height="111" as="geometry" />
         </mxCell>
         <mxCell id="X9y4Wk6Naa9MSp61Uxv0-2" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;exitX=0.483;exitY=0.077;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.497;entryY=0.076;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
@@ -444,6 +450,9 @@
         </mxCell>
         <mxCell id="LlyGPikX8Ats0fdmR3hU-48" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Toma dinero y&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;recoge Tarjeta&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="nctrB8vf493KiRFq7X1_-12">
           <mxGeometry x="137.25" y="953.68" width="170.8" height="26.32" as="geometry" />
+        </mxCell>
+        <mxCell id="LlyGPikX8Ats0fdmR3hU-49" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=#E8A6A6;fillColor=default;strokeColor=default;" vertex="1" parent="nctrB8vf493KiRFq7X1_-12">
+          <mxGeometry x="654.5" y="253" width="10" height="297" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-1" value="MODELO FUNCIONAL DE SECUENCIA - PLARD / ATM : CONSULTA DE DATOS DE TARJETA DEL CLIENTE" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#FFFFFF;strokeColor=default;fontColor=#000000;fontSize=16;fontStyle=1;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="11" y="9057" width="1670" height="79" as="geometry" />
@@ -1329,6 +1338,9 @@
               <mxPoint x="2330" y="9650" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LlyGPikX8Ats0fdmR3hU-51" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=#E8A6A6;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2036.32" y="9409" width="10" height="221" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
