@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4" pages="4">
   <diagram name="MFS ATM ASIS" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="722" dy="-7253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="-7121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -456,6 +456,9 @@
         </mxCell>
         <mxCell id="LlyGPikX8Ats0fdmR3hU-56" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=#E8A6A6;fillColor=default;strokeColor=default;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
           <mxGeometry x="654.5" y="783" width="10" height="357" as="geometry" />
+        </mxCell>
+        <mxCell id="nn92NQwbPFj6BZHjcEdB-2" value="Que detona la decision si es pampa o lynx?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="nctrB8vf493KiRFq7X1_-12">
+          <mxGeometry x="681" y="198" width="109" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nctrB8vf493KiRFq7X1_-1" value="MODELO FUNCIONAL DE SECUENCIA - PLARD / ATM : CONSULTA DE DATOS DE TARJETA DEL CLIENTE" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#FFFFFF;strokeColor=default;fontColor=#000000;fontSize=16;fontStyle=1;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="11" y="9057" width="1670" height="79" as="geometry" />
