@@ -45,6 +45,9 @@
         <mxCell id="gyVIyl1_PDcGO-czcSNo-13" value="&lt;div&gt;&amp;lt;&amp;lt;Altair 390&amp;gt;&amp;gt;&lt;/div&gt;PAMPA" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
           <mxGeometry x="1494" y="63" width="118" height="2200.75" as="geometry" />
         </mxCell>
+        <mxCell id="LlyGPikX8Ats0fdmR3hU-51" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=#E8A6A6;fillColor=default;strokeColor=default;" parent="gyVIyl1_PDcGO-czcSNo-13" vertex="1">
+          <mxGeometry x="49" y="212" width="10" height="221" as="geometry" />
+        </mxCell>
         <mxCell id="gyVIyl1_PDcGO-czcSNo-16" value="&lt;div&gt;&amp;lt;&amp;lt;Altair 390&amp;gt;&amp;gt;&lt;/div&gt;CAPTACION" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
           <mxGeometry x="1629.75" y="63.13" width="118" height="2200.75" as="geometry" />
         </mxCell>
@@ -67,7 +70,7 @@
         <mxCell id="X9y4Wk6Naa9MSp61Uxv0-6" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;Valida petición de&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial;&quot;&gt;Retiro de Efectivo&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;" parent="nctrB8vf493KiRFq7X1_-12" vertex="1">
           <mxGeometry x="399" y="267" width="110" height="26.32" as="geometry" />
         </mxCell>
-        <mxCell id="X9y4Wk6Naa9MSp61Uxv0-8" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;exitX=0.468;exitY=0.085;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.471;entryY=0.078;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" edge="1">
+        <mxCell id="X9y4Wk6Naa9MSp61Uxv0-8" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;exitX=0.468;exitY=0.085;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.488;entryY=0.104;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nctrB8vf493KiRFq7X1_-12" edge="1" target="gyVIyl1_PDcGO-czcSNo-13">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="648.998" y="290.0849999999991" as="sourcePoint" />
             <mxPoint x="2028.5780000000004" y="291.65849999999955" as="targetPoint" />
@@ -1317,9 +1320,6 @@
               <mxPoint x="1851" y="9650" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="LlyGPikX8Ats0fdmR3hU-51" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=#E8A6A6;fillColor=default;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1557.32" y="9409" width="10" height="221" as="geometry" />
         </mxCell>
         <mxCell id="LlyGPikX8Ats0fdmR3hU-57" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=13;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="860" y="7806" width="815" height="181" as="geometry" />
