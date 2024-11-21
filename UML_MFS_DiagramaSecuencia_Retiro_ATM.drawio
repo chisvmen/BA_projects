@@ -1365,7 +1365,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="MFS ATM TOBE" id="cc0rAwqpQDv2PKZsqLSL">
-    <mxGraphModel dx="1323" dy="-6880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="756" dy="-7231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="QvAt0yWrQ9GG0avIdOMh-0" />
         <mxCell id="QvAt0yWrQ9GG0avIdOMh-1" parent="QvAt0yWrQ9GG0avIdOMh-0" />
@@ -1410,7 +1410,7 @@
         <mxCell id="RTkaE8j_tpHnbzOiYZHe-0" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=#E8A6A6;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="QvAt0yWrQ9GG0avIdOMh-15">
           <mxGeometry x="60.5" y="207" width="10" height="1592" as="geometry" />
         </mxCell>
-        <mxCell id="QvAt0yWrQ9GG0avIdOMh-16" value="&amp;lt;&amp;lt;Autorizador&amp;gt;&amp;gt;&lt;div&gt;Stratos Cloud PLARD&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="QvAt0yWrQ9GG0avIdOMh-2">
+        <mxCell id="QvAt0yWrQ9GG0avIdOMh-16" value="&amp;lt;&amp;lt;Autorizador&amp;gt;&amp;gt;&lt;div&gt;Stratos PLARD&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="QvAt0yWrQ9GG0avIdOMh-2">
           <mxGeometry x="599" y="65" width="131" height="2201" as="geometry" />
         </mxCell>
         <mxCell id="QvAt0yWrQ9GG0avIdOMh-17" value="&lt;div&gt;&amp;lt;&amp;lt;Fraudes&amp;gt;&amp;gt;&lt;/div&gt;LYNX" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="QvAt0yWrQ9GG0avIdOMh-2">
