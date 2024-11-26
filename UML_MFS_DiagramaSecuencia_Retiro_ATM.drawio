@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.9.1" pages="6">
   <diagram name="MFS ATM TOBE" id="cc0rAwqpQDv2PKZsqLSL">
-    <mxGraphModel dx="635" dy="-7306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1985" dy="-6470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="QvAt0yWrQ9GG0avIdOMh-0" />
         <mxCell id="QvAt0yWrQ9GG0avIdOMh-1" parent="QvAt0yWrQ9GG0avIdOMh-0" />
@@ -875,19 +875,19 @@
           <mxGeometry x="1180" y="7806" width="1120" height="181" as="geometry" />
         </mxCell>
         <mxCell id="QvAt0yWrQ9GG0avIdOMh-297" value="&lt;div&gt;&lt;b&gt;Escenario 1:&amp;nbsp;Proceso de Validación de Retiro&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;El Cajero automático ATM solicita la autorizacion por Stratos, este toma la decision de irse por PAMPA o por LYNX&lt;span style=&quot;background-color: initial;&quot;&gt;.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;background-color: initial; border-color: var(--border-color); text-indent: -24px;&quot;&gt;1. PAMPA&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;background-color: initial; border-color: var(--border-color); text-indent: -24px;&quot;&gt;2. LYNX&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#EEEEEE;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=13;" parent="QvAt0yWrQ9GG0avIdOMh-1" vertex="1">
-          <mxGeometry x="1190" y="7813" width="1088.35" height="149" as="geometry" />
+          <mxGeometry x="1190" y="7813" width="1088.35" height="157" as="geometry" />
         </mxCell>
         <mxCell id="QvAt0yWrQ9GG0avIdOMh-298" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=13;strokeWidth=2;fontColor=#000000;" parent="QvAt0yWrQ9GG0avIdOMh-1" vertex="1">
           <mxGeometry x="1180" y="7997.5" width="1120" height="181" as="geometry" />
         </mxCell>
         <mxCell id="QvAt0yWrQ9GG0avIdOMh-299" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;Escenario 2: Valida riesgo de operacion LYNX&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;RNEG0001&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#EEEEEE;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=13;" parent="QvAt0yWrQ9GG0avIdOMh-1" vertex="1">
-          <mxGeometry x="1190" y="8004.5" width="1088.35" height="149" as="geometry" />
+          <mxGeometry x="1190" y="8004.5" width="1088.35" height="165.5" as="geometry" />
         </mxCell>
         <mxCell id="QvAt0yWrQ9GG0avIdOMh-300" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=13;strokeWidth=2;fontColor=#000000;" parent="QvAt0yWrQ9GG0avIdOMh-1" vertex="1">
           <mxGeometry x="1180" y="8187" width="1120" height="181" as="geometry" />
         </mxCell>
-        <mxCell id="QvAt0yWrQ9GG0avIdOMh-301" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;Escenario 3:&amp;nbsp;Validacion de usuario cliente Supermovil&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;El Cajero automático ATM solicita la autorizacion por Stratos, este toma la decision de irse por PAMPA o por LYNX&lt;span style=&quot;background-color: initial;&quot;&gt;.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#EEEEEE;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=13;" parent="QvAt0yWrQ9GG0avIdOMh-1" vertex="1">
-          <mxGeometry x="1190" y="8194" width="1088.35" height="149" as="geometry" />
+        <mxCell id="QvAt0yWrQ9GG0avIdOMh-301" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;Escenario 3:&amp;nbsp;Validacion de usuario cliente Supermovil&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;El Cajero automático ATM solicita la autorizacion por Stratos, este toma la decision de irse por PAMPA o por LYNX&lt;span style=&quot;background-color: initial;&quot;&gt;.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=13;" parent="QvAt0yWrQ9GG0avIdOMh-1" vertex="1">
+          <mxGeometry x="1190" y="8194" width="1088.35" height="166" as="geometry" />
         </mxCell>
         <mxCell id="QvAt0yWrQ9GG0avIdOMh-302" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=13;strokeWidth=2;fontColor=#000000;" parent="QvAt0yWrQ9GG0avIdOMh-1" vertex="1">
           <mxGeometry x="1180" y="8380" width="1120" height="181" as="geometry" />
