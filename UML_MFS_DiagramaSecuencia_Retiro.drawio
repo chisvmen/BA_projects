@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.9.1" pages="7">
   <diagram name="Copia de MFS ATM TOBE" id="qGJ947yQtbWIY4GJgNXf">
-    <mxGraphModel dx="1883" dy="-6997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2165" dy="-6805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="FuNy8qbWnIKChHMofdh4-0" />
         <mxCell id="FuNy8qbWnIKChHMofdh4-1" parent="FuNy8qbWnIKChHMofdh4-0" />
@@ -41,9 +41,6 @@
         </mxCell>
         <mxCell id="FuNy8qbWnIKChHMofdh4-9" value="&lt;div&gt;&amp;lt;&amp;lt; API&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;API Gluon&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1;" parent="FuNy8qbWnIKChHMofdh4-2" vertex="1">
           <mxGeometry x="1117.9999999999998" y="62" width="130.66" height="3450" as="geometry" />
-        </mxCell>
-        <mxCell id="FuNy8qbWnIKChHMofdh4-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=#E8A6A6;fillColor=#f8cecc;strokeColor=#b85450;" parent="FuNy8qbWnIKChHMofdh4-9" vertex="1">
-          <mxGeometry x="-206" y="1440" width="10" height="1035" as="geometry" />
         </mxCell>
         <mxCell id="FuNy8qbWnIKChHMofdh4-11" value="&lt;div&gt;&amp;lt;&amp;lt;Componente&amp;gt;&amp;gt;&lt;/div&gt;OAS Splitter" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1;" parent="FuNy8qbWnIKChHMofdh4-2" vertex="1">
           <mxGeometry x="527.81" y="62" width="131" height="3438" as="geometry" />
@@ -618,9 +615,6 @@
         <mxCell id="pJVxLsN1QtBfXrKMF6k8-3" value="&lt;div&gt;&amp;lt;&amp;lt; API&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;Integration Layer&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1;" parent="FuNy8qbWnIKChHMofdh4-2" vertex="1">
           <mxGeometry x="1326.81" y="61" width="130.66" height="3450" as="geometry" />
         </mxCell>
-        <mxCell id="pJVxLsN1QtBfXrKMF6k8-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=#E8A6A6;fillColor=#f8cecc;strokeColor=#b85450;" parent="pJVxLsN1QtBfXrKMF6k8-3" vertex="1">
-          <mxGeometry x="-206" y="1440" width="10" height="1035" as="geometry" />
-        </mxCell>
         <mxCell id="9FL7PYCbDOy7N4x7QnD9-39" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;exitX=0.496;exitY=0.067;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.523;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="FuNy8qbWnIKChHMofdh4-2">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="592.7859999999996" y="332.34599999999955" as="sourcePoint" />
@@ -889,7 +883,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0pobn9QnaOCOV4K6ycHO-13" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;Valida información de bloqueo inteligente&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;en Supermovil&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="FuNy8qbWnIKChHMofdh4-2">
-          <mxGeometry x="1835.81" y="1130" width="174.46" height="23" as="geometry" />
+          <mxGeometry x="1835.81" y="1128" width="174.46" height="23" as="geometry" />
         </mxCell>
         <mxCell id="FuNy8qbWnIKChHMofdh4-133" value="MODELO FUNCIONAL DE SECUENCIA - PLARD / ATM : CONSULTA DE DATOS DE TARJETA DEL CLIENTE" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#FFFFFF;strokeColor=default;fontColor=#000000;fontSize=16;fontStyle=1;labelBackgroundColor=default;" parent="FuNy8qbWnIKChHMofdh4-1" vertex="1">
           <mxGeometry x="12.19" y="9580" width="2287.81" height="79" as="geometry" />
