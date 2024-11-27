@@ -129,7 +129,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="MFS ATM TOBE" id="qGJ947yQtbWIY4GJgNXf">
-    <mxGraphModel dx="2296" dy="-6716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1701" dy="-7121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="FuNy8qbWnIKChHMofdh4-0" />
         <mxCell id="FuNy8qbWnIKChHMofdh4-1" parent="FuNy8qbWnIKChHMofdh4-0" />
@@ -715,8 +715,8 @@
         </mxCell>
         <mxCell id="FuNy8qbWnIKChHMofdh4-123" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.003;exitY=0.739;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.998;entryY=0.861;entryDx=0;entryDy=0;entryPerimeter=0;" parent="FuNy8qbWnIKChHMofdh4-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400.2100000000001" y="2116.620000000001" as="sourcePoint" />
-            <mxPoint x="2176.44" y="2122.25" as="targetPoint" />
+            <mxPoint x="400.2100000000001" y="2286.620000000001" as="sourcePoint" />
+            <mxPoint x="2176.44" y="2292.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FuNy8qbWnIKChHMofdh4-124" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;else&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=11;" parent="FuNy8qbWnIKChHMofdh4-2" vertex="1">
@@ -1245,21 +1245,48 @@
           <mxGeometry x="506.61000000000007" y="1856.5" width="49.25" height="29.5" as="geometry" />
         </mxCell>
         <mxCell id="a1q10NuBmry-sfht3TDu-2" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;else&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=11;" vertex="1" parent="FuNy8qbWnIKChHMofdh4-2">
-          <mxGeometry x="407.81000000000006" y="2117" width="49.25" height="29.5" as="geometry" />
+          <mxGeometry x="407.81000000000006" y="2287" width="49.25" height="29.5" as="geometry" />
         </mxCell>
         <mxCell id="a1q10NuBmry-sfht3TDu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.5;exitY=0.229;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.498;entryY=0.234;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="FuNy8qbWnIKChHMofdh4-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="594.9999999999999" y="2015.2520000000004" as="sourcePoint" />
-            <mxPoint x="594.7379999999997" y="2032.442000000001" as="targetPoint" />
+            <mxPoint x="594.9999999999999" y="2019.2520000000004" as="sourcePoint" />
+            <mxPoint x="594.7379999999997" y="2036.442000000001" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="694.6899999999999" y="2014.9500000000007" />
-              <mxPoint x="694.6899999999999" y="2032.9500000000007" />
-              <mxPoint x="634.6899999999999" y="2032.9500000000007" />
+              <mxPoint x="694.6899999999999" y="2018.9500000000007" />
+              <mxPoint x="694.6899999999999" y="2036.9500000000007" />
+              <mxPoint x="634.6899999999999" y="2036.9500000000007" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1q10NuBmry-sfht3TDu-6" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;Valida bloqueo inteligente existente&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="FuNy8qbWnIKChHMofdh4-2">
-          <mxGeometry x="608.3499999999999" y="1990" width="174.46" height="23" as="geometry" />
+        <mxCell id="a1q10NuBmry-sfht3TDu-6" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;Procesa trama para procesamiento de retiro de efectivo&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="FuNy8qbWnIKChHMofdh4-2">
+          <mxGeometry x="608.3499999999999" y="1994" width="174.46" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="a1q10NuBmry-sfht3TDu-7" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Dispensa dinero&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;de la operación&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="FuNy8qbWnIKChHMofdh4-2">
+          <mxGeometry x="407.81" y="2235.5" width="179.62" height="26.32" as="geometry" />
+        </mxCell>
+        <mxCell id="a1q10NuBmry-sfht3TDu-8" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;entryX=0.501;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.506;exitY=0.64;exitDx=0;exitDy=0;exitPerimeter=0;dashPattern=8 8;" edge="1" parent="FuNy8qbWnIKChHMofdh4-2" target="FuNy8qbWnIKChHMofdh4-11">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="364.5766999999997" y="2262.3999999999996" as="sourcePoint" />
+            <mxPoint x="524.332" y="2264.526999999998" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a1q10NuBmry-sfht3TDu-9" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;entryX=0.516;entryY=0.641;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.506;exitY=0.613;exitDx=0;exitDy=0;exitPerimeter=0;dashPattern=8 8;" edge="1" parent="FuNy8qbWnIKChHMofdh4-2" source="FuNy8qbWnIKChHMofdh4-5" target="FuNy8qbWnIKChHMofdh4-7">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="87.80799999999999" y="2265.1859999999997" as="sourcePoint" />
+            <mxPoint x="369.773" y="2263.0550000000003" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a1q10NuBmry-sfht3TDu-10" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Toma dinero y&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;recoge Tarjeta&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="FuNy8qbWnIKChHMofdh4-2">
+          <mxGeometry x="140.82" y="2235.5" width="170.8" height="26.32" as="geometry" />
+        </mxCell>
+        <mxCell id="a1q10NuBmry-sfht3TDu-11" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;entryX=0.496;entryY=0.417;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.483;exitY=0.424;exitDx=0;exitDy=0;exitPerimeter=0;dashPattern=8 8;" edge="1" parent="FuNy8qbWnIKChHMofdh4-2">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="681.833" y="2236.512" as="sourcePoint" />
+            <mxPoint x="833.5360000000002" y="2235.496999999999" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="FuNy8qbWnIKChHMofdh4-133" value="MODELO FUNCIONAL DE SECUENCIA - PLARD / ATM : CONSULTA DE DATOS DE TARJETA DEL CLIENTE" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#FFFFFF;strokeColor=default;fontColor=#000000;fontSize=16;fontStyle=1;labelBackgroundColor=default;" parent="FuNy8qbWnIKChHMofdh4-1" vertex="1">
           <mxGeometry x="12.19" y="9580" width="2287.81" height="79" as="geometry" />
