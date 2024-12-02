@@ -2077,7 +2077,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="MFS ATM TOBE v2" id="Uiaww6-yBTKDW2Awd-9O">
-    <mxGraphModel dx="875" dy="-7279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="-6782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="vzTERY0ZueZL8V5vpuwT-0" />
         <mxCell id="vzTERY0ZueZL8V5vpuwT-1" parent="vzTERY0ZueZL8V5vpuwT-0" />
@@ -3921,14 +3921,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzTERY0ZueZL8V5vpuwT-385" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;exitX=0.491;exitY=0.182;exitDx=0;exitDy=0;exitPerimeter=0;dashPattern=8 8;entryX=0.502;entryY=0.182;entryDx=0;entryDy=0;entryPerimeter=0;" parent="vzTERY0ZueZL8V5vpuwT-1" edge="1">
+        <mxCell id="vzTERY0ZueZL8V5vpuwT-385" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;exitX=0.491;exitY=0.182;exitDx=0;exitDy=0;exitPerimeter=0;dashPattern=8 8;entryX=0.507;entryY=0.523;entryDx=0;entryDy=0;entryPerimeter=0;" parent="vzTERY0ZueZL8V5vpuwT-1" edge="1" target="vzTERY0ZueZL8V5vpuwT-13">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="611.3009999999998" y="12610.536" as="sourcePoint" />
             <mxPoint x="1017.1533800000002" y="12611.356" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzTERY0ZueZL8V5vpuwT-386" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;dashPattern=8 8;entryX=0.518;entryY=0.242;entryDx=0;entryDy=0;entryPerimeter=0;" parent="vzTERY0ZueZL8V5vpuwT-1" edge="1">
+        <mxCell id="vzTERY0ZueZL8V5vpuwT-386" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;dashPattern=8 8;entryX=0.518;entryY=0.242;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.503;exitY=0.523;exitDx=0;exitDy=0;exitPerimeter=0;" parent="vzTERY0ZueZL8V5vpuwT-1" edge="1" source="vzTERY0ZueZL8V5vpuwT-13">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="1016.0516666666667" y="12611.156500000001" as="sourcePoint" />
             <mxPoint x="1570.2939999999999" y="12611.686959999999" as="targetPoint" />
@@ -3948,11 +3948,11 @@
         <mxCell id="vzTERY0ZueZL8V5vpuwT-389" value="&lt;div style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;Consulta trx&amp;nbsp;&lt;b&gt;BNMC&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="vzTERY0ZueZL8V5vpuwT-1" vertex="1">
           <mxGeometry x="1193.92" y="12426.82" width="140" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="vzTERY0ZueZL8V5vpuwT-390" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;Envía respuesta con&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;información integral&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;de la cuenta del Cliente,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;envía trama e integra datos y balance de la cuenta&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="vzTERY0ZueZL8V5vpuwT-1" vertex="1">
-          <mxGeometry x="1105.98" y="12572.82" width="352.19" height="23" as="geometry" />
+        <mxCell id="vzTERY0ZueZL8V5vpuwT-390" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;Envía respuesta con&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;información integral&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;de la cuenta del Cliente, e&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;nvía trama e integra datos y balance de la cuenta&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="vzTERY0ZueZL8V5vpuwT-1" vertex="1">
+          <mxGeometry x="1010" y="12582.82" width="352.19" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="vzTERY0ZueZL8V5vpuwT-391" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;Envía respuesta con&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;información&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;del balance de la cuenta&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="vzTERY0ZueZL8V5vpuwT-1" vertex="1">
-          <mxGeometry x="642.4" y="12582.82" width="369" height="23" as="geometry" />
+        <mxCell id="vzTERY0ZueZL8V5vpuwT-391" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;Envía respuesta con&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;información&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;del balance de la cuenta&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="vzTERY0ZueZL8V5vpuwT-1" vertex="1">
+          <mxGeometry x="630.72" y="12568.82" width="167.6" height="23" as="geometry" />
         </mxCell>
         <mxCell id="vzTERY0ZueZL8V5vpuwT-392" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;entryX=0.499;entryY=0.182;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.495;exitY=0.183;exitDx=0;exitDy=0;exitPerimeter=0;dashPattern=8 8;" parent="vzTERY0ZueZL8V5vpuwT-1" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
