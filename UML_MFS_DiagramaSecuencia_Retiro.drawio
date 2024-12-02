@@ -2077,7 +2077,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="MFS ATM TOBE v2" id="Uiaww6-yBTKDW2Awd-9O">
-    <mxGraphModel dx="1750" dy="-6858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="-7027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="vzTERY0ZueZL8V5vpuwT-0" />
         <mxCell id="vzTERY0ZueZL8V5vpuwT-1" parent="vzTERY0ZueZL8V5vpuwT-0" />
@@ -3914,7 +3914,7 @@
         <mxCell id="vzTERY0ZueZL8V5vpuwT-383" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Rechaza la&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;operación de Retiro&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;de Efectivo&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;" parent="vzTERY0ZueZL8V5vpuwT-1" vertex="1">
           <mxGeometry x="839.0200000000001" y="12752" width="157.01" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="vzTERY0ZueZL8V5vpuwT-384" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;exitX=0.504;exitY=0.154;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.493;entryY=0.153;entryDx=0;entryDy=0;entryPerimeter=0;" parent="vzTERY0ZueZL8V5vpuwT-1" edge="1">
+        <mxCell id="vzTERY0ZueZL8V5vpuwT-384" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;exitX=0.504;exitY=0.154;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.505;entryY=0.484;entryDx=0;entryDy=0;entryPerimeter=0;" parent="vzTERY0ZueZL8V5vpuwT-1" edge="1" target="vzTERY0ZueZL8V5vpuwT-13">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="613.0039999999998" y="12425.271999999999" as="sourcePoint" />
             <mxPoint x="1015.9456700000001" y="12423.364" as="targetPoint" />
@@ -3935,15 +3935,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzTERY0ZueZL8V5vpuwT-387" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;exitX=0.499;exitY=0.162;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.509;entryY=0.214;entryDx=0;entryDy=0;entryPerimeter=0;" parent="vzTERY0ZueZL8V5vpuwT-1" edge="1">
+        <mxCell id="vzTERY0ZueZL8V5vpuwT-387" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;exitX=0.491;exitY=0.49;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.509;entryY=0.214;entryDx=0;entryDy=0;entryPerimeter=0;" parent="vzTERY0ZueZL8V5vpuwT-1" edge="1" source="vzTERY0ZueZL8V5vpuwT-13">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="1016.75081" y="12454.395999999999" as="sourcePoint" />
             <mxPoint x="1569.2320000000004" y="12451.90632" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzTERY0ZueZL8V5vpuwT-388" value="&lt;div style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;Envía solicitud de petición&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;de consulta de saldo de la cuenta&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="vzTERY0ZueZL8V5vpuwT-1" vertex="1">
-          <mxGeometry x="774.4299999999998" y="12396.32" width="140" height="23" as="geometry" />
+        <mxCell id="vzTERY0ZueZL8V5vpuwT-388" value="&lt;div style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;Envía solicitud de petición&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;de&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;consulta de saldo de la cuenta&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="vzTERY0ZueZL8V5vpuwT-1" vertex="1">
+          <mxGeometry x="644.5199999999999" y="12390" width="140" height="23" as="geometry" />
         </mxCell>
         <mxCell id="vzTERY0ZueZL8V5vpuwT-389" value="&lt;div style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;Consulta trx&amp;nbsp;&lt;b&gt;BNMC&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="vzTERY0ZueZL8V5vpuwT-1" vertex="1">
           <mxGeometry x="1193.92" y="12426.82" width="140" height="23" as="geometry" />
