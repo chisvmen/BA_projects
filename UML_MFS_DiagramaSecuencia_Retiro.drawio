@@ -1956,7 +1956,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="MFS ATM TOBE v2" id="Uiaww6-yBTKDW2Awd-9O">
-    <mxGraphModel dx="2625" dy="-6437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2100" dy="-6690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="vzTERY0ZueZL8V5vpuwT-0" />
         <mxCell id="vzTERY0ZueZL8V5vpuwT-1" parent="vzTERY0ZueZL8V5vpuwT-0" />
@@ -2258,9 +2258,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzTERY0ZueZL8V5vpuwT-67" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;Valida bloqueo inteligente innexistente&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=left;" parent="vzTERY0ZueZL8V5vpuwT-4" vertex="1">
-          <mxGeometry x="608.3499999999999" y="407" width="174.46" height="23" as="geometry" />
-        </mxCell>
         <mxCell id="vzTERY0ZueZL8V5vpuwT-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.5;exitY=0.229;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.498;entryY=0.234;entryDx=0;entryDy=0;entryPerimeter=0;" parent="vzTERY0ZueZL8V5vpuwT-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="593.3199999999999" y="664.2520000000004" as="sourcePoint" />
@@ -2295,14 +2292,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzTERY0ZueZL8V5vpuwT-79" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;entryX=0.502;entryY=0.114;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.503;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;dashPattern=8 8;" parent="vzTERY0ZueZL8V5vpuwT-4" edge="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="801.4530000000004" y="599.7919999999995" as="sourcePoint" />
-            <mxPoint x="994.7333800000001" y="602.0720000000001" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vzTERY0ZueZL8V5vpuwT-80" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;exitX=0.502;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;dashPattern=8 8;entryX=0.471;entryY=0.487;entryDx=0;entryDy=0;entryPerimeter=0;" parent="vzTERY0ZueZL8V5vpuwT-4" edge="1">
+        <mxCell id="vzTERY0ZueZL8V5vpuwT-80" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;dashPattern=8 8;entryX=0.507;entryY=0.114;entryDx=0;entryDy=0;entryPerimeter=0;" parent="vzTERY0ZueZL8V5vpuwT-4" edge="1" target="vzTERY0ZueZL8V5vpuwT-14" source="vzTERY0ZueZL8V5vpuwT-13">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="994.7333800000001" y="602.0720000000001" as="sourcePoint" />
             <mxPoint x="1388.35086" y="603.1499999999996" as="targetPoint" />
@@ -2311,9 +2301,6 @@
         </mxCell>
         <mxCell id="vzTERY0ZueZL8V5vpuwT-81" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;Envía respuesta con&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;información&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;de validaciones realizadas&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="vzTERY0ZueZL8V5vpuwT-4" vertex="1">
           <mxGeometry x="1107.81" y="567" width="171.19" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="vzTERY0ZueZL8V5vpuwT-82" value="&lt;div style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp;Obtiene información&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;validaciones realizadas&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="vzTERY0ZueZL8V5vpuwT-4" vertex="1">
-          <mxGeometry x="830.2899999999997" y="563" width="140" height="23" as="geometry" />
         </mxCell>
         <mxCell id="vzTERY0ZueZL8V5vpuwT-83" value="&lt;div style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp;Obtiene información&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;de&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;validaciones realizadas&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="vzTERY0ZueZL8V5vpuwT-4" vertex="1">
           <mxGeometry x="632.2699999999998" y="562" width="140" height="23" as="geometry" />
@@ -2327,13 +2314,6 @@
         </mxCell>
         <mxCell id="vzTERY0ZueZL8V5vpuwT-85" value="&lt;span style=&quot;text-wrap-mode: nowrap; font-size: 11px;&quot;&gt;Valida información de bloqueo inteligente del cliente en Supermovil&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=left;" parent="vzTERY0ZueZL8V5vpuwT-4" vertex="1">
           <mxGeometry x="1565.28" y="431" width="174.46" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="vzTERY0ZueZL8V5vpuwT-86" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;entryX=0.507;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.509;exitY=0.322;exitDx=0;exitDy=0;exitPerimeter=0;dashPattern=8 8;" parent="vzTERY0ZueZL8V5vpuwT-4" edge="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="1391.74" y="602" as="sourcePoint" />
-            <mxPoint x="1981.636" y="600.6360000000004" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="vzTERY0ZueZL8V5vpuwT-87" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap; font-size: 11px;&quot;&gt;Envía respuesta con&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap; background-color: initial; font-size: 11px;&quot;&gt;información&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap; background-color: initial; font-size: 11px;&quot;&gt;de bloqueo inteligente en Supermovil&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=left;" parent="vzTERY0ZueZL8V5vpuwT-4" vertex="1">
           <mxGeometry x="1564.55" y="579" width="174.46" height="23" as="geometry" />
