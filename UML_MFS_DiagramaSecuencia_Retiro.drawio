@@ -1956,7 +1956,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="MFS ATM TOBE v2" id="Uiaww6-yBTKDW2Awd-9O">
-    <mxGraphModel dx="1313" dy="-7069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="-7106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="vzTERY0ZueZL8V5vpuwT-0" />
         <mxCell id="vzTERY0ZueZL8V5vpuwT-1" parent="vzTERY0ZueZL8V5vpuwT-0" />
@@ -3091,14 +3091,14 @@
         <mxCell id="1DyHPwzzHoU0B82xfWkc-116" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;Envia peticion de validacion&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="vzTERY0ZueZL8V5vpuwT-4">
           <mxGeometry x="1243.8999999999999" y="3003" width="134.19" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="1DyHPwzzHoU0B82xfWkc-117" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;exitX=0.511;exitY=0.123;exitDx=0;exitDy=0;exitPerimeter=0;dashPattern=8 8;entryX=0.498;entryY=0.123;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="vzTERY0ZueZL8V5vpuwT-4">
+        <mxCell id="1DyHPwzzHoU0B82xfWkc-117" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;exitX=0.511;exitY=0.123;exitDx=0;exitDy=0;exitPerimeter=0;dashPattern=8 8;entryX=0.498;entryY=0.123;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vzTERY0ZueZL8V5vpuwT-4">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="361.43" y="3167" as="sourcePoint" />
             <mxPoint x="1148.43" y="3166" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1DyHPwzzHoU0B82xfWkc-118" value="&lt;div style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Obtiene identificación de enrolamiento&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;y&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;bloqueo Supermovil de la cuenta del cliente&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="vzTERY0ZueZL8V5vpuwT-4">
+        <mxCell id="1DyHPwzzHoU0B82xfWkc-118" value="&lt;div style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Obtiene identificación de enrolamiento&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;y&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;bloqueo Supermovil de la cuenta del cliente&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="vzTERY0ZueZL8V5vpuwT-4">
           <mxGeometry x="762.9999999999997" y="3139" width="140" height="23" as="geometry" />
         </mxCell>
         <mxCell id="1DyHPwzzHoU0B82xfWkc-119" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;exitX=0.506;exitY=0.083;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.502;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vzTERY0ZueZL8V5vpuwT-4">
