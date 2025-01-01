@@ -129,7 +129,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SUC - APPIAN Cambio de NIP de tarjetas de débito Express y Personalizadas" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="3497" dy="4940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2614" dy="4393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -205,7 +205,7 @@
             <mxPoint x="-406.4473684210525" y="-1560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ToUPSf5seXOrwuXV1P-5-22" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+        <mxCell id="ToUPSf5seXOrwuXV1P-5-22" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="272" y="-1244" width="10" height="1844" as="geometry" />
         </mxCell>
         <mxCell id="ToUPSf5seXOrwuXV1P-5-49" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Ejecutivo envía solicitud&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;de planchado de NIP&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -238,13 +238,13 @@
         <mxCell id="jyimtzbjUoySw18MVkSd-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="511" y="-1162" width="10" height="1962" as="geometry" />
         </mxCell>
-        <mxCell id="jyimtzbjUoySw18MVkSd-13" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="jyimtzbjUoySw18MVkSd-13" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="283" y="-1161" as="sourcePoint" />
             <mxPoint x="509" y="-1161" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jyimtzbjUoySw18MVkSd-14" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Toma&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-align: center;&quot;&gt;solicitud de Llave Dinámica&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;[&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-align: center;&quot;&gt;LMPB&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="jyimtzbjUoySw18MVkSd-14" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Toma&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-align: center;&quot;&gt;solicitud de Llave Dinámica&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;[&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-align: center;&quot;&gt;LMPB&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="287" y="-1201" width="223" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MW_WiArZff05OHxX3Nlc-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
@@ -405,7 +405,7 @@
         <mxCell id="aCr7K6y-yIhkHu097FEc-28" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=80;height=15;" parent="1" vertex="1">
           <mxGeometry x="1316" y="-952" width="870" height="352" as="geometry" />
         </mxCell>
-        <mxCell id="aCr7K6y-yIhkHu097FEc-29" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;[(TRX|DDF) == (TRX|DDF GRAVITY)]&lt;/font&gt;" style="text;html=1;rotation=0;" parent="aCr7K6y-yIhkHu097FEc-28" vertex="1">
+        <mxCell id="aCr7K6y-yIhkHu097FEc-29" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;[(TRX|DDF) == (TRX|DDF GRAVITY)]&lt;/font&gt;" style="text;html=1;rotation=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="aCr7K6y-yIhkHu097FEc-28" vertex="1">
           <mxGeometry width="140" height="20" relative="1" as="geometry">
             <mxPoint x="11" y="30" as="offset" />
           </mxGeometry>
@@ -478,7 +478,7 @@
         <mxCell id="aCr7K6y-yIhkHu097FEc-50" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Consulta información complementaria de tablas Corporativas.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;TCDTGEN (0606) - Tabla Corporativa Pampa: Llave pública y tipo de criptograma (1024 o 2048 bytes) relacionados el canal]&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;[&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;TRX|DDF -TBD] - LK01&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1730" y="-870" width="230" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="wFzELj_A-E0xGNJ0ZWfk-20" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;Launcher PLARD s&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;olicita el generar la llave dinámica encriptada para que el canal pueda armar el PINBLOCK con el que se realice el planchado de NIP&amp;nbsp;[LMPB]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="wFzELj_A-E0xGNJ0ZWfk-20" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;Launcher PLARD s&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;olicita el generar la llave dinámica encriptada para que el canal pueda armar el PINBLOCK con el que se realice el planchado de NIP&amp;nbsp;[LMPB]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="269" y="923" width="491" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wFzELj_A-E0xGNJ0ZWfk-21" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -487,7 +487,7 @@
             <mxPoint x="997.5" y="958" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wFzELj_A-E0xGNJ0ZWfk-23" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Retorna llave dinámica encriptada para que el canal pueda armar el PINBLOCK con el que se realice el planchado de NIP&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="wFzELj_A-E0xGNJ0ZWfk-23" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Retorna llave dinámica encriptada para que el canal pueda armar el PINBLOCK con el que se realice el planchado de NIP&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="381" y="1281" width="309" height="45" as="geometry" />
         </mxCell>
         <mxCell id="wFzELj_A-E0xGNJ0ZWfk-24" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" parent="1" edge="1">
@@ -502,10 +502,10 @@
             <mxPoint x="1000" y="1438" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wFzELj_A-E0xGNJ0ZWfk-28" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;Launcher PLARD s&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;olicita el&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Actualizar el PINBLOCK de la tarjeta del cliente e informa a SIA para su respectiva actualización&lt;/span&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;&amp;nbsp;[LMPC]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="wFzELj_A-E0xGNJ0ZWfk-28" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;Launcher PLARD s&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;olicita el&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Actualizar el PINBLOCK de la tarjeta del cliente e informa a SIA para su respectiva actualización&lt;/span&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;&amp;nbsp;[LMPC]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="360" y="1404" width="353" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wFzELj_A-E0xGNJ0ZWfk-29" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Retorna resultado de de actualizar el PINBLOCK de la tarjeta e informar a SIA su respectiva actualización.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="wFzELj_A-E0xGNJ0ZWfk-29" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Retorna resultado de de actualizar el PINBLOCK de la tarjeta e informar a SIA su respectiva actualización.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="378" y="1758" width="309" height="45" as="geometry" />
         </mxCell>
         <mxCell id="wFzELj_A-E0xGNJ0ZWfk-30" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" parent="1" edge="1">
@@ -563,25 +563,25 @@
             <mxPoint x="274" y="-1241" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3RC-hu7kT0IAr7Nv3cPb-3" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" parent="1" edge="1">
+        <mxCell id="3RC-hu7kT0IAr7Nv3cPb-3" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="-160" as="sourcePoint" />
             <mxPoint x="280" y="-160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3RC-hu7kT0IAr7Nv3cPb-6" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;Deposita response de Llave Dinámica [LMPB]&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="3RC-hu7kT0IAr7Nv3cPb-6" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;Deposita response de Llave Dinámica [LMPB]&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="290" y="-206" width="223" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3RC-hu7kT0IAr7Nv3cPb-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="3RC-hu7kT0IAr7Nv3cPb-7" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="283" y="-963" as="sourcePoint" />
             <mxPoint x="509" y="-963" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3RC-hu7kT0IAr7Nv3cPb-8" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;TBD&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Toma solicitud de datos adicionales&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="3RC-hu7kT0IAr7Nv3cPb-8" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;TBD&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Toma solicitud de datos adicionales&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="287" y="-1003" width="223" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3RC-hu7kT0IAr7Nv3cPb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" edge="1">
+        <mxCell id="3RC-hu7kT0IAr7Nv3cPb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="521" y="-443" as="sourcePoint" />
             <mxPoint x="521" y="-408" as="targetPoint" />
@@ -591,16 +591,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3RC-hu7kT0IAr7Nv3cPb-10" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;TBD&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Genera response de petición datos adicionales de tablas Corporativas&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3RC-hu7kT0IAr7Nv3cPb-10" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;TBD&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Genera response de petición datos adicionales de tablas Corporativas&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="578" y="-464" width="150" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3RC-hu7kT0IAr7Nv3cPb-11" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" parent="1" edge="1">
+        <mxCell id="3RC-hu7kT0IAr7Nv3cPb-11" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="511" y="-362" as="sourcePoint" />
             <mxPoint x="281" y="-362" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3RC-hu7kT0IAr7Nv3cPb-12" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;TBD&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Deposita response de datos adicionaless.de tablas Corporativas&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="3RC-hu7kT0IAr7Nv3cPb-12" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;TBD&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Deposita response de datos adicionaless.de tablas Corporativas&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="287" y="-406" width="223" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vr1Xz2skRJGZsKb6hi7j-1" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="aCr7K6y-yIhkHu097FEc-42" edge="1">
@@ -609,8 +609,8 @@
             <mxPoint x="1237.5" y="-913" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vr1Xz2skRJGZsKb6hi7j-2" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;TBD&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-align: center; font-size: 11px;&quot;&gt;Consulta información complementaria de tablas Corporativas&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;TRX|DDF -TBD] - LK01&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="750" y="-1020" width="260" height="136" as="geometry" />
+        <mxCell id="vr1Xz2skRJGZsKb6hi7j-2" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;TBD&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-align: center; font-size: 11px;&quot;&gt;Consulta información complementaria de tablas Corporativas&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;TRX|DDF -TBD] - LK01&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="750" y="-1020" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vr1Xz2skRJGZsKb6hi7j-13" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;TBD&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-align: center; font-size: 11px;&quot;&gt;Recibe información complementaria de tablas Corporativas.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-align: center; font-size: 11px;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;TRX|DDF -TBD] - LK01&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="747" y="-537" width="260" height="30" as="geometry" />
@@ -697,7 +697,7 @@
         <mxCell id="yIpQSp4bmgbOykqH_Xll-15" value="Formato de salida:" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#23445d;fontSize=14;fontStyle=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="410" y="-2070" width="740" height="39.11" as="geometry" />
         </mxCell>
-        <mxCell id="yIpQSp4bmgbOykqH_Xll-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" edge="1">
+        <mxCell id="yIpQSp4bmgbOykqH_Xll-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="521" y="-1123" as="sourcePoint" />
             <mxPoint x="521" y="-1088" as="targetPoint" />
@@ -707,34 +707,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yIpQSp4bmgbOykqH_Xll-21" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Genera solicitud de información complementaria de tablas Corporativas&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="yIpQSp4bmgbOykqH_Xll-21" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Genera solicitud de información complementaria de tablas Corporativas&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="580" y="-1151" width="150" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="yIpQSp4bmgbOykqH_Xll-22" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" parent="1" edge="1">
+        <mxCell id="yIpQSp4bmgbOykqH_Xll-22" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="-1040" as="sourcePoint" />
             <mxPoint x="280" y="-1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yIpQSp4bmgbOykqH_Xll-23" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-align: left; background-color: initial;&quot;&gt;Deposita solicitud de datos adicionales.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="yIpQSp4bmgbOykqH_Xll-23" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-align: left; background-color: initial;&quot;&gt;Deposita solicitud de datos adicionales.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="290" y="-1080" width="223" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yIpQSp4bmgbOykqH_Xll-24" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="yIpQSp4bmgbOykqH_Xll-24" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="282" y="-283" as="sourcePoint" />
             <mxPoint x="508" y="-283" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yIpQSp4bmgbOykqH_Xll-25" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Toma Response de datos adicionales de tablas Corporativas&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="yIpQSp4bmgbOykqH_Xll-25" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Toma Response de datos adicionales de tablas Corporativas&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="286" y="-326" width="223" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yIpQSp4bmgbOykqH_Xll-26" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="yIpQSp4bmgbOykqH_Xll-26" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="282" y="237" as="sourcePoint" />
             <mxPoint x="508" y="237" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yIpQSp4bmgbOykqH_Xll-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" edge="1">
+        <mxCell id="yIpQSp4bmgbOykqH_Xll-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="522" y="-241" as="sourcePoint" />
             <mxPoint x="522" y="-206" as="targetPoint" />
@@ -744,7 +744,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yIpQSp4bmgbOykqH_Xll-29" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Genera respuesta con formato [LMPB]&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="yIpQSp4bmgbOykqH_Xll-29" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Genera respuesta con formato [LMPB]&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="579" y="-256" width="150" height="26" as="geometry" />
         </mxCell>
         <mxCell id="yIpQSp4bmgbOykqH_Xll-30" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" parent="1" edge="1">
@@ -765,7 +765,7 @@
             <mxPoint x="272" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yIpQSp4bmgbOykqH_Xll-35" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Toma&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-align: center;&quot;&gt;solicitud de Planchado de NIP&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-align: center;&quot;&gt;LMPC&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="yIpQSp4bmgbOykqH_Xll-35" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Toma&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-align: center;&quot;&gt;solicitud de Planchado de NIP&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-align: center;&quot;&gt;LMPC&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="284" y="195" width="223" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zgWYzF-yukYoE86DwLUQ-1" value="&lt;div style=&quot;text-align: center;&quot;&gt;Solicita planchado de NIP para la TDD&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -802,7 +802,7 @@
         <mxCell id="zgWYzF-yukYoE86DwLUQ-7" value="Plachado de NIP&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[API PLARD - Card-Data&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;]&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(36, 36, 36); font-family: &amp;quot;Aptos Narrow&amp;quot;, Calibri, &amp;quot;sans-serif&amp;quot;, &amp;quot;Mongolian Baiti&amp;quot;, &amp;quot;Microsoft Yi Baiti&amp;quot;, &amp;quot;Javanese Text&amp;quot;, &amp;quot;Yu Gothic&amp;quot;; font-size: 14.6667px; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;(POST)&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;/v2/change-pin&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1294" y="292" width="166" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="zgWYzF-yukYoE86DwLUQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" edge="1">
+        <mxCell id="zgWYzF-yukYoE86DwLUQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="522" y="438" as="sourcePoint" />
             <mxPoint x="522" y="473" as="targetPoint" />
@@ -812,16 +812,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zgWYzF-yukYoE86DwLUQ-9" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Genera respuesta&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;de cambio de NIP&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;con formato [LMPC]&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zgWYzF-yukYoE86DwLUQ-9" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Genera respuesta&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;de cambio de NIP&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;con formato [LMPC]&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="579" y="423" width="150" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="zgWYzF-yukYoE86DwLUQ-10" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" parent="1" edge="1">
+        <mxCell id="zgWYzF-yukYoE86DwLUQ-10" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="519" as="sourcePoint" />
             <mxPoint x="280" y="519" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zgWYzF-yukYoE86DwLUQ-11" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;Deposita response de Llave Dinámica [LMPC]&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="zgWYzF-yukYoE86DwLUQ-11" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;Deposita response de Llave Dinámica [LMPC]&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="290" y="473" width="223" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zgWYzF-yukYoE86DwLUQ-12" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" parent="1" edge="1">
@@ -1763,16 +1763,16 @@
         <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-263" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Consulta información complementaria de tablas Corporativas.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;TCDTGEN (0606) - Tabla Corporativa Pampa: Llave pública y tipo de criptograma (1024 o 2048 bytes) relacionados el canal]&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;[&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;TRX|DDF -TBD] - LK01&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1970" y="-710" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-264" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="5-Fy5Tqy5fMs9rHMtb5r-269" edge="1">
+        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-264" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" target="5-Fy5Tqy5fMs9rHMtb5r-269" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="522" y="39" as="sourcePoint" />
             <mxPoint x="748" y="39" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-265" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Publica Trama de Bitacora de Llave Dinámica&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-265" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Publica Trama de Bitacora de Llave Dinámica&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="517" width="244" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" edge="1">
+        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="522" y="-81" as="sourcePoint" />
             <mxPoint x="522" y="-46" as="targetPoint" />
@@ -1782,31 +1782,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-267" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Genera Trama de Bitácora de Llave Dinámica&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-267" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Genera Trama de Bitácora de Llave Dinámica&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="579" y="-96" width="150" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-268" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" parent="1" source="EzSESSrQrR8SRDhSGEhN-12" edge="1">
+        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-268" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="EzSESSrQrR8SRDhSGEhN-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="996.4999999999995" y="80" as="sourcePoint" />
             <mxPoint x="521.071428571428" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-269" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-269" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="753" y="40" width="10" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-270" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;Response Ok&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-270" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;Response Ok&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="528" y="58" width="223" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-271" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="5-Fy5Tqy5fMs9rHMtb5r-276" edge="1">
+        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-271" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" target="5-Fy5Tqy5fMs9rHMtb5r-276" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="521" y="758" as="sourcePoint" />
             <mxPoint x="747" y="758" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-272" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Publica Trama de Bitacora de Planchado de NIP&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-272" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Publica Trama de Bitacora de Planchado de NIP&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="516" y="719" width="244" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" edge="1">
+        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="521" y="638" as="sourcePoint" />
             <mxPoint x="521" y="673" as="targetPoint" />
@@ -1816,19 +1816,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-274" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Genera Trama de Bitácora de Planchado de NIP&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-274" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;card-change-pin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Genera Trama de Bitácora de Planchado de NIP&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="578" y="623" width="150" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-275" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" parent="1" source="5-Fy5Tqy5fMs9rHMtb5r-276" edge="1">
+        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-275" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="5-Fy5Tqy5fMs9rHMtb5r-276" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="995.4999999999995" y="799" as="sourcePoint" />
             <mxPoint x="520.071428571428" y="799" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-276" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-276" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="752" y="759" width="10" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-277" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;Response Ok&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-277" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;Response Ok&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="527" y="777" width="223" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5-Fy5Tqy5fMs9rHMtb5r-280" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Escenario 5: &lt;/b&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Cambio de NIP de una tarjeta de débito Personalizada para un BIN migrado a Plard en el flujo de Reposición de Tarjeta.&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#b5739d&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Realizar el cambio de NIP de una tarjeta de débito Personalizada para un BIN migrado a Plard durante el proceso de Reposición de Tarjeta.&lt;/font&gt;&lt;/div&gt;&lt;br&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;strokeWidth=1;" parent="1" vertex="1">
