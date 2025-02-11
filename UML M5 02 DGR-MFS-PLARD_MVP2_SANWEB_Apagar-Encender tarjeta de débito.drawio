@@ -1,6 +1,6 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11" pages="2">
   <diagram name="SANWEB - Apagar - Encender tarjetas de débito" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="2300" dy="5084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2980" dy="5145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -761,6 +761,9 @@
         <mxCell id="t7k00GMHimPmGSpdGtB--245" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Cliente visualiza el nuevo estatus de la tarjeta de débito [Apagada - Encendida]&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-330" y="4463" width="97" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="t7k00GMHimPmGSpdGtB--594" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Formato de salida:&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#23445d;fontSize=14;fontStyle=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-710" y="-1937" width="720" height="17" as="geometry" />
+        </mxCell>
         <mxCell id="t7k00GMHimPmGSpdGtB--533" value="Transacción Altair 390: LMWN&#xa;Formato de Entrada:" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="-709" y="-2210" width="719" height="268" as="geometry" />
         </mxCell>
@@ -1052,17 +1055,14 @@
             <mxRectangle width="160" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t7k00GMHimPmGSpdGtB--594" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Formato de salida:&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#23445d;fontSize=14;fontStyle=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-710" y="-1937" width="720" height="17" as="geometry" />
-        </mxCell>
         <mxCell id="t7k00GMHimPmGSpdGtB--595" value="&lt;div data-ccp-timestamp=&quot;1732256161674&quot;&gt;&lt;span style=&quot;color: rgb(36, 36, 36); font-family: &amp;quot;Aptos Narrow&amp;quot;, Calibri, &amp;quot;sans-serif&amp;quot;, &amp;quot;Mongolian Baiti&amp;quot;, &amp;quot;Microsoft Yi Baiti&amp;quot;, &amp;quot;Javanese Text&amp;quot;, &amp;quot;Yu Gothic&amp;quot;; font-size: 11px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;No existe formato de salida&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="-710" y="-1918" width="720" height="29" as="geometry" />
         </mxCell>
+        <mxCell id="t7k00GMHimPmGSpdGtB--597" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-860" y="-2220" width="70" height="340" as="geometry" />
+        </mxCell>
         <mxCell id="t7k00GMHimPmGSpdGtB--596" value="Transacciones" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontSize=14;fontStyle=1;align=center;container=0;" parent="1" vertex="1">
           <mxGeometry x="-720" y="-2260" width="740" height="37.3" as="geometry" />
-        </mxCell>
-        <mxCell id="t7k00GMHimPmGSpdGtB--597" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="-720" y="-2220" width="740" height="340" as="geometry" />
         </mxCell>
         <mxCell id="GImUK0zcunTOlfTIrnHA-111" value="PATH PARAMETERS" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="70" y="-3433" width="920" height="140" as="geometry" />
