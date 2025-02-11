@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11" pages="3">
   <diagram name="SANWEB - Apagar - Encender tarjetas de débito" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2980" dy="5145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -4705,6 +4705,17 @@
         </mxCell>
         <mxCell id="QOJwp3pk0zYt3Cambvdv-27" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;CONTROL DE VERSIONES&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#36393D;fontSize=20;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="50" width="1120" height="41" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LFk-U0DecBapQDkbkfWj" name="Página-3">
+    <mxGraphModel dx="1034" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yQfhhJPzOt6Fqn_rf9KI-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Pruebas Unitarias&lt;/h1&gt;&lt;p&gt;* Encendido y apagado de tarjeta&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;lt;CaaS Integration Layer&amp;gt;&amp;gt; device-lock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;- 2 Integration Layer Microservicio «device-lock»&lt;/p&gt;&lt;p&gt;Validación de flujo completo de retiro desde Terminal Financiera&lt;/p&gt;&lt;p&gt;Validacion de Cliente PLARD existente correctamente&amp;nbsp;&lt;/p&gt;&lt;p&gt;Validacion de invocacion MS [device-lock] correctamente&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;lt;&amp;lt;Repositorio&amp;gt;&amp;gt; Kafka&lt;/p&gt;&lt;p&gt;- 3 KAFKA&lt;/p&gt;&lt;p&gt;Validacion de registro de bitacora de trama en KAFKA correctamente&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;lt;&amp;lt;Componente&amp;gt;&amp;gt; CardPlaceLocator&lt;/p&gt;&lt;p&gt;Validacion de invocacion API PLARD [card-place-locator] correctamente&lt;/p&gt;&lt;p&gt;Validacion de datos de entrada obligatorios API PLARD [card-place-locator] correctamente&lt;/p&gt;&lt;p&gt;Validacion de datos de salida obligatorios API PLARD [card-place-locator] correctamente&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="660" height="790" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
