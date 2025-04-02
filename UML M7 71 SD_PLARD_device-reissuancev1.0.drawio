@@ -899,16 +899,16 @@
         <mxCell id="Jrj3K5oM6XycJpFboLAt-1" value="PLARD" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" width="310" height="1440" as="geometry" />
         </mxCell>
-        <mxCell id="7V64ywcQ7KQXjAn3rCrc-4" value="Consulta dispositivo&#xa;/life-cycle/v4/devices/details" style="whiteSpace=wrap;strokeWidth=2;" parent="Jrj3K5oM6XycJpFboLAt-1" vertex="1">
+        <mxCell id="7V64ywcQ7KQXjAn3rCrc-4" value="Consulta dispositivo&#xa;/life-cycle/v4/devices/details" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Jrj3K5oM6XycJpFboLAt-1" vertex="1">
           <mxGeometry x="37" y="310" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TQKvXvZxbfKU3Vj2HPAs-4" value="Obtener JWKS PLARD&#xa;/v1/jwks" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="Jrj3K5oM6XycJpFboLAt-1" vertex="1">
+        <mxCell id="TQKvXvZxbfKU3Vj2HPAs-4" value="Obtener JWKS PLARD&#xa;/v1/jwks" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Jrj3K5oM6XycJpFboLAt-1" vertex="1">
           <mxGeometry x="40" y="652" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TQKvXvZxbfKU3Vj2HPAs-8" value="Obtener PAN&#xa;/v1/card-data" style="whiteSpace=wrap;strokeWidth=2;" parent="Jrj3K5oM6XycJpFboLAt-1" vertex="1">
+        <mxCell id="TQKvXvZxbfKU3Vj2HPAs-8" value="Obtener PAN&#xa;/v1/card-data" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Jrj3K5oM6XycJpFboLAt-1" vertex="1">
           <mxGeometry x="40" y="773" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="97hnwuouVTCs4FXiuhdW-3" value="Reemitir dispositivo&#xa;/life-cycle/v3/devices/issue" style="whiteSpace=wrap;strokeWidth=2;" parent="Jrj3K5oM6XycJpFboLAt-1" vertex="1">
+        <mxCell id="97hnwuouVTCs4FXiuhdW-3" value="Reemitir dispositivo&#xa;/life-cycle/v3/devices/issue" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Jrj3K5oM6XycJpFboLAt-1" vertex="1">
           <mxGeometry x="40" y="510" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x-OzrVc1f87XB2SiIHPI-9" value="Respuesta" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7V64ywcQ7KQXjAn3rCrc-4" target="x-OzrVc1f87XB2SiIHPI-7" edge="1">
