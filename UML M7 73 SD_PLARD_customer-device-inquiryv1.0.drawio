@@ -1310,7 +1310,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Flujo LMMA MQ" id="51HgNid46i0kt2LYsZxz">
-    <mxGraphModel dx="1754" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1812" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="1JxEDitFdkoflMVt4dnz-0" />
         <mxCell id="1JxEDitFdkoflMVt4dnz-1" parent="1JxEDitFdkoflMVt4dnz-0" />
@@ -1458,6 +1458,9 @@
         </mxCell>
         <mxCell id="aO6J4I16kDmRYDF1fSYm-42" value="Consultar el indicador de reversibilidad del bloqueo&#xa;Se consulta el listado y se busca el código de bloqueo y de ahí se obtiene el valor del indicador&#xa;(GET) /life-cycle/v3/block-codes" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aO6J4I16kDmRYDF1fSYm-40">
           <mxGeometry x="37" y="647" width="230" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="xGfy7CiXoeBZPn56FrVQ-0" value="Validar dispositivo en PLARD&lt;div&gt;&lt;br&gt;&lt;div&gt;Validar de situacion de activacion &quot;Pendiente de activar&quot;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;= 2&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Obtener el saldo de la tarjeta&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Obtener indicador de reversibilidad de bloqueo consulta API PLARD&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aO6J4I16kDmRYDF1fSYm-40">
+          <mxGeometry x="70" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aO6J4I16kDmRYDF1fSYm-43" value="Response" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1JxEDitFdkoflMVt4dnz-1" source="aO6J4I16kDmRYDF1fSYm-41" target="aO6J4I16kDmRYDF1fSYm-32">
           <mxGeometry relative="1" as="geometry">
