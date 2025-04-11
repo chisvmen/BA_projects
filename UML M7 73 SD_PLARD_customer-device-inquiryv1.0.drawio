@@ -1310,7 +1310,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Flujo LMMA MQ" id="51HgNid46i0kt2LYsZxz">
-    <mxGraphModel dx="3454" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1754" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="1JxEDitFdkoflMVt4dnz-0" />
         <mxCell id="1JxEDitFdkoflMVt4dnz-1" parent="1JxEDitFdkoflMVt4dnz-0" />
@@ -1341,7 +1341,7 @@
         <mxCell id="aO6J4I16kDmRYDF1fSYm-8" value="customer-device-inquiry" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1JxEDitFdkoflMVt4dnz-1">
           <mxGeometry x="250" width="310" height="1480" as="geometry" />
         </mxCell>
-        <mxCell id="aO6J4I16kDmRYDF1fSYm-9" value="Recibir mensaje de Redis Stream" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aO6J4I16kDmRYDF1fSYm-8">
+        <mxCell id="aO6J4I16kDmRYDF1fSYm-9" value="Recibir mensaje de Redis Stream" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="aO6J4I16kDmRYDF1fSYm-8">
           <mxGeometry x="40" y="70" width="230" height="79" as="geometry" />
         </mxCell>
         <mxCell id="aO6J4I16kDmRYDF1fSYm-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;" edge="1" parent="aO6J4I16kDmRYDF1fSYm-8" source="aO6J4I16kDmRYDF1fSYm-9" target="aO6J4I16kDmRYDF1fSYm-20">
@@ -1356,13 +1356,13 @@
         <mxCell id="aO6J4I16kDmRYDF1fSYm-12" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="aO6J4I16kDmRYDF1fSYm-8">
           <mxGeometry x="82" y="817" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aO6J4I16kDmRYDF1fSYm-13" value="Obtener consulta de LMMA en PAMPA vía AltairConnectorLibrary" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aO6J4I16kDmRYDF1fSYm-8">
+        <mxCell id="aO6J4I16kDmRYDF1fSYm-13" value="Obtener consulta de LMMA en PAMPA vía AltairConnectorLibrary" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="aO6J4I16kDmRYDF1fSYm-8">
           <mxGeometry x="40" y="887" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aO6J4I16kDmRYDF1fSYm-14" value="Procesar respuestas para unir valores de PAMPA y PLARD" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aO6J4I16kDmRYDF1fSYm-8">
+        <mxCell id="aO6J4I16kDmRYDF1fSYm-14" value="Procesar respuestas para unir valores de PAMPA y PLARD" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="aO6J4I16kDmRYDF1fSYm-8">
           <mxGeometry x="40" y="1007" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aO6J4I16kDmRYDF1fSYm-15" value="Construir respuesta para el Launcher&#xa;Mensaje en formato PS7" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aO6J4I16kDmRYDF1fSYm-8">
+        <mxCell id="aO6J4I16kDmRYDF1fSYm-15" value="Construir respuesta para el Launcher&#xa;Mensaje en formato PS7" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="aO6J4I16kDmRYDF1fSYm-8">
           <mxGeometry x="40" y="1097" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aO6J4I16kDmRYDF1fSYm-16" value="PLARD" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="aO6J4I16kDmRYDF1fSYm-8" source="aO6J4I16kDmRYDF1fSYm-26" target="aO6J4I16kDmRYDF1fSYm-14">
@@ -1432,7 +1432,7 @@
         <mxCell id="aO6J4I16kDmRYDF1fSYm-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aO6J4I16kDmRYDF1fSYm-8" source="aO6J4I16kDmRYDF1fSYm-34" target="aO6J4I16kDmRYDF1fSYm-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aO6J4I16kDmRYDF1fSYm-34" value="Por cada dispositivo validar &#xa;devices[].deviceSituation = 2 (pendiente de activar) El resto se eliminan&#xa;Para los registros que cumplan se obtiene el saldo y el indicador de reversibilidad del bloqueo" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aO6J4I16kDmRYDF1fSYm-8">
+        <mxCell id="aO6J4I16kDmRYDF1fSYm-34" value="Por cada dispositivo validar &#xa;devices[].deviceSituation = 2 (pendiente de activar) El resto se eliminan&#xa;Para los registros que cumplan se obtiene el saldo y el indicador de reversibilidad del bloqueo" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="aO6J4I16kDmRYDF1fSYm-8">
           <mxGeometry x="40" y="581" width="230" height="99" as="geometry" />
         </mxCell>
         <mxCell id="aO6J4I16kDmRYDF1fSYm-35" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="aO6J4I16kDmRYDF1fSYm-8">
