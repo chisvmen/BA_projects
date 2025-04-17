@@ -152,7 +152,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Odz66fGfVXUa73Z1G_IH" name="IVR-Autentificación Cliente">
-    <mxGraphModel dx="2705" dy="8846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2780" dy="8893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1948,10 +1948,10 @@
         <mxCell id="7SSnHTooMF5In2eq409F-55" value="Consultar dispositivos de un cliente&#xa;/life-cycle/v4/devices/origin-persons/{originPerson}/details" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="7SSnHTooMF5In2eq409F-53">
           <mxGeometry x="37" y="790" width="230" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="7SSnHTooMF5In2eq409F-56" value="Obtener JWKS PLARD&#xa;/v1/jwks" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="7SSnHTooMF5In2eq409F-53">
+        <mxCell id="7SSnHTooMF5In2eq409F-56" value="Obtener JWKS PLARD&#xa;/v1/jwks" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="7SSnHTooMF5In2eq409F-53">
           <mxGeometry x="40" y="1269" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7SSnHTooMF5In2eq409F-57" value="Obtener PAN&#xa;/v1/card-data" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="7SSnHTooMF5In2eq409F-53">
+        <mxCell id="7SSnHTooMF5In2eq409F-57" value="Obtener PAN&#xa;/v1/card-data" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="7SSnHTooMF5In2eq409F-53">
           <mxGeometry x="40" y="1390" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7SSnHTooMF5In2eq409F-58" value="Resultado" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7SSnHTooMF5In2eq409F-54" target="7SSnHTooMF5In2eq409F-23">
