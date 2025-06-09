@@ -129,7 +129,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SuperMovil_LML8_Autenticacion Clientes TDC" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1209" dy="1865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="827" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -273,7 +273,7 @@
         <mxCell id="eI9l-XEfScTaXbGVceM7-99" value="Componente&lt;div&gt;&lt;b&gt;Launcher PLARD&lt;/b&gt;&lt;br&gt;&lt;div&gt;Recibe respuesta&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;consulta datos del cliente y tarjeta débito&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[LML8]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="vtx71rYAX6kZKPzqjoek-152" vertex="1">
           <mxGeometry x="1720" y="2666" width="161" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="V1PM52HNNaTjWUB9SeSt-2" value="Microservicio&lt;div&gt;&lt;b&gt;device-security&lt;/b&gt;&lt;br&gt;&lt;div&gt;Recupera del API:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Device Life Cycle los siguientes atributos:&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; - deviceSituation&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; - operationalBlockIndicator&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; - expirationDate&lt;/div&gt;&lt;div&gt;&amp;nbsp; - previousExpirationDate&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="vtx71rYAX6kZKPzqjoek-152" vertex="1">
+        <mxCell id="V1PM52HNNaTjWUB9SeSt-2" value="Microservicio&lt;div&gt;&lt;b&gt;device-security&lt;/b&gt;&lt;br&gt;&lt;div&gt;Recupera del API:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Device Life Cycle los siguientes atributos:&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; - deviceSituation&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; - operationalBlockIndicator&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; - expirationDate&lt;/div&gt;&lt;div&gt;&amp;nbsp; - previousExpirationDate&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="vtx71rYAX6kZKPzqjoek-152" vertex="1">
           <mxGeometry x="1470" y="906" width="190" height="94" as="geometry" />
         </mxCell>
         <mxCell id="V1PM52HNNaTjWUB9SeSt-1" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fillColor=#f8cecc;strokeColor=#000000;" parent="vtx71rYAX6kZKPzqjoek-152" edge="1">
