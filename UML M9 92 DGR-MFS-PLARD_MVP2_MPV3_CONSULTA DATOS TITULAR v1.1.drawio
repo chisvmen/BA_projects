@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.4" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4" pages="5">
   <diagram id="g3efRKUIFH3CFgadWszy" name="Versiones">
     <mxGraphModel dx="786" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2818,6 +2818,17 @@
         </mxCell>
         <mxCell id="jFz-2aBpdxE9M_cfE02Q-41" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Componente&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Splitter / Starter&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Deposita Msj de Error&amp;nbsp; en Redis Streams&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="553" y="451" width="171" height="45" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="L558L8WMO50qChwt5j0p" name="utest MPV3">
+    <mxGraphModel dx="1209" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WSq43S4Zn7V5fqG1qMnT-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;utest&lt;/h1&gt;&lt;p&gt;MPV3&lt;/p&gt;&lt;p&gt;1.&amp;nbsp;&lt;/p&gt;&lt;p&gt;* Realiza consulta del detalle del dispositivo&lt;/p&gt;&lt;p&gt;* [API PLARD - Device Life Cycle - Details Devices consult service /life-cycle/v4/devices/details&lt;/p&gt;&lt;p&gt;* Genera Trama de Bitácora de consulta del detalle del dispositivo&lt;/p&gt;&lt;p&gt;* Publica Trama de Bitacora de consulta del detalle del dispositivo&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;2.&lt;/p&gt;&lt;p&gt;* Realiza consulta de dispositivos por subcontrato&lt;/p&gt;&lt;p&gt;* [API PLARD - Device Life Cycle] - Devices by SubContractId consult service /lifecycle/v3/devices/subcontracts/{subContractId}&lt;/p&gt;&lt;p&gt;* Recupera los deviceId asociados al contrato del response del API PLARD Devices by SubContractId consult service&lt;/p&gt;&lt;p&gt;* Genera Trama de Bitácora de consulta de dispositivos por subcontrato&lt;/p&gt;&lt;p&gt;* Publica Trama de Bitacora de consulta de dispositivos por subcontrato&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;3.&lt;/p&gt;&lt;p&gt;* Realiza consulta del detalle del dispositivo&lt;/p&gt;&lt;p&gt;* [API PLARD - Device Life Cycle /life-cycle/v4/devices/details&lt;/p&gt;&lt;p&gt;* Genera Trama de Bitácora de consulta del detalle del dispositivo&lt;/p&gt;&lt;p&gt;* Publica Trama de Bitacora de consulta del detalle del dispositivo.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;4.&amp;nbsp;&lt;/p&gt;&lt;p&gt;* Obtener llaves publicas JWKS&lt;/p&gt;&lt;p&gt;* [API PLARD - cadastral-domain-api /v1/jwks&lt;/p&gt;&lt;p&gt;* Genera Trama de Bitácora del obtener JWKS&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;5.&amp;nbsp;&lt;/p&gt;&lt;p&gt;* Solicita datos de la tarjeta&lt;/p&gt;&lt;p&gt;* [API PLARD Card Data - cadastral-domain-api /v1/card-data&lt;/p&gt;&lt;p&gt;* Genera Trama de Bitácora del obtener datos de la tarjeta&lt;/p&gt;&lt;p&gt;* Publica Trama de Bitacora del obtener datos de la tarjeta&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;6.&lt;/p&gt;&lt;p&gt;* Solicita la consulta de saldos&amp;nbsp;&lt;/p&gt;&lt;p&gt;* [API GLUON - Account Balances /v3/account_balances_transactions_holds/{account_id}/balances&lt;/p&gt;&lt;p&gt;* Genera Trama de Bitácora de la consulta de saldos&lt;/p&gt;&lt;p&gt;* Publica Trama de Bitacora de la consulta de saldos&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;7.&lt;/p&gt;&lt;p&gt;* Solicita fecha contable&lt;/p&gt;&lt;p&gt;* Genera Trama de Bitácora del obtener fecha contable&lt;/p&gt;&lt;p&gt;* Publica Trama de Bitacora del obtener fecha contable&lt;/p&gt;&lt;p&gt;* Genera response de los formatos MPM0727 y MPM0733 de consulta de datos del titular para el código de proceso 11 [Consulta de saldo] de la TRX [MPV3]&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="700" height="1130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
