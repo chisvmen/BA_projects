@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.2 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.2" pages="17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4" pages="18">
   <diagram name="Componentes" id="yHD6M_T9ESTG9yedbFEl">
     <mxGraphModel dx="2572" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8148,6 +8148,17 @@
             </Array>
             <mxPoint x="6038.5" y="2872.0000000000005" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KxsyNGxXQXf6oyOWp_Xz" name="UTEST LK02">
+    <mxGraphModel dx="1310" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uD2xNaSVm1ByQciejIKK-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;UTEST&lt;/h1&gt;&lt;p&gt;Validar información completa&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Invocación exitosa de Base de Datos Oracle&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Validación exitosa de obtención de llaves publicas JWKS&lt;/p&gt;&lt;p&gt;Validación exitosa de consumo del servicio API PLARD - cadastral-domain-api /v1/jwks&lt;/p&gt;&lt;p&gt;Validación exitosa de ejecución de url endpoint /v1/jwks del API PLARD - cadastral-domain-api&lt;/p&gt;&lt;p&gt;Validación exitosa de datos de entrada obligatorios API PLARD - cadastral-domain-api /v1/jwks&lt;/p&gt;&lt;p&gt;Validación exitosa de datos de salida obligatorios API PLARD - cadastral-domain-api /v1/jwks&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Invocar CardData&lt;/p&gt;&lt;p&gt;Validación exitosa de invocación de CardData&lt;/p&gt;&lt;p&gt;Validación exitosa de consumo de servicio API PLARD Card Data - cadastral-domain-api /v1/card-data&lt;/p&gt;&lt;p&gt;Validación exitosa de ejecución de url endpoint /v1/card-data del API PLARD Card Data - cadastral-domain-api&lt;/p&gt;&lt;p&gt;Validación exitosa de datos de entrada obligatorios API PLARD Card Data - cadastral-domain-api /v1/card-data&lt;/p&gt;&lt;p&gt;Validación exitosa de datos de salida obligatorios API PLARD Card Data - cadastral-domain-api /v1/card-data&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Invocar devices/details&lt;/p&gt;&lt;p&gt;Validación exitosa de ejecución de invocación de devices/details&lt;/p&gt;&lt;p&gt;Validación exitosa de consumo de servicio API PLARD Device Life Cycle /life-cycle/v4/devices/details&lt;/p&gt;&lt;p&gt;Validación exitosa de ejecución de url endpoint /life-cycle/v4/devices/details del API PLARD Device Life Cycle&lt;/p&gt;&lt;p&gt;Validación exitosa de datos de entrada obligatorios API PLARD Device Life Cycle - Devices by SubContractId consult service /lifecycle/v3/devices/subcontracts/{subContractId}&lt;/p&gt;&lt;p&gt;Validación exitosa de datos de salida obligatorios API PLARD Device Life Cycle - Devices by SubContractId consult service /lifecycle/v3/devices/subcontracts/{subContractId}&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="30" width="740" height="750" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
