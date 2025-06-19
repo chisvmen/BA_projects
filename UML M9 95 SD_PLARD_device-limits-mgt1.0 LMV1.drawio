@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.2 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.2" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6" pages="6">
   <diagram name="Componentes" id="Hr5Lzy8-_08L1F_6YtW8">
     <mxGraphModel dx="2572" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1188,6 +1188,17 @@
             <mxPoint x="3510" y="1224" as="sourcePoint" />
             <mxPoint x="3330" y="1091" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fyVMVKsddvUHg-xB2oIw" name="UTEST">
+    <mxGraphModel dx="1429" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sV2rYLLxvC_IdfUkON5o-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;UTEST&lt;/h1&gt;&lt;p&gt;LMV1&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Consulta limites de tarjeta&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;consulta configuracion cardId&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;lt;&amp;lt;API PLARD&amp;gt;&amp;gt; autorizador-domain-api (GET) /restrictions_management/v1/{card_id}/restriction&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;lt;&amp;lt;API PLARD&amp;gt;&amp;gt; Device Life Cycle (GET) /life-cycle/v4/devices/details&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Validación exitosa de generación de trama PS7&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Validación exitosa de publicación de trama PS7&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="610" height="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
