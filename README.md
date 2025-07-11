@@ -1,12 +1,43 @@
-https://excalidraw.com/
-https://http.cat/
-https://editor.swagger.io/
+**Tools BA**
+
 https://www.drawio.com/
+https://excalidraw.com/
 https://www.plantuml.com/
 https://www.figma.com/
-https://app.mural.co/
-https://www.notion.so/8e3a83fc7ab3455cbf1d293bf1d4fad0?v=1087d1f38aeb80e9b733000c6dd999d1
+
+https://github.com/chisvmen
+
+Project 
+https://app.mural.co
+
+https://http.cat/
 https://base64.guru/converter/decode/image
 
-https://es.qr-code-generator.com/
+JIRA
+CONFLUENCE
+https://chatgpt.com/
+EXCEL
+ALM
+VISUAL STUDIO -> IDE -> colecciones -> bloc de notas
+
+https://www.canva.com/
+https://www.notion.so/
+POWER BI / TABLEAU 
+https://public.tableau.com/app/profile/christopher.valencia/vizzes
+
+https://editor.swagger.io/
+https://monday.com/
+TESTING
 chrome://inspect/#devices
+https://www.qr-code-generator.com/
+https://news.google.com/home
+https://www.msn.com/es-mx
+https://www.linkedin.com/
+https://micuenta.infonavit.org.mx/
+https://serviciosocial.ipn.mx/modifica/IModificaPrerregistroSS.do
+https://www.sisae-siboltra.ipn.mx/Login.aspx?ReturnUrl=%2f
+
+
+Zeldas
+https://www.ibm.com/design/thinking/page/toolkit?category=Reflect&goal=Any
+https://www.ibm.com/garage/experience/badges/page/courses/Product_Owner
