@@ -83,7 +83,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-UDol5yNBp8GNmWArzbW" name="MFS TF">
-    <mxGraphModel dx="2137" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1810" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,6 +119,9 @@
         </mxCell>
         <mxCell id="vlQDjtO2IjdKWxiWtrDg-11" value="&lt;div&gt;&lt;b&gt;&amp;lt;&amp;lt;Componente&amp;gt;&amp;gt;&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;card-place-locator&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;size=41;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="vlQDjtO2IjdKWxiWtrDg-8">
           <mxGeometry x="1039" y="128" width="160" height="7683" as="geometry" />
+        </mxCell>
+        <mxCell id="vlQDjtO2IjdKWxiWtrDg-27" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Canal MQ&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;CANAL&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Solicita consulta de datos titular&amp;nbsp; de la TDC&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="vlQDjtO2IjdKWxiWtrDg-8">
+          <mxGeometry x="420" y="463" width="200" height="43" as="geometry" />
         </mxCell>
         <mxCell id="vlQDjtO2IjdKWxiWtrDg-12" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;&amp;lt;&amp;lt;Plataforma SaaS&amp;gt;&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;b style=&quot;&quot;&gt;PLARD&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="2083" y="448" width="160" height="7681" as="geometry" />
@@ -163,7 +166,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vlQDjtO2IjdKWxiWtrDg-23" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;Usuario Santander&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Accede al Canal&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vlQDjtO2IjdKWxiWtrDg-23" value="&lt;span style=&quot;text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;Usuario Santander&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Accede al Canal&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="289" y="574" width="169" height="27" as="geometry" />
         </mxCell>
         <mxCell id="vlQDjtO2IjdKWxiWtrDg-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
@@ -177,7 +180,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vlQDjtO2IjdKWxiWtrDg-25" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;Usuario Santander&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Ejecuta un flujo funcional que&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;requiera de la consulta de NIP&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="649" width="118" height="39" as="geometry" />
+          <mxGeometry x="328" y="649" width="118" height="39" as="geometry" />
         </mxCell>
         <mxCell id="vlQDjtO2IjdKWxiWtrDg-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -185,16 +188,13 @@
             <mxPoint x="718.5" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vlQDjtO2IjdKWxiWtrDg-27" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Canal MQ&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;CANAL&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Solicita consulta de datos titular&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;[MPV3]&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="511" y="783" width="200" height="43" as="geometry" />
-        </mxCell>
         <mxCell id="vlQDjtO2IjdKWxiWtrDg-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="723" y="930" as="sourcePoint" />
             <mxPoint x="956.5" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vlQDjtO2IjdKWxiWtrDg-29" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Queue&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;b&gt;MQ Canal&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Solicita cconsulta de datos titular&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;[MPV3]&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vlQDjtO2IjdKWxiWtrDg-29" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Queue&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;b&gt;MQ Canal&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Solicita consulta de datos titular&amp;nbsp; de la TDC&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="749" y="863" width="202" height="43" as="geometry" />
         </mxCell>
         <mxCell id="vlQDjtO2IjdKWxiWtrDg-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
