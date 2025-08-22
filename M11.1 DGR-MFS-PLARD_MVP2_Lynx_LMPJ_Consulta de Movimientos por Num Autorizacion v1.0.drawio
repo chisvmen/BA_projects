@@ -129,7 +129,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="LYNX - LMPJ" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1209" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2620" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,10 +146,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VL4E7td6cfzt1Sfgcxuz-106" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;exitX=0.502;exitY=0.815;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.507;entryY=0.815;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="VL4E7td6cfzt1Sfgcxuz-106" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;exitX=0.491;exitY=0.79;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.507;entryY=0.815;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="882.3200000000002" y="3980.7999999999993" as="sourcePoint" />
-            <mxPoint x="2325.1200000000003" y="3980.7999999999993" as="targetPoint" />
+            <mxPoint x="1128.56" y="4015.169999999999" as="sourcePoint" />
+            <mxPoint x="2325.1200000000003" y="4012.7999999999993" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -722,6 +722,16 @@
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-166" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="_WbsN6ET8Ei2p6H0vpd8-145" vertex="1">
           <mxGeometry x="2293" y="2419" width="10" height="421" as="geometry" />
         </mxCell>
+        <mxCell id="_WbsN6ET8Ei2p6H0vpd8-206" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;entryX=0.502;entryY=0.789;entryDx=0;entryDy=0;entryPerimeter=0;labelBorderColor=#000000;" parent="_WbsN6ET8Ei2p6H0vpd8-145" edge="1" target="_WbsN6ET8Ei2p6H0vpd8-125">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="858" y="2439.05" as="sourcePoint" />
+            <mxPoint x="1809" y="2439.05" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WbsN6ET8Ei2p6H0vpd8-205" value="&lt;div&gt;&lt;div&gt;Componente&lt;br&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;card-place-locator&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Realiza la solicitud para consultar los bloqueos operativos&amp;nbsp;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de una tarjeta de débito&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[LMPJ]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="_WbsN6ET8Ei2p6H0vpd8-145" vertex="1">
+          <mxGeometry x="1101" y="2407" width="191" height="65" as="geometry" />
+        </mxCell>
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-160" value="" style="line;strokeWidth=2;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;html=1;fontColor=none;labelBorderColor=none;noLabel=1;whiteSpace=wrap;strokeColor=#0000CC;" parent="1" vertex="1">
           <mxGeometry x="31" y="3879" width="3013.5" height="10" as="geometry" />
         </mxCell>
@@ -782,16 +792,6 @@
               <mxPoint x="1886" y="2674.08" />
             </Array>
             <mxPoint x="1856" y="2674.08" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_WbsN6ET8Ei2p6H0vpd8-205" value="&lt;div&gt;&lt;div&gt;Componente&lt;br&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;card-place-locator&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Realiza la solicitud para consultar los bloqueos operativos&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de una tarjeta de débito&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[LMPJ]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1127" y="1180" width="191" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="_WbsN6ET8Ei2p6H0vpd8-206" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" edge="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="1120" y="1248" as="sourcePoint" />
-            <mxPoint x="2071" y="1248" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
