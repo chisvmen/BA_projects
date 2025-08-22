@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1" pages="2">
   <diagram name="LYNX - LMV2" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1312" dy="-3572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1574" dy="-3406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,14 +146,6 @@
         <mxCell id="_ZCC5lQ4M39D_I60fwfq-33" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;detalle complementario de análisis de riesgo de fraude&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la operación de TDD por tipo de canal de operacion ONLINE&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="_ZCC5lQ4M39D_I60fwfq-7">
           <mxGeometry x="220" y="415" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_ZCC5lQ4M39D_I60fwfq-34" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;entryX=0.49;entryY=0.249;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.501;exitY=0.306;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="_ZCC5lQ4M39D_I60fwfq-7">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="668.1599999999999" y="453.0779999999995" as="sourcePoint" />
-            <mxPoint x="899" y="454" as="targetPoint" />
-            <mxPoint as="offset" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_ZCC5lQ4M39D_I60fwfq-35" value="&lt;div&gt;&lt;div&gt;Componente&lt;/div&gt;&lt;div&gt;&lt;b&gt;Lynx&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Informa archivo de calificación de fraude&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;formato layout OP&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="_ZCC5lQ4M39D_I60fwfq-7">
           <mxGeometry x="679.84" y="268" width="188" height="28" as="geometry" />
         </mxCell>
@@ -203,6 +195,14 @@
         </mxCell>
         <mxCell id="_ZCC5lQ4M39D_I60fwfq-52" value="Componente&lt;br&gt;&lt;div&gt;&lt;b&gt;Redis Stream&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Solicita&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;archivo de calificación de fraude&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;formato layout OP&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="_ZCC5lQ4M39D_I60fwfq-7">
           <mxGeometry x="2289" y="598" width="200" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="WmxsNy8J1w0gBHfeQCrC-1" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;entryX=0.49;entryY=0.249;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.501;exitY=0.306;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="_ZCC5lQ4M39D_I60fwfq-7">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="2040" y="778" as="sourcePoint" />
+            <mxPoint x="2270.84" y="778.9220000000005" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1G6nh8UYInP9JPz63gqY-18" value="&lt;div&gt;&lt;div&gt;Canal&lt;/div&gt;&lt;div&gt;&lt;b&gt;ATM&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Muestra Pantalla principal ATM&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="vtx71rYAX6kZKPzqjoek-152" vertex="1">
           <mxGeometry x="157" y="48" width="146" height="33" as="geometry" />
@@ -288,6 +288,30 @@
         </mxCell>
         <mxCell id="_ZCC5lQ4M39D_I60fwfq-50" value="Componente&lt;br&gt;&lt;div&gt;&lt;b&gt;Redis Stream&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Solicita&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;archivo de calificación de fraude&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;formato layout OP&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="Bnk67_aWibF8yN_9XxKm-9">
           <mxGeometry x="2256" y="1170" width="200" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZCC5lQ4M39D_I60fwfq-34" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;entryX=0.49;entryY=0.249;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.501;exitY=0.306;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Bnk67_aWibF8yN_9XxKm-9">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="2487" y="1339.9979999999996" as="sourcePoint" />
+            <mxPoint x="2717.84" y="1340.92" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WmxsNy8J1w0gBHfeQCrC-2" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;entryX=0.49;entryY=0.249;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.501;exitY=0.306;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Bnk67_aWibF8yN_9XxKm-9">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="2017" y="1430" as="sourcePoint" />
+            <mxPoint x="2247.84" y="1430.9220000000005" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WmxsNy8J1w0gBHfeQCrC-3" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;entryX=0.49;entryY=0.249;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.501;exitY=0.306;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Bnk67_aWibF8yN_9XxKm-9">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="1787" y="1470" as="sourcePoint" />
+            <mxPoint x="2017.8400000000001" y="1470.9220000000005" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vtx71rYAX6kZKPzqjoek-155" value="[BIN != BIN Plard]" style="text;html=1;rotation=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="53" y="7459" width="100" height="20" as="geometry" />
