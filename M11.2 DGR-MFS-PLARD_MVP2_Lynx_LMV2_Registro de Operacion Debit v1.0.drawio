@@ -129,7 +129,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="LYNX - LMV2" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1123" dy="1810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1048" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,22 +166,22 @@
         <mxCell id="ToUPSf5seXOrwuXV1P-5-8" value="&lt;div style=&quot;font-weight: 700;&quot;&gt;&amp;lt;&amp;lt;Componente&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Card Place Locator (CPL)&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;size=41;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
           <mxGeometry x="1039" y="77" width="160" height="3113" as="geometry" />
         </mxCell>
-        <mxCell id="eI9l-XEfScTaXbGVceM7-2" value="&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;div&gt;Ingresa TDD a ATM&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;fillColor=none;strokeColor=none;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
-          <mxGeometry x="201" y="201" width="95" height="32" as="geometry" />
+        <mxCell id="eI9l-XEfScTaXbGVceM7-2" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;Canal&lt;/div&gt;&lt;div&gt;&lt;b&gt;ATM&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;Valida TDD del cliente&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;fillColor=none;strokeColor=none;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
+          <mxGeometry x="436" y="303" width="95" height="32" as="geometry" />
         </mxCell>
         <mxCell id="eI9l-XEfScTaXbGVceM7-5" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fillColor=#f8cecc;strokeColor=default;" parent="Bnk67_aWibF8yN_9XxKm-9" edge="1">
           <mxGeometry x="-0.2922" y="20" relative="1" as="geometry">
-            <mxPoint x="165" y="205.02000000000044" as="sourcePoint" />
+            <mxPoint x="404" y="308.94000000000045" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="195" y="205.08000000000038" />
-              <mxPoint x="195" y="235.08000000000038" />
+              <mxPoint x="434" y="309.0000000000004" />
+              <mxPoint x="434" y="339.0000000000004" />
             </Array>
-            <mxPoint x="165" y="235.08000000000038" as="targetPoint" />
+            <mxPoint x="404" y="339.0000000000004" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eI9l-XEfScTaXbGVceM7-7" value="&lt;div&gt;&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Valida informacion TDD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
-          <mxGeometry x="174" y="251" width="210" height="34" as="geometry" />
+        <mxCell id="eI9l-XEfScTaXbGVceM7-7" value="&lt;div&gt;&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Ingresa TDD a ATM&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
+          <mxGeometry x="167" y="252" width="210" height="34" as="geometry" />
         </mxCell>
         <mxCell id="CMBcmEEe2xLacPRuAHOP-1" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span&gt;&lt;b style=&quot;&quot;&gt;&amp;lt;&amp;lt;Plataforma SaaS&amp;gt;&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;b&gt;PLARD&lt;/b&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
           <mxGeometry x="2480" y="78" width="160" height="3120" as="geometry" />
@@ -203,7 +203,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1G6nh8UYInP9JPz63gqY-18" value="&lt;div&gt;&lt;div&gt;Canal&lt;/div&gt;&lt;div&gt;&lt;b&gt;ATM&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Muestra Pantalla principal ATM&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
-          <mxGeometry x="174" y="314" width="146" height="33" as="geometry" />
+          <mxGeometry x="174" y="319" width="146" height="33" as="geometry" />
         </mxCell>
         <mxCell id="1G6nh8UYInP9JPz63gqY-20" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;" parent="Bnk67_aWibF8yN_9XxKm-9" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
@@ -212,8 +212,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1G6nh8UYInP9JPz63gqY-21" value="&lt;div&gt;&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Realiza Operación de TDD:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;- Pago de Tarjeta (CU08)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;- Pago de Servicios (CU09)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;- Transferencias (CU10)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;fillColor=none;strokeColor=none;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
-          <mxGeometry x="210" y="378" width="138" height="32" as="geometry" />
+        <mxCell id="1G6nh8UYInP9JPz63gqY-21" value="&lt;div&gt;&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Realiza Operación de TDD:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;- Pago de Tarjeta (CU08)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;- Pago de Servicios (CU09)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;- Transferencias (CU10)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;fillColor=none;strokeColor=none;labelBackgroundColor=none;" parent="Bnk67_aWibF8yN_9XxKm-9" vertex="1">
+          <mxGeometry x="174" y="378" width="138" height="32" as="geometry" />
         </mxCell>
         <mxCell id="1G6nh8UYInP9JPz63gqY-22" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fillColor=#f8cecc;strokeColor=#000000;" parent="Bnk67_aWibF8yN_9XxKm-9" edge="1">
           <mxGeometry x="-0.2922" y="20" relative="1" as="geometry">
@@ -244,7 +244,7 @@
           <mxGeometry x="1764" y="359" width="160" height="3121" as="geometry" />
         </mxCell>
         <mxCell id="ToUPSf5seXOrwuXV1P-5-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="161" y="480" width="10" height="2480" as="geometry" />
+          <mxGeometry x="161" y="470" width="10" height="2490" as="geometry" />
         </mxCell>
         <mxCell id="ToUPSf5seXOrwuXV1P-5-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="401" y="1060" width="10" height="1951" as="geometry" />
@@ -888,6 +888,12 @@
         </mxCell>
         <mxCell id="dFW4b_XCHeokCsXfP_HH-1" value="&lt;div&gt;&amp;lt;&amp;lt;XXXX&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;STRATOS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="3200" y="359.5" width="160" height="3120" as="geometry" />
+        </mxCell>
+        <mxCell id="ViIZF2RiaCdKcDCP_9ac-2" value="Escenarios" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="530" y="3500" width="514" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ViIZF2RiaCdKcDCP_9ac-3" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 13px;&quot;&gt;Escenario 1: Validación por&amp;nbsp;&lt;/b&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Numero Autorización&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Si la cuenta de TDD se informa el campo número de autorización&amp;nbsp;&lt;b&gt;&quot;NUMAUT&quot;&lt;/b&gt; se consulta tabla de movimientos débito MPDT090. A partir de los campos de entrada de Contrato (CODENT, CENTALTA, CUENTA), Tarjeta (PAN), numero de autorización (NUMAUT) y fecha de factura (FECFAC). Se extraen los campos de Numero de referencia, tipo de factura y ID de autorizador.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="3550" width="513" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
