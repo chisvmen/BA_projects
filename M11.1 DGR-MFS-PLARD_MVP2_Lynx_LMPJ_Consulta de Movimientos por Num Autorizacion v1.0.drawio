@@ -129,7 +129,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="LYNX - LMPJ" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="925" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="715" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -220,9 +220,6 @@
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-129" value="&lt;b&gt;Analista Santander&lt;/b&gt;&lt;div&gt;Ingresa a la opción de Co&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;nsultar los movimientos&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de una tarjeta de débito&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="_WbsN6ET8Ei2p6H0vpd8-122" vertex="1">
           <mxGeometry x="168.5" y="393" width="210" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="_WbsN6ET8Ei2p6H0vpd8-130" value="Lynx&lt;div&gt;&lt;b&gt;Front App Lynx&lt;/b&gt;&lt;br&gt;&lt;div&gt;Solicita consultar los movimientos&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de una tarjeta de débito con reporte riesgo de fraude&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[&lt;b&gt;LMPJ&lt;/b&gt;]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="_WbsN6ET8Ei2p6H0vpd8-122" vertex="1">
-          <mxGeometry x="410" y="421" width="190" height="64" as="geometry" />
-        </mxCell>
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-131" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span&gt;&lt;b style=&quot;&quot;&gt;&amp;lt;&amp;lt;Plataforma SaaS&amp;gt;&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;b&gt;PLARD&lt;/b&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="_WbsN6ET8Ei2p6H0vpd8-122" vertex="1">
           <mxGeometry x="2480" y="78" width="160" height="3120" as="geometry" />
         </mxCell>
@@ -257,16 +254,16 @@
           <mxGeometry x="701.5" y="310" width="10" height="2468" as="geometry" />
         </mxCell>
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-134" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="941.5" y="380" width="10" height="2298" as="geometry" />
+          <mxGeometry x="941.5" y="450" width="10" height="2228" as="geometry" />
         </mxCell>
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-135" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="1418.5" y="528" width="10" height="2070" as="geometry" />
+          <mxGeometry x="1418.5" y="600" width="10" height="1998" as="geometry" />
         </mxCell>
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-136" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="2139.5" y="678" width="10" height="710" as="geometry" />
         </mxCell>
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-137" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="1178.5" y="488" width="10" height="2150" as="geometry" />
+          <mxGeometry x="1178.5" y="570" width="10" height="2068" as="geometry" />
         </mxCell>
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-138" value="&lt;div&gt;&lt;b&gt;&amp;lt;&amp;lt;Componente&amp;gt;&amp;gt;&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Splitter/Starter&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1823.5" y="178" width="160" height="3120" as="geometry" />
@@ -309,9 +306,9 @@
           <mxGeometry x="2122" y="1880" width="161" height="63" as="geometry" />
         </mxCell>
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-153" value="Componente&lt;div&gt;&lt;b&gt;Card Place Locator&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;div&gt;Deposita solicitud para consultar l&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;os movimientos&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;de una tarjeta de débito&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;en Redis Streams&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[LMPJ]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;fillColor=none;strokeColor=none;" parent="_WbsN6ET8Ei2p6H0vpd8-145" vertex="1">
-          <mxGeometry x="1104" y="402" width="191" height="73" as="geometry" />
+          <mxGeometry x="1111.5" y="408" width="191" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="_WbsN6ET8Ei2p6H0vpd8-154" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;exitX=0.5;exitY=0.177;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.498;entryY=0.177;entryDx=0;entryDy=0;entryPerimeter=0;" parent="_WbsN6ET8Ei2p6H0vpd8-145" edge="1">
+        <mxCell id="_WbsN6ET8Ei2p6H0vpd8-154" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;exitX=0.509;exitY=0.192;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.498;entryY=0.177;entryDx=0;entryDy=0;entryPerimeter=0;" parent="_WbsN6ET8Ei2p6H0vpd8-145" edge="1" source="_WbsN6ET8Ei2p6H0vpd8-125">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="1097.6600000000003" y="482.001" as="sourcePoint" />
             <mxPoint x="1335.3400000000001" y="484.24" as="targetPoint" />
@@ -331,7 +328,7 @@
           <mxGeometry x="1352" y="288" width="151" height="45" as="geometry" />
         </mxCell>
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-159" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="_WbsN6ET8Ei2p6H0vpd8-145" vertex="1">
-          <mxGeometry x="1094" y="323" width="10" height="460" as="geometry" />
+          <mxGeometry x="1094" y="410" width="10" height="373" as="geometry" />
         </mxCell>
         <mxCell id="VL4E7td6cfzt1Sfgcxuz-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="_WbsN6ET8Ei2p6H0vpd8-145">
           <mxGeometry x="2536.5" y="361" width="10" height="100" as="geometry" />
@@ -407,6 +404,9 @@
         </mxCell>
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-236" value="Microservicio&lt;div&gt;&lt;div&gt;&lt;b&gt;device-transaction-inquiry&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Genera trama de bitácora&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;formato PS7&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de consulta los movimientos de una tarjeta de débito&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="_WbsN6ET8Ei2p6H0vpd8-145" vertex="1">
           <mxGeometry x="1862" y="852" width="160" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="_WbsN6ET8Ei2p6H0vpd8-130" value="Lynx&lt;div&gt;&lt;b&gt;Front App Lynx&lt;/b&gt;&lt;br&gt;&lt;div&gt;Solicita consultar los movimientos&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de una tarjeta de débito con alerta de reporte de riesgo de fraude&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[&lt;b&gt;LMPJ&lt;/b&gt;]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="_WbsN6ET8Ei2p6H0vpd8-145" vertex="1">
+          <mxGeometry x="390" y="224" width="190" height="64" as="geometry" />
         </mxCell>
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-160" value="" style="line;strokeWidth=2;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;html=1;fontColor=none;labelBorderColor=none;noLabel=1;whiteSpace=wrap;strokeColor=#0000CC;" parent="1" vertex="1">
           <mxGeometry x="566.5" y="1749" width="2520" height="10" as="geometry" />
