@@ -129,7 +129,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="LYNX - LMPJ" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1572" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1747" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -370,7 +370,7 @@
           <mxGeometry x="1857.5" y="529" width="177" height="49.82" as="geometry" />
         </mxCell>
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-152" value="Componente&lt;div&gt;&lt;b&gt;Launcher PLARD&lt;/b&gt;&lt;br&gt;&lt;div&gt;Recibe respuesta&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la consulta de los movimientos de una tarjeta de débito&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[LMPJ]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="_WbsN6ET8Ei2p6H0vpd8-145" vertex="1">
-          <mxGeometry x="2122" y="2399" width="161" height="63" as="geometry" />
+          <mxGeometry x="2122" y="2486" width="161" height="63" as="geometry" />
         </mxCell>
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-153" value="Componente&lt;div&gt;&lt;b&gt;Card Place Locator&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;div&gt;Envía petición con solicitud para consultar l&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;os movimientos&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;de una tarjeta de débito&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&amp;nbsp;con alerta de reporte de riesgo de fraude&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;[LMPJ]&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;fillColor=none;strokeColor=none;" parent="_WbsN6ET8Ei2p6H0vpd8-145" vertex="1">
           <mxGeometry x="1108.5" y="415" width="191" height="73" as="geometry" />
@@ -578,10 +578,10 @@
           <mxGeometry x="586.5" y="2524" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-162" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="3342.5" y="2497" width="10" height="100" as="geometry" />
+          <mxGeometry x="3342.5" y="2584" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-166" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="2861.5" y="2417" width="10" height="640" as="geometry" />
+          <mxGeometry x="2861.5" y="2504" width="10" height="640" as="geometry" />
         </mxCell>
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-169" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
@@ -654,41 +654,41 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-208" value="Queque&lt;div&gt;&lt;b&gt;MQ 390&lt;/b&gt;&lt;br&gt;&lt;div&gt;Solicita ejecución de la consulta de movimientos de una tarjeta de débito&lt;/div&gt;&lt;div&gt;[LMPJ]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="2905.5" y="2445" width="201" height="60" as="geometry" />
+          <mxGeometry x="2905.5" y="2532" width="201" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-209" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="2871.5" y="2508" as="sourcePoint" />
-            <mxPoint x="3342.5" y="2508" as="targetPoint" />
+            <mxPoint x="2871.5" y="2595" as="sourcePoint" />
+            <mxPoint x="3342.5" y="2595" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-210" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fillColor=#f8cecc;strokeColor=#000000;" parent="1" edge="1">
           <mxGeometry x="-0.2922" y="20" relative="1" as="geometry">
-            <mxPoint x="3352.5" y="2524.0200000000004" as="sourcePoint" />
+            <mxPoint x="3352.5" y="2611.0200000000004" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="3382.5" y="2524.0800000000004" />
-              <mxPoint x="3382.5" y="2554.0800000000004" />
+              <mxPoint x="3382.5" y="2611.0800000000004" />
+              <mxPoint x="3382.5" y="2641.0800000000004" />
             </Array>
-            <mxPoint x="3352.5" y="2554.0800000000004" as="targetPoint" />
+            <mxPoint x="3352.5" y="2641.0800000000004" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-211" value="Realiza la consulta por device-id los movimientos de la tarjeta de débito&lt;div style=&quot;&quot;&gt;{LMPJ}&lt;/div&gt;&lt;p style=&quot;margin-left: 20.6pt; text-indent: -0.25in; font-size: 10px;&quot; class=&quot;TableText&quot;&gt;&lt;i&gt;&lt;span style=&quot;&quot; lang=&quot;ES&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="3384.75" y="2516" width="175.75" height="47" as="geometry" />
+          <mxGeometry x="3384.75" y="2603" width="175.75" height="47" as="geometry" />
         </mxCell>
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-212" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;" parent="1" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="2871.5" y="2589" as="sourcePoint" />
-            <mxPoint x="3341.5" y="2589" as="targetPoint" />
+            <mxPoint x="2871.5" y="2676" as="sourcePoint" />
+            <mxPoint x="3341.5" y="2676" as="targetPoint" />
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="3003.5" y="2589" />
+              <mxPoint x="3003.5" y="2676" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-213" value="Queque&lt;div&gt;&lt;b&gt;MQ 390&lt;/b&gt;&lt;br&gt;&lt;div&gt;Recibe respuesta&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la consulta de movimientos de una tarjeta de débito&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[LMPJ]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="3138.5" y="2525" width="201" height="60" as="geometry" />
+          <mxGeometry x="3138.5" y="2612" width="201" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_WbsN6ET8Ei2p6H0vpd8-229" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="2619.5" y="1588" width="10" height="58" as="geometry" />
