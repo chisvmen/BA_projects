@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1" pages="2">
   <diagram name="LYNX - LMV2" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1968" dy="-3157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1049" dy="-3737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,9 +151,6 @@
             <mxPoint x="425.3599999999999" y="337" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="_ZCC5lQ4M39D_I60fwfq-33" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;detalle complementario de análisis de riesgo de fraude&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la operación de TDD por tipo de canal de operacion ONLINE&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="_ZCC5lQ4M39D_I60fwfq-7">
-          <mxGeometry x="220" y="415" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_ZCC5lQ4M39D_I60fwfq-35" value="&lt;div&gt;&lt;div&gt;Componente&lt;/div&gt;&lt;div&gt;&lt;b&gt;Lynx&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Informa archivo de calificación de fraude&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;formato layout OP&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="_ZCC5lQ4M39D_I60fwfq-7">
           <mxGeometry x="679.84" y="268" width="188" height="28" as="geometry" />
@@ -436,6 +433,12 @@
         </mxCell>
         <mxCell id="WmxsNy8J1w0gBHfeQCrC-84" value="&lt;div&gt;&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Realiza Operación de TDD:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Transferencias ||&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Pago de Servicios ||&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Pago de Tarjeta&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;fillColor=none;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="_ZCC5lQ4M39D_I60fwfq-7">
           <mxGeometry x="-49.99900000000005" y="2307.5" width="226" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZCC5lQ4M39D_I60fwfq-33" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;detalle complementario de análisis de riesgo de fraude&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la operación de TDD por tipo de canal de operacion ONLINE&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="_ZCC5lQ4M39D_I60fwfq-7">
+          <mxGeometry x="213.06" y="398" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WmxsNy8J1w0gBHfeQCrC-87" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="_ZCC5lQ4M39D_I60fwfq-7">
+          <mxGeometry x="660" y="307" width="10" height="32" as="geometry" />
         </mxCell>
         <mxCell id="1G6nh8UYInP9JPz63gqY-18" value="&lt;div&gt;&lt;div&gt;Canal&lt;/div&gt;&lt;div&gt;&lt;b&gt;ATM&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Muestra Pantalla principal ATM&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="vtx71rYAX6kZKPzqjoek-152" vertex="1">
           <mxGeometry x="157" y="48" width="146" height="33" as="geometry" />
