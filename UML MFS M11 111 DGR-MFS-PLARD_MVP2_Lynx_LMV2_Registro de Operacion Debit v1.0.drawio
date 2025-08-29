@@ -897,7 +897,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ou96NH7bWDuFEMM5TTSn" name="LMV2 - Registro de Operación Débito">
-    <mxGraphModel dx="1048" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1572" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1371,12 +1371,6 @@
         </mxCell>
         <mxCell id="fG8T-3T1jb3XkCLV822A-119" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;div&gt;Queue&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;b&gt;MQ Canal&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Recibe&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;solicitud de registro de operación de TDD por&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;reporte de&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;riesgo de fraude&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;[LMV2]&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;align=left;" parent="1" vertex="1">
           <mxGeometry x="673" y="1750" width="170" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="fG8T-3T1jb3XkCLV822A-120" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;fontSize=9;exitX=0.49;exitY=0.349;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.506;entryY=0.348;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="fG8T-3T1jb3XkCLV822A-29" target="fG8T-3T1jb3XkCLV822A-31" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="434.5" y="3236.0015000000003" as="sourcePoint" />
-            <mxPoint x="211.50999999999976" y="3238.008" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="fG8T-3T1jb3XkCLV822A-121" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;align=left;entryX=0.507;entryY=0.695;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.51;exitY=0.696;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="fG8T-3T1jb3XkCLV822A-19" target="fG8T-3T1jb3XkCLV822A-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
