@@ -202,7 +202,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="puVzL9IjBGw-lWD93tfE" name="Flujo">
-    <mxGraphModel dx="1938" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2431" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -600,6 +600,42 @@
         </mxCell>
         <mxCell id="CjCLbY0rc10upoF-Yp0I-48" value="&lt;br&gt;&lt;div&gt;&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;div&gt;Solicita&amp;nbsp;&lt;span style=&quot;&quot;&gt;cancelación de tarjeta de débito&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;textShadow=0;fontFamily=Helvetica;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-722" y="312" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CjCLbY0rc10upoF-Yp0I-52" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-253" y="1528" as="sourcePoint" />
+            <mxPoint x="-490" y="1528" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CjCLbY0rc10upoF-Yp0I-53" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;Canal&lt;/div&gt;&lt;div&gt;&lt;b&gt;FDMP&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Recibe respuesta de la de cancelación de tarjeta de débito&lt;/div&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="-247.5" y="1429" width="157" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CjCLbY0rc10upoF-Yp0I-54" value="&lt;div&gt;&lt;b&gt;Ejecutivo Santander&lt;/b&gt;&lt;div&gt;&lt;div&gt;Recibe aviso de la de cancelación de tarjeta de débito&lt;/div&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="-481.5" y="1474.5" width="133" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CjCLbY0rc10upoF-Yp0I-55" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-263.5" y="1483" width="10" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="CjCLbY0rc10upoF-Yp0I-56" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;exitX=0.509;exitY=0.126;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.499;entryY=0.126;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-18.05099999999993" y="1495.406" as="sourcePoint" />
+            <mxPoint x="-253.15999999999985" y="1495.6580000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CjCLbY0rc10upoF-Yp0I-57" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-30.5" y="1444" width="10" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="CjCLbY0rc10upoF-Yp0I-58" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-493" y="1565.5" as="sourcePoint" />
+            <mxPoint x="-730" y="1565.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CjCLbY0rc10upoF-Yp0I-59" value="&lt;div&gt;&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;div&gt;&lt;div&gt;Recibe aviso de la de cancelación de tarjeta de débito&lt;/div&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="-721.5" y="1512" width="133" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CjCLbY0rc10upoF-Yp0I-60" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-503.5" y="1520.5" width="10" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
