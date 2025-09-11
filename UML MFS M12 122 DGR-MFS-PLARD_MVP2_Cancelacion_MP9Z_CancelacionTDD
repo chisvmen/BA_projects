@@ -199,10 +199,36 @@
     </mxGraphModel>
   </diagram>
   <diagram id="puVzL9IjBGw-lWD93tfE" name="Flujo">
-    <mxGraphModel dx="3447" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1542" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CjCLbY0rc10upoF-Yp0I-56" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;exitX=0.497;exitY=0.458;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.499;entryY=0.126;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" source="MJDOFzZymx-WJhWPrVH4-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-18.05099999999993" y="1611.406" as="sourcePoint" />
+            <mxPoint x="-253.15999999999985" y="1611.6580000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SA0zZprwiUzHsukatpQd-9" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="216.75" y="1587" as="sourcePoint" />
+            <mxPoint x="-20.25" y="1587" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SA0zZprwiUzHsukatpQd-4" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;exitX=0.5;exitY=0.22;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.518;entryY=0.24;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="213.25" y="786.9200000000001" as="sourcePoint" />
+            <mxPoint x="928.7699999999995" y="786.6399999999999" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SA0zZprwiUzHsukatpQd-13" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="219.25" y="556" as="sourcePoint" />
+            <mxPoint x="449.25" y="556" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CjCLbY0rc10upoF-Yp0I-64" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;entryX=0.507;entryY=0.261;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="1169.25" y="1117.9499999999998" as="sourcePoint" />
@@ -221,6 +247,9 @@
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};whiteSpace=wrap;" vertex="1" parent="MJDOFzZymx-WJhWPrVH4-1">
           <mxGeometry x="78.12" y="2214" width="10" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="Nx8JHkuEhv-yfYOASfGr-87" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="MJDOFzZymx-WJhWPrVH4-1">
+          <mxGeometry x="77" y="390" width="10" height="1170" as="geometry" />
         </mxCell>
         <mxCell id="MJDOFzZymx-WJhWPrVH4-15" value="&lt;div&gt;&amp;lt;&amp;lt;Altair 390&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;PAMPA" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="2056" y="40" width="188.5" height="3420" as="geometry" />
@@ -267,23 +296,16 @@
         <mxCell id="MJDOFzZymx-WJhWPrVH4-38" value="&lt;b&gt;Ejecutivo Santander&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-578" y="40" width="161" height="3410" as="geometry" />
         </mxCell>
-        <mxCell id="SA0zZprwiUzHsukatpQd-1" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;" parent="1" edge="1">
+        <mxCell id="SA0zZprwiUzHsukatpQd-1" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;exitX=0.499;exitY=0.173;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="MJDOFzZymx-WJhWPrVH4-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="454.25" y="635.3299999999999" as="sourcePoint" />
-            <mxPoint x="217.25" y="635.3299999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SA0zZprwiUzHsukatpQd-4" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;exitX=0.5;exitY=0.22;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.518;entryY=0.24;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="213.25" y="786.9200000000001" as="sourcePoint" />
-            <mxPoint x="928.7699999999995" y="786.6399999999999" as="targetPoint" />
-            <mxPoint as="offset" />
+            <mxPoint x="459.25" y="635.3299999999999" as="sourcePoint" />
+            <mxPoint x="222.25" y="635.3299999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SA0zZprwiUzHsukatpQd-6" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;exitX=0.495;exitY=0.399;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="931.4499999999998" y="1557.1139999999996" as="sourcePoint" />
-            <mxPoint x="217.25" y="1556" as="targetPoint" />
+            <mxPoint x="938.4499999999998" y="1557.1139999999996" as="sourcePoint" />
+            <mxPoint x="224.25" y="1556" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SA0zZprwiUzHsukatpQd-8" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;exitX=0.494;exitY=0.164;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.501;entryY=0.164;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
@@ -293,23 +315,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SA0zZprwiUzHsukatpQd-9" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="213.75" y="1587" as="sourcePoint" />
-            <mxPoint x="-23.25" y="1587" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SA0zZprwiUzHsukatpQd-12" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;fontColor=#FF0000;" parent="1" edge="1">
+        <mxCell id="SA0zZprwiUzHsukatpQd-12" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;fontColor=#FF0000;entryX=0.502;entryY=0.118;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="-22.75" y="529" as="sourcePoint" />
-            <mxPoint x="207.25" y="529" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SA0zZprwiUzHsukatpQd-13" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;" parent="1" edge="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="217.25" y="556" as="sourcePoint" />
-            <mxPoint x="447.25" y="556" as="targetPoint" />
+            <mxPoint x="-28.75" y="444" as="sourcePoint" />
+            <mxPoint x="212.3280000000002" y="443.55999999999995" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -341,10 +350,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SA0zZprwiUzHsukatpQd-31" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;" parent="1" edge="1">
+        <mxCell id="SA0zZprwiUzHsukatpQd-31" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;entryX=0.502;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="1180.25" y="1354" as="sourcePoint" />
-            <mxPoint x="1408.25" y="1354" as="targetPoint" />
+            <mxPoint x="1171.25" y="1362" as="sourcePoint" />
+            <mxPoint x="1410.3200000000002" y="1361.6899999999998" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -373,19 +382,19 @@
           <mxGeometry x="449.25" y="545" width="10" height="102" as="geometry" />
         </mxCell>
         <mxCell id="SA0zZprwiUzHsukatpQd-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="928.25" y="772" width="10" height="660" as="geometry" />
+          <mxGeometry x="928.25" y="772" width="10" height="798" as="geometry" />
         </mxCell>
         <mxCell id="SA0zZprwiUzHsukatpQd-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="688.25" y="856" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SA0zZprwiUzHsukatpQd-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="1169.25" y="962" width="10" height="738" as="geometry" />
+          <mxGeometry x="1169.25" y="962" width="10" height="588" as="geometry" />
         </mxCell>
         <mxCell id="SA0zZprwiUzHsukatpQd-15" value="Componente&lt;div&gt;&lt;b&gt;Launcher PLARD&lt;/b&gt;&lt;br&gt;&lt;div&gt;Solicita respuesta de validación del estatus de migración del numero de tarjeta a CPL&amp;nbsp;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="223" y="490" width="182.25" height="62" as="geometry" />
+          <mxGeometry x="231" y="493" width="182.25" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="SA0zZprwiUzHsukatpQd-16" value="&lt;div&gt;Queque&lt;div&gt;&lt;b&gt;MQ Canal&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Recibe solicitud de&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;cancelación de tarjeta de débito adicional adicional&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="-17" y="466" width="217.5" height="44" as="geometry" />
+        <mxCell id="SA0zZprwiUzHsukatpQd-16" value="&lt;div&gt;Queque&lt;div&gt;&lt;b&gt;MQ Canal&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Recibe solicitud de&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;cancelación de tarjeta de débito&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="-17" y="391" width="217.5" height="44" as="geometry" />
         </mxCell>
         <mxCell id="SA0zZprwiUzHsukatpQd-18" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Componente&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;ms-starter&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Redirige al stream asociado al microservicio que ejecuta la transacción&lt;/div&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="710.25" y="879.5" width="165" height="45" as="geometry" />
@@ -397,19 +406,19 @@
           <mxGeometry x="946.25" y="1467" width="189" height="56" as="geometry" />
         </mxCell>
         <mxCell id="SA0zZprwiUzHsukatpQd-24" value="Queque&amp;nbsp;&lt;div&gt;&lt;b&gt;MQ Canal&lt;/b&gt;&lt;div&gt;&lt;div&gt;Recibe&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;el response&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;de la&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;cancelación de tarjeta de débito&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[MP9Z]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="-5.75" y="1523" width="155.5" height="60" as="geometry" />
+          <mxGeometry x="-10.75" y="1525" width="155.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SA0zZprwiUzHsukatpQd-26" value="Microservicio&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;devices-mgt&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Publica trama de pista / bitácora de auditoría de cancelación de tarjeta de débito en Tópico de KAFKA&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="1188.75" y="1291" width="173.5" height="59" as="geometry" />
+          <mxGeometry x="1188.75" y="1299" width="173.5" height="59" as="geometry" />
         </mxCell>
         <mxCell id="SA0zZprwiUzHsukatpQd-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="1410" y="1341" width="10" height="49" as="geometry" />
+          <mxGeometry x="1410" y="1353" width="10" height="35" as="geometry" />
         </mxCell>
         <mxCell id="SA0zZprwiUzHsukatpQd-33" value="Componente&lt;div&gt;&lt;b&gt;Card Place Locator&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;div&gt;Devuelve respuesta del numero de tarjeta al Launcher&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="225.5" y="571.15" width="176.5" height="63" as="geometry" />
+          <mxGeometry x="231.5" y="571.15" width="176.5" height="63" as="geometry" />
         </mxCell>
         <mxCell id="SA0zZprwiUzHsukatpQd-34" value="Componente&lt;div&gt;&lt;b&gt;Launcher PLARD&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Deposita solicitud para&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;cancelación de tarjeta de débito&amp;nbsp;en Stream de Redis&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[MP9Z]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="225.1199999999999" y="723" width="182.25" height="49" as="geometry" />
+          <mxGeometry x="230.1199999999999" y="723" width="182.25" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SA0zZprwiUzHsukatpQd-35" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Componente&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;ms-starter&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Toma del Stream de Redis la solicitud y obtiene información de la transacción&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="710.25" y="803" width="188" height="49" as="geometry" />
@@ -418,30 +427,30 @@
           <mxGeometry x="943.25" y="927.5" width="214" height="49.82" as="geometry" />
         </mxCell>
         <mxCell id="SA0zZprwiUzHsukatpQd-38" value="Componente&lt;div&gt;&lt;b&gt;Launcher PLARD&lt;/b&gt;&lt;br&gt;&lt;div&gt;Recibe&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;el response&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;de la&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;cancelación de tarjeta de débito&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;en Stream de Redis&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[MP9Z]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="226.25" y="1503" width="456.75" height="50" as="geometry" />
+          <mxGeometry x="233.25" y="1504" width="316.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SA0zZprwiUzHsukatpQd-39" value="Microservicio&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;devices-mgt&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Genera responce &lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;cancelación de tarjeta de débito&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="1212" y="1400" width="163.25" height="59" as="geometry" />
         </mxCell>
         <mxCell id="CjCLbY0rc10upoF-Yp0I-8" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;exitX=0.499;exitY=0.072;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="-493.5" y="382.99800000000005" as="sourcePoint" />
-            <mxPoint x="-260.33899999999994" y="382.78999999999996" as="targetPoint" />
+            <mxPoint x="-497.5" y="382.99800000000005" as="sourcePoint" />
+            <mxPoint x="-264.33899999999994" y="382.78999999999996" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CjCLbY0rc10upoF-Yp0I-9" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;exitX=0.499;exitY=0.072;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="-260.6600000000001" y="436.2080000000001" as="sourcePoint" />
-            <mxPoint x="-27.499000000000024" y="436" as="targetPoint" />
+            <mxPoint x="-263.6600000000001" y="415.2080000000001" as="sourcePoint" />
+            <mxPoint x="-30.499000000000024" y="415" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CjCLbY0rc10upoF-Yp0I-10" value="&lt;div&gt;Canal&lt;/div&gt;&lt;b&gt;Front de Medios de Pago&lt;/b&gt;&lt;div&gt;&lt;div&gt;Solicita&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;cancelación de&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tarjeta de debito adicionales&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="-252.5" y="381" width="222.5" height="50" as="geometry" />
+        <mxCell id="CjCLbY0rc10upoF-Yp0I-10" value="&lt;div&gt;Canal&lt;/div&gt;&lt;b&gt;Front de Medios de Pago&lt;/b&gt;&lt;div&gt;&lt;div&gt;Solicita&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;cancelación de&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tarjeta de debito adicional&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="-247.57" y="361" width="202.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CjCLbY0rc10upoF-Yp0I-11" value="&lt;div&gt;&lt;b&gt;Ejecutivo Santander&lt;/b&gt;&lt;div&gt;Solicita&amp;nbsp;&lt;span style=&quot;&quot;&gt;cancelación de&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tarjeta de debito adicionales&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;textShadow=0;fontFamily=Helvetica;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-482" y="340" width="212" height="39" as="geometry" />
+        <mxCell id="CjCLbY0rc10upoF-Yp0I-11" value="&lt;div&gt;&lt;b&gt;Ejecutivo Santander&lt;/b&gt;&lt;div&gt;Solicita&amp;nbsp;&lt;span style=&quot;&quot;&gt;cancelación de&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tarjeta de debito adicional&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;textShadow=0;fontFamily=Helvetica;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="340" width="212" height="39" as="geometry" />
         </mxCell>
         <mxCell id="CjCLbY0rc10upoF-Yp0I-13" value="alt CPL" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="-610" y="656" width="3032" height="2834" as="geometry" />
@@ -469,9 +478,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CjCLbY0rc10upoF-Yp0I-20" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="213.5" y="2677" width="10" height="62" as="geometry" />
-        </mxCell>
         <mxCell id="CjCLbY0rc10upoF-Yp0I-23" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fillColor=#f8cecc;strokeColor=#000000;" parent="1" edge="1">
           <mxGeometry x="-0.2922" y="20" relative="1" as="geometry">
             <mxPoint x="2156.5" y="2604.0200000000004" as="sourcePoint" />
@@ -492,8 +498,8 @@
         <mxCell id="CjCLbY0rc10upoF-Yp0I-25" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2145.5" y="2569" width="10" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="CjCLbY0rc10upoF-Yp0I-26" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="213.5" y="2511" width="10" height="64.5" as="geometry" />
+        <mxCell id="CjCLbY0rc10upoF-Yp0I-26" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="213.5" y="2511" width="10" height="229" as="geometry" />
         </mxCell>
         <mxCell id="CjCLbY0rc10upoF-Yp0I-31" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1892" y="2557" width="10" height="147" as="geometry" />
@@ -588,56 +594,47 @@
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-62" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};whiteSpace=wrap;" vertex="1" parent="CjCLbY0rc10upoF-Yp0I-46">
           <mxGeometry x="305.5" y="2321.5" width="10" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="CjCLbY0rc10upoF-Yp0I-47" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;exitX=0.499;exitY=0.072;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="CjCLbY0rc10upoF-Yp0I-47" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;exitX=0.5;exitY=0.067;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="CjCLbY0rc10upoF-Yp0I-46">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="-731.66" y="269.99800000000005" as="sourcePoint" />
-            <mxPoint x="-498.49899999999997" y="269.78999999999996" as="targetPoint" />
+            <mxPoint x="-736.66" y="269.99800000000005" as="sourcePoint" />
+            <mxPoint x="-503.49899999999997" y="269.78999999999996" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CjCLbY0rc10upoF-Yp0I-48" value="&lt;br&gt;&lt;div&gt;&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;div&gt;Solicita&amp;nbsp;&lt;span style=&quot;&quot;&gt;cancelación de&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tarjeta de debito adicionales&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;textShadow=0;fontFamily=Helvetica;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-717.66" y="216" width="217.66" height="50" as="geometry" />
+          <mxGeometry x="-722.66" y="216" width="217.66" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CjCLbY0rc10upoF-Yp0I-52" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-253" y="1659" as="sourcePoint" />
-            <mxPoint x="-490" y="1659" as="targetPoint" />
+            <mxPoint x="-256" y="1644" as="sourcePoint" />
+            <mxPoint x="-493" y="1644" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CjCLbY0rc10upoF-Yp0I-53" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;Canal&lt;/div&gt;&lt;div&gt;&lt;b&gt;FDMP&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Recibe respuesta de la de cancelación de tarjeta de débito&lt;/div&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="-247.5" y="1560" width="157" height="50" as="geometry" />
+          <mxGeometry x="-244.5" y="1550" width="157" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CjCLbY0rc10upoF-Yp0I-54" value="&lt;div&gt;&lt;b&gt;Ejecutivo Santander&lt;/b&gt;&lt;div&gt;&lt;div&gt;Recibe aviso de la de cancelación de tarjeta de débito&lt;/div&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="-481.5" y="1605.5" width="133" height="50" as="geometry" />
+        <mxCell id="CjCLbY0rc10upoF-Yp0I-54" value="&lt;div&gt;&lt;b&gt;Ejecutivo Santander&lt;/b&gt;&lt;div&gt;&lt;div&gt;Recibe aviso de la cancelación de tarjeta de débito&lt;/div&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="-483.5" y="1592.5" width="133.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CjCLbY0rc10upoF-Yp0I-55" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-263.5" y="1614" width="10" height="58" as="geometry" />
+        <mxCell id="CjCLbY0rc10upoF-Yp0I-55" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-263.5" y="370" width="10" height="1302" as="geometry" />
         </mxCell>
-        <mxCell id="CjCLbY0rc10upoF-Yp0I-56" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;exitX=0.509;exitY=0.126;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.499;entryY=0.126;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="CjCLbY0rc10upoF-Yp0I-57" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-30.5" y="400" width="10" height="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="CjCLbY0rc10upoF-Yp0I-58" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;exitX=0.509;exitY=0.477;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="MJDOFzZymx-WJhWPrVH4-38">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-18.05099999999993" y="1626.406" as="sourcePoint" />
-            <mxPoint x="-253.15999999999985" y="1626.6580000000004" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CjCLbY0rc10upoF-Yp0I-57" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-30.5" y="1575" width="10" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="CjCLbY0rc10upoF-Yp0I-58" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-493" y="1696.5" as="sourcePoint" />
-            <mxPoint x="-730" y="1696.5" as="targetPoint" />
+            <mxPoint x="-488" y="1666.5" as="sourcePoint" />
+            <mxPoint x="-725" y="1666.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CjCLbY0rc10upoF-Yp0I-59" value="&lt;div&gt;&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;div&gt;&lt;div&gt;Recibe aviso de la de cancelación de tarjeta de débito&lt;/div&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="-721" y="1630" width="91.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="CjCLbY0rc10upoF-Yp0I-60" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-503.5" y="1651.5" width="10" height="58" as="geometry" />
+          <mxGeometry x="-721" y="1600" width="91.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CjCLbY0rc10upoF-Yp0I-63" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;entryX=0.497;entryY=0.294;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.495;exitY=0.246;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1651.4499999999998" y="1198.5619999999994" as="sourcePoint" />
-            <mxPoint x="1177.77" y="1197.5239999999994" as="targetPoint" />
+            <mxPoint x="1654.4499999999998" y="1198.5619999999994" as="sourcePoint" />
+            <mxPoint x="1180.77" y="1197.5239999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CjCLbY0rc10upoF-Yp0I-65" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" edge="1">
@@ -655,10 +652,10 @@
           <mxGeometry x="1650.25" y="1103.9499999999998" width="10" height="106" as="geometry" />
         </mxCell>
         <mxCell id="CjCLbY0rc10upoF-Yp0I-67" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Microservicio&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;devices-mgt&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Toma solicitud de&amp;nbsp;&lt;/font&gt;cancelación de tarjeta de débito&lt;div&gt;[MP9Z]&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="1186.75" y="1066.04" width="204.25" height="49.82" as="geometry" />
+          <mxGeometry x="1190.75" y="1066.04" width="204.25" height="49.82" as="geometry" />
         </mxCell>
         <mxCell id="CjCLbY0rc10upoF-Yp0I-68" value="Microservicio&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;devices-mgt&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;Recibe respuesta de la solicitud de&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;cancelación de tarjeta de débito&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="1187" y="1145.9499999999998" width="283.5" height="49" as="geometry" />
+          <mxGeometry x="1191.25" y="1146.4999999999998" width="283.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CjCLbY0rc10upoF-Yp0I-69" value="&lt;font style=&quot;&quot;&gt;Realiza cancelación de tarjeta de débito&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;[API PLARD - Device Life Cycle&lt;/font&gt;&lt;font style=&quot;&quot;&gt;]&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;font&gt;&lt;font style=&quot;&quot;&gt;(&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;POST&lt;/font&gt;)&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;/life-cycle/v3/devices/cancel&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot;margin-left: 20.6pt; text-indent: -0.25in; font-size: 10px;&quot; class=&quot;TableText&quot;&gt;&lt;i&gt;&lt;span style=&quot;&quot; lang=&quot;ES&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="1694.5" y="1124.9499999999998" width="194.75" height="50" as="geometry" />
@@ -675,38 +672,38 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CjCLbY0rc10upoF-Yp0I-73" value="Microservicio&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;devices-mgt&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Realiza solicitud de cancelación de la de tarjeta de débito&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="1212" y="1000" width="248" height="49" as="geometry" />
+          <mxGeometry x="1211" y="998" width="238" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CjCLbY0rc10upoF-Yp0I-77" value="&lt;div&gt;Si respuesta de&amp;nbsp;&lt;/div&gt;&lt;div&gt;[CPL== Plard]&lt;/div&gt;" style="text;html=1;rotation=0;fontStyle=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-604" y="689" width="97" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kBsOZO01UBsmx6_uHo5W-1" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.2922" y="20" relative="1" as="geometry">
-            <mxPoint x="-727" y="174" as="sourcePoint" />
+            <mxPoint x="-724" y="183" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-697" y="174.05999999999995" />
-              <mxPoint x="-697" y="204.05999999999995" />
+              <mxPoint x="-694" y="183.05999999999995" />
+              <mxPoint x="-694" y="213.05999999999995" />
             </Array>
-            <mxPoint x="-727" y="204.05999999999995" as="targetPoint" />
+            <mxPoint x="-724" y="213.05999999999995" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kBsOZO01UBsmx6_uHo5W-2" value="&lt;div&gt;&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;div&gt;Realiza reporte de bloqueo de la tarjeta de debito adicionales&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[MP9Z]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="-694.25" y="155" width="187.25" height="49" as="geometry" />
+          <mxGeometry x="-691.25" y="164" width="187.25" height="49" as="geometry" />
         </mxCell>
         <mxCell id="kBsOZO01UBsmx6_uHo5W-3" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.2922" y="20" relative="1" as="geometry">
-            <mxPoint x="-496" y="290" as="sourcePoint" />
+            <mxPoint x="-493" y="290" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-466" y="290.05999999999995" />
-              <mxPoint x="-466" y="320.05999999999995" />
+              <mxPoint x="-463" y="290.05999999999995" />
+              <mxPoint x="-463" y="320.05999999999995" />
             </Array>
-            <mxPoint x="-496" y="320.05999999999995" as="targetPoint" />
+            <mxPoint x="-493" y="320.05999999999995" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kBsOZO01UBsmx6_uHo5W-4" value="&lt;b&gt;Ejecutivo Santander&lt;/b&gt;&lt;div&gt;Ingresa al Portal del Front de medios de Pago&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="-463.25" y="281" width="187.25" height="39" as="geometry" />
+          <mxGeometry x="-460.25" y="281" width="187.25" height="39" as="geometry" />
         </mxCell>
         <mxCell id="CjCLbY0rc10upoF-Yp0I-50" value="&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;div&gt;Recibe aviso de la solicitud de cancelación&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;exitosa&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la tarjeta de débito adicional&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="-721" y="2777" width="111" height="50" as="geometry" />
@@ -746,10 +743,10 @@
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-29" value="Componente&lt;div&gt;&lt;b&gt;Launcher PLARD&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Recibe respuesta con&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;trama MP9Z&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de activación de tarjeta de débito con mensaje de Error&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[MP9Z]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="227.5" y="2198" width="208.25" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Nx8JHkuEhv-yfYOASfGr-30" value="Microservicio&lt;br&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;activate-card&lt;/b&gt;&lt;div&gt;Realiza ejecución de activación de la tarjeta de débito no exitosa&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Response 4XX&lt;/div&gt;&lt;div style=&quot;&quot;&gt;[MP9Z]&lt;/div&gt;&lt;p style=&quot;margin-left: 20.6pt; text-indent: -0.25in; font-size: 10px;&quot; class=&quot;TableText&quot;&gt;&lt;i&gt;&lt;span style=&quot;&quot; lang=&quot;ES&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="Nx8JHkuEhv-yfYOASfGr-30" value="Microservicio&lt;br&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;devices-mgt&lt;/b&gt;&lt;div&gt;&lt;div&gt;Realiza ejecución de activación de la tarjeta de débito no exitosa&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Response 4XX&lt;/div&gt;&lt;div style=&quot;&quot;&gt;[MP9Z]&lt;/div&gt;&lt;p style=&quot;margin-left: 20.6pt; text-indent: -0.25in; font-size: 10px;&quot; class=&quot;TableText&quot;&gt;&lt;i&gt;&lt;span style=&quot;&quot; lang=&quot;ES&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="1692.25" y="1861" width="175.75" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="Nx8JHkuEhv-yfYOASfGr-31" value="Microservicio&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;activate-card&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Genera trama de bitácora&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;formato PS7&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;de activación de tarjeta de débito&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;con mensaje de Error&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="Nx8JHkuEhv-yfYOASfGr-31" value="Microservicio&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;devices-mgt&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Genera trama de bitácora&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;formato PS7&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;de activación de tarjeta de débito&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;con mensaje de Error&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="1213" y="1975" width="162" height="59" as="geometry" />
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-33" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
@@ -763,7 +760,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nx8JHkuEhv-yfYOASfGr-34" value="Microservicio&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;activate-card&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Publica trama de pista / bitácora de auditoría de activación de tarjeta de débito&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;con mensaje de Error&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;en Tópico de KAFKA&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="Nx8JHkuEhv-yfYOASfGr-34" value="Microservicio&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;devices-mgt&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Publica trama de pista / bitácora de auditoría de activación de tarjeta de débito&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;con mensaje de Error&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;en Tópico de KAFKA&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="1188.5" y="2078" width="196.5" height="59" as="geometry" />
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-35" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
@@ -776,16 +773,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nx8JHkuEhv-yfYOASfGr-38" value="Microservicio&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;activate-card&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;Devuelve respuesta no exitosa a la ejecución de la API PLARD&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="Nx8JHkuEhv-yfYOASfGr-38" value="&lt;div&gt;&lt;font&gt;Microservicio&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;devices-mgt&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;div&gt;Devuelve respuesta no exitosa a la ejecución de la API PLARD&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="1187.5" y="1892" width="175.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-39" value="alt Capa" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=89;height=30;" vertex="1" parent="1">
           <mxGeometry x="-580" y="1780" width="2435" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="Nx8JHkuEhv-yfYOASfGr-40" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Responce PLARD == 4XX || 5XX&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[Response ==&amp;nbsp;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;@2&lt;/span&gt;]&lt;/font&gt;" style="text;html=1;rotation=0;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Nx8JHkuEhv-yfYOASfGr-40" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Responce PLARD == 4XX || 5XX&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[Response ==&amp;nbsp;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;@2&lt;/span&gt;]&lt;/font&gt;" style="text;html=1;rotation=0;whiteSpace=wrap;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-570" y="1818" width="203" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="Nx8JHkuEhv-yfYOASfGr-41" value="&lt;div&gt;Microservicio&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;activate-card&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Deposita trama MP9Z de&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;de activación de tarjeta de débito&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;con mensaje de Error&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;en Stream de Redis&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="Nx8JHkuEhv-yfYOASfGr-41" value="&lt;div&gt;Microservicio&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;devices-mgt&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Deposita trama MP9Z de&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;de activación de tarjeta de débito&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;con mensaje de Error&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;en Stream de Redis&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="944" y="2155" width="218.25" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-42" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;" edge="1" parent="1">
@@ -802,9 +799,9 @@
           <mxGeometry x="1169" y="1947" width="10" height="281" as="geometry" />
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-63" value="alt Capa" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=89;height=30;" vertex="1" parent="1">
-          <mxGeometry x="-578" y="2910" width="2435" height="370" as="geometry" />
+          <mxGeometry x="-578" y="2910" width="2435" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="Nx8JHkuEhv-yfYOASfGr-64" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Responce PLARD == 4XX || 5XX&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[Response ==&amp;nbsp;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;@2&lt;/span&gt;]&lt;/font&gt;" style="text;html=1;rotation=0;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Nx8JHkuEhv-yfYOASfGr-64" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Responce PAMPA == 4XX || 5XX&lt;/font&gt;&lt;/div&gt;" style="text;html=1;rotation=0;whiteSpace=wrap;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-568" y="2948" width="203" height="23" as="geometry" />
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-65" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;entryX=0.507;entryY=0.647;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0.91;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
@@ -892,6 +889,12 @@
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-84" value="&lt;div&gt;&lt;b&gt;Ejecutivo Santander&lt;/b&gt;&lt;div&gt;&lt;div&gt;Recibe aviso de la de cancelación de tarjeta de débito adicional adicional&lt;/div&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="-480.06999999999994" y="3108" width="133" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Nx8JHkuEhv-yfYOASfGr-85" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-735" y="166" width="10" height="3074" as="geometry" />
+        </mxCell>
+        <mxCell id="Nx8JHkuEhv-yfYOASfGr-86" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-503" y="260" width="10" height="1420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
