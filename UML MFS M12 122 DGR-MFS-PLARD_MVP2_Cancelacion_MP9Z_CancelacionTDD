@@ -444,7 +444,7 @@
           <mxGeometry x="-482" y="340" width="212" height="39" as="geometry" />
         </mxCell>
         <mxCell id="CjCLbY0rc10upoF-Yp0I-13" value="alt CPL" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="-610" y="656" width="3032" height="2904" as="geometry" />
+          <mxGeometry x="-610" y="656" width="3032" height="2834" as="geometry" />
         </mxCell>
         <mxCell id="CjCLbY0rc10upoF-Yp0I-14" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;rotation=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="120" y="689" width="70" height="20" as="geometry" />
@@ -743,13 +743,13 @@
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-28" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1649" y="1904" width="10" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="Nx8JHkuEhv-yfYOASfGr-29" value="Componente&lt;div&gt;&lt;b&gt;Launcher PLARD&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Recibe respuesta con&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;trama LMWY&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de activación de tarjeta de débito con mensaje de Error&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[LMWY]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="Nx8JHkuEhv-yfYOASfGr-29" value="Componente&lt;div&gt;&lt;b&gt;Launcher PLARD&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Recibe respuesta con&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;trama MP9Z&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de activación de tarjeta de débito con mensaje de Error&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[MP9Z]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="227.5" y="2198" width="208.25" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Nx8JHkuEhv-yfYOASfGr-30" value="Microservicio&lt;br&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;activate-card&lt;/b&gt;&lt;div&gt;Realiza ejecución de activación de la tarjeta de débito no exitosa&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Response 4XX&lt;/div&gt;&lt;div style=&quot;&quot;&gt;[LMWY]&lt;/div&gt;&lt;p style=&quot;margin-left: 20.6pt; text-indent: -0.25in; font-size: 10px;&quot; class=&quot;TableText&quot;&gt;&lt;i&gt;&lt;span style=&quot;&quot; lang=&quot;ES&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="Nx8JHkuEhv-yfYOASfGr-30" value="Microservicio&lt;br&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;activate-card&lt;/b&gt;&lt;div&gt;Realiza ejecución de activación de la tarjeta de débito no exitosa&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Response 4XX&lt;/div&gt;&lt;div style=&quot;&quot;&gt;[MP9Z]&lt;/div&gt;&lt;p style=&quot;margin-left: 20.6pt; text-indent: -0.25in; font-size: 10px;&quot; class=&quot;TableText&quot;&gt;&lt;i&gt;&lt;span style=&quot;&quot; lang=&quot;ES&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="1692.25" y="1861" width="175.75" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="Nx8JHkuEhv-yfYOASfGr-31" value="Microservicio&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;activate-card&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Genera trama de bitácora&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;formato PS7&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;de activación de tarjeta de débito&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;con mensaje de Error&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;[LMWY]&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="Nx8JHkuEhv-yfYOASfGr-31" value="Microservicio&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;activate-card&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Genera trama de bitácora&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;formato PS7&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;de activación de tarjeta de débito&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;con mensaje de Error&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="1213" y="1975" width="162" height="59" as="geometry" />
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-33" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
@@ -776,7 +776,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nx8JHkuEhv-yfYOASfGr-38" value="Microservicio&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;activate-card&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;Devuelve respuesta no exitosa a la ejecución de la API PLARD&lt;/div&gt;&lt;div&gt;[LMWY]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="Nx8JHkuEhv-yfYOASfGr-38" value="Microservicio&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;activate-card&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;Devuelve respuesta no exitosa a la ejecución de la API PLARD&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="1187.5" y="1892" width="175.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-39" value="alt Capa" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=89;height=30;" vertex="1" parent="1">
@@ -785,7 +785,7 @@
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-40" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Responce PLARD == 4XX || 5XX&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[Response ==&amp;nbsp;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;@2&lt;/span&gt;]&lt;/font&gt;" style="text;html=1;rotation=0;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-570" y="1818" width="203" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="Nx8JHkuEhv-yfYOASfGr-41" value="&lt;div&gt;Microservicio&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;activate-card&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Deposita trama LMWY de&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;de activación de tarjeta de débito&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;con mensaje de Error&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;en Stream de Redis&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[LMWY]&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="Nx8JHkuEhv-yfYOASfGr-41" value="&lt;div&gt;Microservicio&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;activate-card&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Deposita trama MP9Z de&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;de activación de tarjeta de débito&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;con mensaje de Error&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;en Stream de Redis&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="944" y="2155" width="218.25" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-42" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;dashed=1;" edge="1" parent="1">
@@ -802,96 +802,96 @@
           <mxGeometry x="1169" y="1947" width="10" height="281" as="geometry" />
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-63" value="alt Capa" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=89;height=30;" vertex="1" parent="1">
-          <mxGeometry x="-578" y="2910" width="2435" height="620" as="geometry" />
+          <mxGeometry x="-578" y="2910" width="2435" height="370" as="geometry" />
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-64" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Responce PLARD == 4XX || 5XX&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[Response ==&amp;nbsp;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;@2&lt;/span&gt;]&lt;/font&gt;" style="text;html=1;rotation=0;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-568" y="2948" width="203" height="23" as="geometry" />
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-65" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;entryX=0.507;entryY=0.647;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0.91;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1912" y="3349.26" as="sourcePoint" />
-            <mxPoint x="233" y="3351" as="targetPoint" />
+            <mxPoint x="1912" y="3054.26" as="sourcePoint" />
+            <mxPoint x="233" y="3056" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-66" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.2922" y="20" relative="1" as="geometry">
-            <mxPoint x="2157.88" y="3252.0200000000004" as="sourcePoint" />
+            <mxPoint x="2157.88" y="2957.0200000000004" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="2187.88" y="3252.08" />
-              <mxPoint x="2187.88" y="3282.08" />
+              <mxPoint x="2187.88" y="2957.08" />
+              <mxPoint x="2187.88" y="2987.08" />
             </Array>
-            <mxPoint x="2157.88" y="3282.08" as="targetPoint" />
+            <mxPoint x="2157.88" y="2987.08" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-67" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;entryX=0.516;entryY=0.925;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.505;exitY=0.863;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2157.6800000000003" y="3312.5599999999995" as="sourcePoint" />
-            <mxPoint x="1916.56" y="3312.3" as="targetPoint" />
+            <mxPoint x="2157.6800000000003" y="3017.5599999999995" as="sourcePoint" />
+            <mxPoint x="1916.56" y="3017.3" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-68" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2147.5" y="3234" width="10" height="90" as="geometry" />
+          <mxGeometry x="2147.5" y="2939" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-69" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="223.5" y="3338.5" width="10" height="61.5" as="geometry" />
+          <mxGeometry x="223.5" y="3043.5" width="10" height="61.5" as="geometry" />
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-70" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1907" y="3296" width="10" height="61" as="geometry" />
+          <mxGeometry x="1907" y="3001" width="10" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="Nx8JHkuEhv-yfYOASfGr-71" value="&lt;div&gt;Queque&lt;div&gt;&lt;b&gt;MQ 390&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Recibe respuesta con&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;trama LMWY&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;de activación de tarjeta de débito con mensaje de Error&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[LMWY]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="244" y="3295" width="386" height="53" as="geometry" />
+        <mxCell id="Nx8JHkuEhv-yfYOASfGr-71" value="&lt;div&gt;Queque&lt;div&gt;&lt;b&gt;MQ 390&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Recibe respuesta con&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;trama MP9Z&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;de activación de tarjeta de débito con mensaje de Error&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[MP9Z]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="244" y="3000" width="386" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="Nx8JHkuEhv-yfYOASfGr-72" value="&lt;div style=&quot;&quot;&gt;Altair 390&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PAMPA&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Realiza ejecución&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;no exitosa&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la activación de la tarjeta de débito&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Response 4XX&lt;/div&gt;&lt;div&gt;[LMWY]&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot;margin-left: 20.6pt; text-indent: -0.25in; font-size: 10px;&quot; class=&quot;TableText&quot;&gt;&lt;i&gt;&lt;span style=&quot;&quot; lang=&quot;ES&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="2190.75" y="3201" width="175.75" height="47" as="geometry" />
+        <mxCell id="Nx8JHkuEhv-yfYOASfGr-72" value="&lt;div style=&quot;&quot;&gt;Altair 390&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PAMPA&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Realiza ejecución&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;no exitosa&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la activación de la tarjeta de débito&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Response 4XX&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot;margin-left: 20.6pt; text-indent: -0.25in; font-size: 10px;&quot; class=&quot;TableText&quot;&gt;&lt;i&gt;&lt;span style=&quot;&quot; lang=&quot;ES&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="2190.75" y="2906" width="175.75" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="Nx8JHkuEhv-yfYOASfGr-73" value="Queque&lt;div&gt;&lt;b&gt;MQ 390&lt;/b&gt;&lt;br&gt;&lt;div&gt;Recibe respuesta&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la activación de tarjeta de débito&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;con mensaje de Error&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[LMWY]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1925.75" y="3249" width="184" height="50" as="geometry" />
+        <mxCell id="Nx8JHkuEhv-yfYOASfGr-73" value="Queque&lt;div&gt;&lt;b&gt;MQ 390&lt;/b&gt;&lt;br&gt;&lt;div&gt;Recibe respuesta&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la activación de tarjeta de débito&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;con mensaje de Error&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1925.75" y="2954" width="184" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-74" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-253.06999999999994" y="3466" as="sourcePoint" />
-            <mxPoint x="-490.06999999999994" y="3466" as="targetPoint" />
+            <mxPoint x="-253.06999999999994" y="3171" as="sourcePoint" />
+            <mxPoint x="-490.06999999999994" y="3171" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-75" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;Canal&lt;/div&gt;&lt;div&gt;&lt;b&gt;FDMP&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Recibe respuesta de la de cancelación de tarjeta de débito adicional adicional&lt;/div&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-247.56999999999994" y="3367" width="157" height="50" as="geometry" />
+          <mxGeometry x="-247.56999999999994" y="3072" width="157" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-76" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-263.56999999999994" y="3421" width="10" height="58" as="geometry" />
+          <mxGeometry x="-263.56999999999994" y="3126" width="10" height="58" as="geometry" />
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-77" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;exitX=0.504;exitY=0.651;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.507;entryY=0.647;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="214.0740000000003" y="3392.7709999999997" as="sourcePoint" />
-            <mxPoint x="-18.569999999999936" y="3394" as="targetPoint" />
+            <mxPoint x="214.0740000000003" y="3097.7709999999997" as="sourcePoint" />
+            <mxPoint x="-18.569999999999936" y="3099" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-78" value="Queque&amp;nbsp;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;MQ Canal&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Recibe response de&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cancelación de tarjeta de débito&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[MP9Z]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-6.569999999999936" y="3330" width="196.5" height="41" as="geometry" />
+          <mxGeometry x="-6.569999999999936" y="3035" width="196.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-79" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;exitX=0.509;exitY=0.126;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.499;entryY=0.126;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-18.120999999999867" y="3433.406" as="sourcePoint" />
-            <mxPoint x="-253.2299999999998" y="3433.6580000000004" as="targetPoint" />
+            <mxPoint x="-18.120999999999867" y="3138.406" as="sourcePoint" />
+            <mxPoint x="-253.2299999999998" y="3138.6580000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-80" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-27.569999999999936" y="3382" width="10" height="58" as="geometry" />
+          <mxGeometry x="-27.569999999999936" y="3087" width="10" height="58" as="geometry" />
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-81" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-493.06999999999994" y="3503.5" as="sourcePoint" />
-            <mxPoint x="-730.0699999999999" y="3503.5" as="targetPoint" />
+            <mxPoint x="-493.06999999999994" y="3208.5" as="sourcePoint" />
+            <mxPoint x="-730.0699999999999" y="3208.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-82" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-503.56999999999994" y="3458.5" width="10" height="58" as="geometry" />
+          <mxGeometry x="-503.56999999999994" y="3163.5" width="10" height="58" as="geometry" />
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-83" value="&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;div&gt;Recibe aviso de la solicitud de cancelación &lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de tarjeta de débito adicional&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;no&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;exitosa&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-710.9999999999999" y="3417" width="91" height="50" as="geometry" />
+          <mxGeometry x="-710.9999999999999" y="3122" width="91" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nx8JHkuEhv-yfYOASfGr-84" value="&lt;div&gt;&lt;b&gt;Ejecutivo Santander&lt;/b&gt;&lt;div&gt;&lt;div&gt;Recibe aviso de la de cancelación de tarjeta de débito adicional adicional&lt;/div&gt;&lt;/div&gt;&lt;div&gt;[MP9Z]&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-480.06999999999994" y="3403" width="133" height="50" as="geometry" />
+          <mxGeometry x="-480.06999999999994" y="3108" width="133" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
