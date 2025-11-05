@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9" pages="4">
   <diagram name="Versiones" id="UiyNipL3K-o9SP8zFBQn">
     <mxGraphModel dx="1310" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -899,7 +899,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="x-eE4aI7dy4J3slWnHtV" name="Interfaces REST">
-    <mxGraphModel dx="1429" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1310" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1632,6 +1632,678 @@
         </mxCell>
         <mxCell id="vuDIglPu57l6zLBebSC2-1" value="alt PAMPA" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=0;collapsible=0;width=79;height=24;" vertex="1" parent="1">
           <mxGeometry x="419" y="3797" width="3209.5" height="428" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Zh7MZkrw_lrTj9WIfTGU" name="LMPB - Generación Llave Dinámica">
+    <mxGraphModel dx="983" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#000000;strokeColor=#0000CC;entryX=1;entryY=0.458;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="243" y="3197" as="sourcePoint" />
+            <mxPoint x="1803" y="3196.16" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-2" value="alt Capa" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=0;collapsible=0;width=80;height=15;" vertex="1" parent="1">
+          <mxGeometry x="2603" y="2478" width="400" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#000000;strokeColor=#0000CC;entryX=1;entryY=0.458;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="RAgMSd1qzy4tCXa5i1kW-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="243" y="797" as="sourcePoint" />
+            <mxPoint x="1793" y="797" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-4" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;height=15;" vertex="1" parent="1">
+          <mxGeometry x="203" y="1318" width="3750" height="3240" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-5" value="&lt;div&gt;&lt;b&gt;&amp;lt;&amp;lt;Repositorio&amp;gt;&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Redis Streams&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" vertex="1" parent="1">
+          <mxGeometry x="2166" y="477" width="160" height="4161" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-6" value="&lt;div&gt;&lt;b&gt;&amp;lt;&amp;lt;Repositorio&amp;gt;&amp;gt;&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Kafka&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" vertex="1" parent="1">
+          <mxGeometry x="2889" y="477" width="160" height="4161" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-7" value="&lt;div&gt;&lt;b&gt;&amp;lt;&amp;lt;Componente&amp;gt;&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Launcher PLARD&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" vertex="1" parent="1">
+          <mxGeometry x="1686" y="477" width="160" height="4161" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-8" value="&lt;div style=&quot;font-weight: 400;&quot;&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;div style=&quot;font-weight: 400;&quot;&gt;&lt;div&gt;&lt;b&gt;&amp;lt;CaaS Integration Layer&amp;gt;&amp;gt;&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&amp;nbsp;   ms-starter&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2406" y="477" width="160" height="4161" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-9" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(251, 251, 251);&quot;&gt;&lt;b&gt;&amp;lt;&amp;lt;Plataforma SaaS&amp;gt;&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;b style=&quot;color: rgb(0, 0, 0); background-color: rgb(251, 251, 251);&quot;&gt;PLARD&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" vertex="1" parent="1">
+          <mxGeometry x="3129" y="477" width="160" height="4161" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-10" value="&lt;div&gt;&lt;b&gt;&amp;lt;&amp;lt;Queue&amp;gt;&amp;gt;&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;MQ AaaS&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" vertex="1" parent="1">
+          <mxGeometry x="1444" y="477" width="161" height="4161" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-11" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; text-align: left;&quot;&gt;PLARD&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;[IVR/TF/APPIAN/SANWEB]&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; text-align: left;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; text-align: left;&quot;&gt;- LMPB&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&amp;nbsp;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;CONSULTA COMISIÓN POR BLOQUEO&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; text-align: left;&quot;&gt;- MODELO FUNCIONAL DE SECUENCIA&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="3880" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-12" value="&lt;img alt=&quot;&quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOgAAABXCAYAAAAONQnYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFxEAABcRAcom8z8AACX3SURBVHhe7Z0JmBTVtcdPL9N797BIFEWFqIiAskgU0IggGiMvbhF5aDQmrnFHBBVRjGwSQEUNboDGGBeeu2ERVBCVXYFhBGbt6a7uWnudGTZR6v1PTzEOAwPTQ4+A1P/7zlfLPXWreub++pxbdes2mTJlypQpU6ZMmTJlypQpU6ZMmTJlypQpU6ZMmTJlypQpU6ZMmTJlqokqpEKH1lrz89LYZcpU47WI+tkjdHlrJW9wd9l2zcCY/U9nB+nPLqPYVHayhNzasUGvcH4ooFwUDqhDQ375CSxfLW4h9jN8TJnat3Qia4L+51zZdtk/ZPvlMyT7Ve/K9qvXxB3XKJrjmk9C7r8ea7iaykLlPvG8cL48N+xXhEhAVYSAmhQCmi600PTyFsr1hpspU/tWMV0cSNove3tb3mA9lXeVnswboicdQ/Wtjj/riuPabyOuIccbrqayUIU3ckesRVrX8lO6lB/XRZiUn9RD+cqOsoB8reFmytS+FaberZL2yxdsB6BS3hW6DEhlxxA95fgTltesFNzXtjNcTWWhoC9yWzRf1dlC+RJM1iP5MT2cr243ATXVaIXo3JYp++VztgBME9DcyQTUVE5kAto8MgHNocJErXYSOY3NI0omoM0jE9DcyKIRdUoRvRIjegTrfmP/ESMT0ObRoQCoTrqlhOLHl5PYr5SUK8spenMpSSNLKPo7w+XQVoioZZzo/R/xWdJE25JEY3Uij1F8RMgEtHl0MAEtoIKjyylyaTlJU2ELg6SUV5CaCpG2TaSkXkryDMP10JZE5E0QPQE4t+wApAB0G6Lok9j/K8PlFy8T0OZRuU+4+ecGtJCiJ4QpdiPsgyDJ8Shg1GiLrlC1HqW0HiRNj1AyFSR1snHIoa8oIqaK9BaRdPP3NZDuBKQzKomOMlx+VhUSOYrJ1yZJ+R0k8nZVKb9nglr8VqWjB6l0zCUqHTdIoXa/i1GHs2TqeEaSOnYoo1/nG4dnreYENEzD3FHXAydIeaO7iPZxvWTn+Askx7hBomPCJYJj4qCoc8rvZPvU3pG8p7qLjmmdo64XT9BaT/JzamZU0WjxMWvpNa/qmdc24pjTUfDOPUN0L+gV8i4cKHgWDBI8n11SY58PCjm/uEjwL+8d8XzdI0iLWhhV7FeraXVekbvoONFX3DnqKekZ8hah7tJBFbAST/BiwS30rvCJncu8ZUeHvMI9kXxl588BaOa6SBoUInVeiGJbGEoVUCK1rS4lcR1sZhlFH0I0vXsjRa8JkdTFOPTwUJDIBSiHA84ER1JE1B8B7CyA29ZwaRYhnbag/9syRo7TFHJcmbQ67k9Y3FNiFu+HmiWwVrO0KNIsrUtVy1EhzXqMpFmPhbWTFGt7UbF2KFetp5Ro1o7fqrZOryfsXR9Sbd1/L1PXo43qG6VcA6rRCL9oH9VLcT5yu+p49J+i49Gvo67HiqOux8uirrGRqGucHHVNlKKuSbApYsT9ZDDqfrok6p5WFHE9u0JxPz9T9bw0OuT65/WC5/luwfxX9gqQTrNtQc/sYyT3e2eJrnevlz0fjZa9/50e8Xz8ueCdsyHsnVsc9s4vE3wLImHfAlnwfSYJvs9hi6Wwd0lU8H1VEfZ9XSx4ll1iVLlXLaJF9gpfYeewf+NfooHiyYK3aHHIt6m4wl9UGvKXRcL+MinsL5dC/qAY8oeCwfxQcUVA+CIciH4dzpd+EABmcwJaSOFWxRQZgzRWZihV2oxIqcbKSX4TgF5XSsIpG2nj4X9vZTaRDenuHTCNIynAQXpAb8NONVxyLpnoaHwZPFtNlpVxylMSFtePKYtHr7T49CpLPqwVrA22f6WnrW1h7WAnwDrATtIrrR1hnfSUrbMet3XdmbB1E+LW7h+K1h7DZGevXxun2adyBWgh3e6THCMGq46Rr2jOh9cprtFbY64xetw1Vk+4JmA5QY+5n4BNgk3WNfdTsGlYf06Pu6fDntfjnhd1wKnLnpd2iu6X0gnXa99G3bPGLaIx9pqz/KRyx79PVT3vvR7zfFQY9bxXKXk/2ql45+iad76u+T7NmOpbpCu+xYZ9CfsathS2XE/4v9GlwAo95P1qiFFlfVkirvV9BV/BP8RA8fKof1OVHCjRlUCFrgbCWIZ1OSDAIqhHzJgckHWlhZaxSAZK0bDmATREm48FmC/AdnDURFq7HWC+i0h5dZCSjc4MDhvxuFSF6IYYuqcM6WYY1ucB0k6GS07F9eKLIKSTVa8kh560uPQEAI0BUA2AapaWsKNgbXREUNhxsONh7XXV+mvYKbBT9ZjtNAZUT9u66VW2M/WE7cztMduZSzQ6+9LZNNhmnG6vygWgSt493SXH8JdVx4hYwjVKT7oe0VXXaF3GUnI9qouuv8Me10X3ONgE2BN6FJBG3VNhT8OmwZ7Ro57ndMnzPAMKUGfp27xv6RHPzBU6vbLHgP2g8/X+iuedZLV3nq54P9YBqC7Cot7/6oJvDmwu7BPYQsM+hy2GfQH7Upf9y/WIf1la8C/7vVFlrYL5a1qEvOvviXrXF0v+TboWKAOAxXoksEkXsAxnrARWBivXQ4C2xkIAUQCEEVi0WQEtoLKjS0l6LUxxtNGtgFOJlZH04Foq/eXfPwE41wCciu0/Qfq5RHS2UZwzcXRGxC7ZAkCR5gJMF8wDIGsATQDQJABNAdAUAE0hgqYQQZMANA5ANQNQFYCqti6wM2A99CQgrbadBVB7C6K9z/0SXeg1TrmHDhRQ1XHvoLhz+IqEc4SecD4IKB8AjA/CRsFGwx7Fvsd1xTUOEXMCbBJssq66n4Q9rSvuZ3UZtgvQqGc67AXYS3rS+5oueGZ8uTdAw67/9BM9/6do3g/1iPd92AcwXv9YjwBOEXBKiKIyomiNLYF9BfsatkxP+tegfEVJifez3fpjUdfqE6Legumif/1mLVCkR/0bAOF3MF6yFQHSEj0KMEUAKSGSioFoxqKwCIAUAGdzAlpMYhtEyplhiukyVeoVpFYA1r+MoTFWw+WXL6Sfl6MfuokhZcP6ylxDyoCi31u8D0B/SFhabUEUTSGCauiDyoig8bi1fWXM2mFHGilulfU0gNh5N0BVW09YL73K3ldP2PtUadbetxqn3EMHAqhsu/0C1XF3SbVzpK4679clmOgaWQuoAjgTSHFjgBOAfi+7xqdF13gNfVAl4vpHPOKamhRd06oB6fcNAzpzSUOASp535L0DOm+n6Jv/fcS3sFrwfpIMexdq3AcN+xYpgndxXPAtSWr+Vdtk36pPiml5wKiSYq2WB0TvupkKoGQL+wtg62sB5Qiq5iPFzQ9hvfyHiD9YhX5oHNFTrghUaGF/OB0NiNujADKa6Xs2D6BIZe8TKPFjDGktQA0D2KuMoiNLAGgAwFyxDYBuhSHarUQ0vdAoPmA1BGjK4gegATlOLR+LU+BWjVpfF6djBmvU9nKVjh2i0gk3Is0dGbecMiNpPXVFzNZpWyVSXK0eoIr9bEB6LlLgvmWa7ZzzjdPupqYCKuXd1EV03Lm8ElDKzmGA877dAI1l0ttHdqiux1ZKrr+/gCg6POIc+xfJPXFw2DHxCsk1+eqoa8q1Uee0myTns49HnM9qSgbOAwNU8c1D9Jy3TPTOuy/qWXBT2Dv/WtH36VUh9+eXBd2fXRnxfj6kwrvkT2Hfktsj/pXoAszOdAF00m0R37ePSIH1O2Q/gPSv3Q1QKRM1S7As3RDxl/8n5Ct5OOwruykcKP3foK/0ipAvNDjkD90Q8gv3IsV9IuSPruQbROEMqLkDtIQifUKklXNaGyK1EoDebBQdmQKQZ8FWMqBGJC0CWJcbxQekhgDdDEBjFv+3q6ntPgdNKNTGF6OTO2vWjiM1a+fSSgAaqweoau+jV9vP0zX7uXNidFZttNilpgBaSIMdkuNvL6UBpuK8F2Cy1QAqIcWNM5zOUQLS20fkvJGnR2nMfj7HP46JOp8p4ptEBwpoEv1NyffJ04Zbo1XhXD5A8K6Oa5zGZuD8CVAFfU7BvxH91aLnBX9x74L8gpbGYQ0qCFD5EUskh49ZFlHQVU7S63ynltPbMlKeX0pht1F85Aog9YJ9xZDyzSNE0nKF6IDTiv0BupaObrDvWFf8uEaiLv3j1q7LqwGnBlMMQBUAmkAUVey/3Spb+w01DqlVUwCV7bf0UR23y6kMmHfXART9UNfDgPahCsHx0FX7u0G1SzGaehwALc4VoEqWgBbSbJ/gW/1GHJFSQN+0LqAy0tpIYKOCFPfOKEUbPcqsOQYqlJE8EH3NJA88KCNpY5C0Zrl5eVgKfdIzAOaCaiOSptBGVKIbxxA1uWO+P0A3Uuusnl8p9u5949YewWqGsw6gqv0cpLrnY/38t9fWu2HUFEDVvNsmpQGm4rxrN0Djzgd1xfGAEHU8cIXh2ihFaMrxuQV0wTS4NHqwQ8S1ok/Ut1pRMxHz21pAo0h1xcCGbYJ/wzCkwFn9n3M91I/Pj+g5XaJKHg2kV5A82igytUsC0SlIcd+pxN+LBzRgPQZIb0IEa1SkqK9cA8rSrN1Gpm09d8Rtv6kFVAGglQA0bhsQVGlAT8M1o2wBFdw3tVMdt62qdt4DKO+sBVR2DtdjzgdQx4jHDddG62ADKnhXDdP86/SI/5vdANWQ2oZ8hfPX0JqsnynmGtBiEtqh77k6RTt4IELpJhLOMIpM1VWE6HiAOZMHMhjproJ0d0SYKOu+QHMAGqZux8WsPQsr6wGaAqAJe//qsO283aJbtoCGbTderDpu3RrLwPkToAnnSETUEd9F6L6OhmujdTAB5bRV9K1+Kx4oBJSrawEV/YUAtgDRc/11NZ7ZKdeABkk6H/1OrYp+1AWKvTGbZpszAzYkQNoacM0AXD8ag+yrAe3jPK7XcGmUmgNQlmrp+QwDqtp71wIas/cDoAN2Stb+Iwy3jLIFVLTfeGvSeTtgvH03QKucD+mxvBHTm/Is7mACKrq+PjHiXbFRy6S3PwGqcd/TX1BYcdSGJg33zDWg6HPeIVDihyildKS6Dxi7TTWkNCBFevscImgGUqS9WwDbTUZxo9RsgFp7DEkAUK0OoKr9PH2L/UI9aRvIjbdW2QDK03KKeTc9zYDKdQBVnMN0zXn/Tskx/G7DNSsdTEBD7hW95Ez/c109QIsA6PolhZ2bNodtjgG1lJP6bJK+18MUry6myB+M/ab2pSBRC0D6BCBL8DulVUQreZ9RvF81F6CyrccF3AetC6gCQLcD0CrbwBfhUtt4swE0RtcGFPvNc9IAsy6g8Uz/c3il6Bixz4HnDemgprjeZRcixU3KmX5nDaACYJX9G7AseFlv4uicXALKb6sIFH+9mvTM62JFJDbp73xEivueAG22DkDRL42gP3qSUbRfNVsEtff8rWbrtQegWwFoyjZwRt3HH9kAGqWhR2mOW1ZUAkzR+bd6gI6IKa77zjVcs9LBBFTyrPgf0beqUs48XqkBFKkt90F3Rn2FDxpuWSuXgM6lYqdAyTeqaCf6n4k0v1pmFJnan9D3vBpp7iaOoAC0CFG00YOVmwtQxX7mOTxQoT6g2wBo2nbhy3X7idkBegsAvXV1fUATzvsZUC3iuq+v4ZqVDiagEffSPzQEaMT/3W799WyU2wiq54mURgStAbTUjKCNk0w0FIBJ3Afl4YAA9El+I8Yo3q+aL4L26hfbC6Cc4qZtA18w3DLKNoIqjltXMaDSboAO5z5oLHoYRtBQA4BKmeF+BeMNt6yVS0DHkG4NkvZyJf2ghyhWZQK6H/G7o2miGwCXzI9aEDX5Je//ixEdZ7g0Ss3YB700vgeg/fQt9oF6wnbBU4ZbRtn2QeW8m+dxH1Sq1wfVnMNTUef9FxmuWelg90El3+pE/T6o6ucRROvf4zG6hmtWyvFNIiql8Ej0P3dGKPFDkMS/GbtN1RcipEMluhfRMvUDNgEYD1iYiX1Z345vthTX2v2hVL3HLHH7+XrMPuDHqLX/XYZbRtkAyn1X0XbzU/Xv4qrOYbDhP0Sdw5o0cPtgAiraV/QSfd8oamDPu7hRf+FKpU2hz3DNSrkGtJxCF4UplkxnnoPGZ+0a5G+qjlYTeRAlRwGqSoYTUXMHIJsWbeL8Rc0BaJBOdGnWHgurAGj9gQpJe/+0aBuw2wvK2QDKkvNuuSUBOOs+B5WN56Ba3sgn4dIoMOrqYAK60bmovehducdz0Jo3WtZrFd5vLjBcs1KuAS2m0ElBUr9L16S5a3jbKDLF2kjkTxBNBZSZGQARQXkGwPEKUZO+YVnNASjPS5Sw9Uwm6wFaae+vx239N4g0oLPhmlG2gIq2Gy9RHLdt1zJw1gDKAxVSmXG4968S3CN382+MDiagq2m1B33QN+P+3UcSRTjNrXkW+iLPS2S4N1q5BpQftQRJeo3nHQqR9mMFKXcaRaaKiQIMJ6DcyZETyy0cSbH/gGajzzWgGp3qT1i7v7+V+5+wXYDyYHkeiyvbzp+p05l5hntG2QIq0Z/bq47b1lbVG4vLL2yrzhE7ZPvIBl8Ob0gCTWt3sABlyd5v7+EUt/5YXMm/Efu+U4L+gqxvyuQaUFY5qUPKSd6mUJVeSuKKDVTRrJPaHRbiOXLRx5yOyPkj3xDCMgVYR6EvultDb4r2B2ghtWl0dA5Stxaq5fSJSVv3HQnbmXu8bqbaf1slU7893mPNFlB+cI8091kGVK4DKL/NkuQo6nxgXcg+qpfh3iiV0dNHA9CcvQ+aLaCCe3lvwbdKUfnl7DqA8utm/C5oJLDxCzGwMavPVO4Tbs01oDwRGACdy++DVpC6A5COaepNrF+EACYPjP83v2Jm3BBSkdLevogo65Rnb9oPoN8sQn/ScG1Q/LqbnNfxDM3WZWbMdsb2ZAMvbKvWc9/Z29xE2QLKEmw399ccd8aSGTB/AlTJvA86ShedDy2Luh46x3DfpxR6zhfJm3KD6HomrnqePyiAhmmpW/Cuejnh34CIufv7oAJSX54wTPBv+jbs/+6voq+4jXHYPlXhC98o5hhQVgmJF1eQFuMZFQCpAmAvNYqOLAHEkwFn5tUyI62NACh+s6HR//j9qSFAK2sADWrU4lqFWvaV6OgOFXRCW4VOPCYIi1G741Q6sYdmO+lyzdJpnGbttDZh66onbd0AZvcMoLsiaGXmDu45ZQnqc55x2t3UFEDDdJVbcdz+70rnMERRTnV3vbB9f2bSsLhrtB51jlofc4+5W8gbc0apd8yvIv4JrYtbjQmk8ie2zGw7JnQU3VP/KLqfmiW6pikSTxyWgzmJmgIoq9S9olfU921RDGltXUB5RgVEUETSMsC7KSUEit8PBzbdHvGWXrDJV9BpY+uNxwY9wWMKYRs8FW2D+cH2FfkVPUP+yDORfAVQKjkFlPui6H9OlSi9s2ZyanklImlW0f2wF9LaLgDyM57Rz0hrSwFTTqY5qauGAOVJw2KW/B/jlhZpzdI6mLIc9WXK0nZuynLsf1OW42HtP41Z2heq1lOSMWunnWlbZz22l0nD0va+gLPvZtXat8HHH00BlBXNu7mn7LxjA89JVBdQnpNIcj0ESB/VFdcj2yTnYwWqc+yHsnPs2xHX2JdF94T/qK7JH6iuKcsAaFIFmJr7n/rBBpQV8a0ZLPkKYjF/0W6A7po0jOclkgNBXQyUbo34y6IRf3Cl5BfmR32R/2bML80T8+Ul4fxoUTgQrWyuScPWkdAO0fNdmdK6mHm7Rf06SHIfo/iXLZ45AZFzMc+aYKS1xYimFxvFOdV+ANXTlpaZias3W36lb7a2hbWDnQDroFdZT9JT1o56fC/TbsYAKE+7GbOfvVmy9X68/iwKddVUQFmC9c4/qc57Y2mktvzCdv1Z/VRjVr8kT1oNU9w8efUkPemeqifcT2cmrpZhqvs5AMpwHlxA+W5t1LNulOhbn4770ffM9El/ApSN58UVA+UANaxrAVGPBSRdDcgwBabpKiBU8jWkts03qx+rhKQu5SR9JVNVZupNRNJvsW9IIem/3PdEAWYfALOUh+0Z05oUwJoFTta+AN3bxNUx63GwPSeuVgAo+qB6HCluGnCmbWcC3F4lqr3XPWHqvc8XyRsCNNkIQHnGdynv7r9ojvtK084HamZUQIobrTcvruT6O2wsYBwPECfWTlytuJ/S44ieEde0AtH17GdyBs6fAE1kCahwgICyJPrEK/jW3Br1rV8jId1VM7P58YTVSH0zkCK6AtK6E1eHA6Fa44mraywCYzijMInB1KX8ZGZZ4hevN053QEJqe2Y5KQv5HVFOdxFV5TKSJxVTpIfehN+3OaSFtHZADNkDP+NkOBNEyxE5mzT4u7HaF6BxAFplTFwdA6CxOoDGAKgGQGMANGXthGjZBVbTB41Zu0Xjlh4zFPsZjRoXC4Bbpe2Xf6rn/a+eBpyVeUP0Ssc1+veOG3TVce26iGvI8YZrg4ra7rpIzrtvjuIYsSXlejgzs7xWM+0mbAzs8QygknscoHwC0XOqnkLkBKA7oq6nPy9zPfnbhHv63du9/0LUnAGbBXtV3+57G+DNWhGmqXt8yVQ43xigeN5LbfZ+ose9c2HzAPQnOOZLPeZdMB0uB9RASzyreoZ8Bc8JvsIy9EF/UAGilh/MzIsrAkwhUAorhwXrABoGgDyrfEQX0fdU8hPwT+lKi6QuA04Z6wBUKffJlxmnOWCVU+TUMpL+BTi3xmkbz7aAaKqsKyPlsQqKnhOi0H5nIDzkhch5Cb+RwmAag94/BZzdjOJmU0OAxjI3iQKbK6llUZxab65GiluNFLcKKW4VUtwqpLjVSHHjADRh7SRXWzsXxq1dFiQsXSfJdPrAQurc6Mczq+nM/Crblc9/bx9cmLL/cW3aPmRt2jF07WbHdYUJx3VvBj2DjzFc96kKuretaL//b4ii7yddo79TXA8nE67HACunuONhE5HaTkIUnfgDAC2PuZ9cJLqmjq5wPtOBj4+7Xhiy1fNKQdwzY13cO2tt3Pvq2mrP69+p3tdeLaZpezxvDtvf+k3c88HitGfu+rh3Dvznro155q+r9i0qTPk+49fEDjiCLKWl7qB7de+Ib8OjEX/R+0qgdJ0aCJZF/aXbVERJDdFRhSmIkApSWAVQcoqLfqgeCchJOT9epAZSBZGAujySL78mBGKTwgF16AZ/pLVxipyoABAicg7jEUaC8VMQIVJ55oUQ+qZvV5AysoTE6zaScH6QIt2LKJbVmPGDJp3IDhivriIq48i5BYYoOlclynpenaaoIUCragAt1Ch/gEatb6ukNlMqLW1hx02utBwP6zC52nLyFIVOelykU69K0am9ItTl+KbMMMgD/7fSoF8n867omci7olsi7+qMRfOu7qk6ruuo0y1ZPe8V6a42mn1EL8k56gbV/ejkmHvslJh7PJbjJyfcT0yRXZNGRZz/GCg5n2qPP3ctRJX04lHVnle6K56Z3XaZ6pnVUwm8dvLe0jVORePeD7tEPB/0UDwfw39+xlTPRz1j7k9z3gCLqbiN4FnfTfCWDgh5N90XDZRPVQPRyXJAmCwFpFpTWqhTAOiEcL70V6Vl/JxofrJn0BftpLXWmvSzio2XbgGkZwDGcYim64Kk7IzRZl2D8SyAiKqbwxSrECldiIj7mHHQoa0wUas00UJ+2ZojJ6Lo+yLRiUZxs6shQI3noKsRCTMdflyfrQFrxn/4gYsH19fY7Izt7VfKDlfxAIG922xeNmkWhlyIr4F//5N/6h5p7vuwoECJSp7omgc48EvfKPsPPA/ptpMRDzhAejuokmgN4HwP0bRRP9mXK+0H0Ca/zWLKFGsDbWhdQlL/IGnXlJM4upQiz5aSPBOA3gCQD31Adwmg9AKgJxibP5tMQE39XGIggxR08TSjSNcPaAz5ESMTUFOmDmGZgJoydQjrlw5oGVE+PqP5JWPq8NQvHVB8vltjRDkZNWPK1M+uXYBuBaBxABoHoCkAuhOAahb/hsMd0DTR81VES/lxlrHLlKnDR4gup6WIBB2AbgWgmwFo3OLZvs3iD8coMEdq5O+DHqiWErn5uaqxecDi1JZn2OfoCUC34UuoUQ/GVxPlSUTtZaJf49g9fmy4KeLPdaAzX+xLXD9PXo7lQXv2aaqZxDMBJoimJMnyrxjlTYU9ESfPTUny9JTI2eFAfnu0seJhjoh0EwHV0cauAxbqvBifbRhPpgY451USpfhFBKN4r0J5X/i9gr9HEeAsxXFzkWH8wShukhhM1DEc19JsPxOPL6Br8Pcbh+vN+icKTR3iYgD525cjh7HrZxfDuZWoMISolauZIgDZdai3BKCdBbsQ69uw752GojQad3tkEt9iGYLfCzjmBWy/A2ivNlxqVUhINfZSD0ewufUiJafWgHMF6nvZ2LWbeJgjjtvr61nYb9/X/wXllleIXJuJZgDStQrRbmOWUb7XY/lvbHwGM+Ka2r8Az2NoYBoizasAYgYAGYPG1p3nYgIkd8J+Z7hmGhei3JVo8DeifI/0G3X0MqA8rboGtvkMCbanAr4Elvcgqu4xIATnvxD1bgdME3mbGy+uwccN2di24Xz9cfwkXCOyDZqO67oF1oq/4LB9Pep/BmX/xr6pWA7iY3myN1zTEpSvxvJ29uPUWyRqg/pvwPZLRn2Tca39+Fw4/kzYg9j3MspewfJh+NfOhIjrPAq+f0LZc1yOz7kJ/ku5zsz0M0QXYP9TON+/sBzOKTsfh3rawe6B78uwGfi7HxkvWJs6MKGxPILGshUNahka3hw0oiAa+3eAZSj2z8e+VfDJvLLE45TR6IpQ/iZgrX1HE/uOh/8E+PK0MF8yBPAZzzNSoI7rcDz3KSvhtwMN/GuU3Vg3fYfPKbAS7N+AOi4FXLVv43CkQt03oTyK4wtQz1z4lKPONPafh/UTcM4klhtw/MdYrkeZCt9bcB0u+H+K9QTsC9gM+P4Gfq/Bj30WwT6HbUH9szliYvkyrpFnbfwSPp/weeG/DNaevwywj38XNobyJXwszhWDfcGfGWWXwb8Cy69Q9gH8RKy/y31yrF+Jeitx/vVY/wjHX2h8RFOmGhai19gtABKN7zdoNBxxBnDDQkN7C43rLpQnsJ35VW6sD+VtRJ8/Zg6GdhK1RsN7A/t3vaq3A/XcVYH+NfavYcP2QDTYKAOLdJp/KiMNu3dXhGThXH/AvmU4rwpbDP+buZy/FFBHMY5dCCA7ckSG76Ow7YhWA3G+k3HNaWz/maMulv1wvWEGxIigi3H+N1F2DHxbYfsW+OyAzwiOevyL6dj/Kc49h/usONfbiIrrEPm6GmD9FX8fhnAIjr0Ufklc33j4tdlIdCyu6zXsW1qC68Bx78G+QpbQCT6tcd7RKNewfRF8BuOzC6jjcnQnWuKLZ4+X0E2Z2kNoOOPQANehcdbOnICGNR8NqwyN/HQ0tK/QoN9BI/Ogsb7J22hktY9/0HAvgm81TMdxOi/hV8qNFMddhvJK7P8Sx6SxP+PDkKJM4H6vUU1GnA7C/1bYUlxXFfzvA0T9GCgcN8xw45tr9+DatqDOCwDeySiLwyczux2Obcnng81nSODzBfz5N1Ezgt8klO3k6+Nt7rfiPB/hfB8zoDjmLUC2nH9Fnctx/Kn44uGofCeOy/wWLOqofeMJf7vMoySB6GwcuwLlxbi2WfCZhfWFqIsj/VAAfRV8y3G9TfqBKVNHqAxA1yIy7XqH0oKGtQQNshiNLB92FxpXBRrqSDS2jWh89xt+GaH8POxPMnRowPw7NTq2GcApqKcF6p/Pczvh+NpynogN6yVo1HudToUfs+Cc/IbRKqxfgWvZjLruM4r5C+Su+oCi/Eouw3FHYT/3O/nu8VFY8nrtTSL4TcD2ToCf6VdyWov6P6gD6JtYX8kRl8vh2xnXW4BruQP1jkWdSSxP5TIWPut0+C8D0D2wvgT18wRzj+G4MbjGv2N5L9Jf/uK5Bn/nIMrONw41ZWr/QuOaiIbDfcfzAVl7bljYx88ueV6fTFTDeiHKtqIBrkND2+03QdYSedF4J/MxPCMFw8mwonHGEDmGoEG/hXQu8wtwOE8GTiwFHHMt9y+5Dk5jAcYNiL6/wfFtcQ3cXwvjXF/gi6Mr1jkyrUOdfXHcCVh/Ff4M+UCc4xTs3wzfwVwXzvMr7FuJfZ/jM/l5Cd8C1Nsd/seh7EYc/z3sGVgH7OsNnzKcYz4Dinre5c8Jv8ys7Sjris9Viv138I0q1M8Tl7+J8o6wnjhuJWwVp7tYPsvlqPdm+JwI64b1KzilxTVcj7+LhGsawPWaMtUooUHdgwYowBYAno+xzTdr/s0NzHDhqPM4+pp8w+eFvT2bRcMOoCHzXdXFaNwR1FHJMKIx8k2SGAOLfQk04DLU9QZ8d/sBJwYNPmtwDV/D5mG9AL7fwDfT10X5H3FMMVLNpaj/Xez/EtdSBrDPg297lJXgXJlnpkhdOWrOwfZ7fK1Y3oFjKhDFF+P6pqFf2RH+0/BlUIpzzcG+D3GNm1D3DE53cZ0vYX3erufCOMdp2F6C67mRH8vg3BO5PuzjG2jvYv9ybH+0BtkCAO6C6+LrX4+/5Qewhdh+D4AyvFfgmFVmimsqK3Fqi8ZzHhrmQBg/7jiX70gaxZnnjmiIY2ApjiDG7r0KMByLBtkHAAyFPYntV9AgZ2J9LI6/FI27O/btMXwRkLTEec9BQ/8frA9BHb/nCGUUsyyo43SU882W/ljvCr+z+Di+2YI0uA+DyY6csuKc3dift420tTeguQjgnmXsCxjn+x2Xoc7TAU8nBhr7O2F/9103sLjvDZB7AuhjeRt/Lzfq7svXwteA405BeTdcR+a5J0de1NGP/5Z8TlxLd5RxvW04Q8DfIZ/9TJk6YKHhX4hG/T7AErB8kR9bGEX71a4H8my7UllTpkzlUIh2HK34ud+9u/pkpkyZOkSEyJcZCG5smjJlypQpU6ZMmTJlypQpU6ZMmTJlypQpU6ZMmTJlypQpU6ZMmTJlypQpU6ZMmTJlypQpU6ZM/VJF9P/4VLlQmJjGNAAAAABJRU5ErkJggg==&quot; style=&quot;font-size: 10px;&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="230" y="311" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-13" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px; text-align: left;&quot;&gt;PLARD [IVR/ TF/ APPIAN/ SANWEB]&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 16px;&quot;&gt;LMPB -&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;GENERACIÓN DE LLAVE DINÁMICA&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=0;collapsible=0;width=700;height=50;fontStyle=1;fontSize=13;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="120" y="350" width="3880" height="4240" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1518" y="988" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-15" value="&lt;div&gt;&lt;b&gt;&amp;lt;CaaS Integration Layer&amp;gt;&amp;gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-teams=&quot;true&quot;&gt;&lt;b&gt;device-block&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" vertex="1" parent="1">
+          <mxGeometry x="2649" y="477" width="160" height="4161" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RAgMSd1qzy4tCXa5i1kW-15">
+          <mxGeometry x="74" y="1161" width="10" height="1379" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-17" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Queue&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;b&gt;MQ AaaS&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Recibe&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;solicitud para&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cambio de NIP de una TDD&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[LMPB]&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1537" y="953" width="214" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1729.999999999999" y="288" as="sourcePoint" />
+            <mxPoint x="1729.999999999999" y="288" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-19" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;&amp;lt;&amp;lt;Altair 390&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;PAMPA&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" vertex="1" parent="1">
+          <mxGeometry x="3656" y="477" width="160" height="4161" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-20" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&amp;lt;Queue&amp;gt;&amp;gt;&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;MQ 390&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" vertex="1" parent="1">
+          <mxGeometry x="3404" y="477" width="160" height="4161" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="808" y="717" as="sourcePoint" />
+            <mxPoint x="1760" y="717" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1048" y="916" as="sourcePoint" />
+            <mxPoint x="1278" y="916" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1529" y="1036" as="sourcePoint" />
+            <mxPoint x="1759" y="1036" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1760" y="708" width="10" height="3610" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-25" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Componente&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Launcher PLARD&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Solicita respuesta de donde se encuentra el PAN a CPL&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;[LMPB]&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="1076" width="210" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1770" y="1157" as="sourcePoint" />
+            <mxPoint x="2000" y="1157" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-27" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2000" y="1277" as="sourcePoint" />
+            <mxPoint x="1770" y="1277" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-28" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="2240" y="1428" width="10" height="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-29" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="3201" y="1710" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1770" y="1437" as="sourcePoint" />
+            <mxPoint x="2240" y="1437" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-31" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Componente&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;   ms-starter&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;Toma del Redis la solicitud y obtiene información de la transacción&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;[LMPB]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2262" y="1406" width="210" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-32" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Componente&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;   ms-starter&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;Redirige al stream asociado al microservicio que ejecuta la transacción&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;[LMPB]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2257" y="1525" width="221" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2250" y="1477" as="sourcePoint" />
+            <mxPoint x="2480" y="1477" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-34" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2480" y="1597" as="sourcePoint" />
+            <mxPoint x="2250" y="1597" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-35" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="2480" y="1470" width="10" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-36" value="&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Componente&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Launcher PLARD&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Recibe la&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;respuesta&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;consulta de comisión por bloqueo de una TDD&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;LMPB&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="1872" y="2972" width="263" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-37" value="&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;Queue&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;MQ AaaS&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;Recibe la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;respuesta&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;consulta de comisión por bloqueo de una TDD&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;LMPB&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="1536" y="3217" width="214" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-38" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="2253.5" y="2983" width="229" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-39" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Microservicio&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;device-block&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Deposita la&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;respuesta&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;consulta de comisión por bloqueo de una TDD&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;LMPB&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="2374" y="2920" width="229" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-40" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;fontColor=#CC0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2723" y="2997" as="sourcePoint" />
+            <mxPoint x="2250" y="2996.999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-41" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;fontColor=#CC0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2240" y="3037" as="sourcePoint" />
+            <mxPoint x="1770" y="3037" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-42" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1759" y="3277" as="sourcePoint" />
+            <mxPoint x="1529" y="3277" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-43" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1278" y="3357" as="sourcePoint" />
+            <mxPoint x="1048" y="3357" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-44" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1038" y="3397" as="sourcePoint" />
+            <mxPoint x="328" y="3397" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-45" value="&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;div&gt;Canal&lt;/div&gt;&lt;div&gt;&lt;b&gt;Appian / SanWeb&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Recibe la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;respuesta&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;consulta de comisión por bloqueo de una TDD&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;LMPB&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="1063" y="3294" width="210" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-46" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;Cliente / Ejecutivo Santander&lt;/b&gt;&lt;br&gt;Visualiza la comisión por bloqueo de una TDD&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="3345" width="212" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-47" value="&lt;div&gt;&lt;b&gt;&amp;lt;&amp;lt;&lt;/b&gt;&lt;b&gt;Middleware&lt;/b&gt;&lt;b&gt;&amp;gt;&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Altair as a Service&lt;/b&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" vertex="1" parent="1">
+          <mxGeometry x="1204" y="477" width="160" height="4161" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-48" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&amp;lt;CaaS Integration Layer&amp;gt;&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;card-place-locator-ag&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(CPL)&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;size=41;" vertex="1" parent="1">
+          <mxGeometry x="1926" y="476" width="160" height="4162" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-49" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Canal&lt;/div&gt;&lt;div&gt;&lt;b&gt;Appian / SanWeb&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Solicita realizar&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cambio de NIP de una TDD&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[LMPB]&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1065" y="835" width="198" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-50" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Componente&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;card-place-locator-ag&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Devuelve respuesta del PAN a Launcher&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;[LMPB]&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1785" y="1197" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-51" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Componente&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Launcher PLARD&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Deposita s&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;olicitud de generación de llave dinámica&amp;nbsp;&lt;/span&gt;en&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Redis Streams&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;[LMPB]&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1843" y="1357" width="230" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-52" value="&lt;div&gt;&lt;b&gt;&amp;lt;&amp;lt;Canal&amp;gt;&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;APPIAN / SanWeb&lt;/b&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" vertex="1" parent="1">
+          <mxGeometry x="963" y="477" width="161" height="4161" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-53" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RAgMSd1qzy4tCXa5i1kW-52">
+          <mxGeometry x="74" y="2870" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-54" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1037" y="868" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-55" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1278" y="911" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-56" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="2000" y="1147" width="10" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-57" value="" style="line;strokeWidth=2;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;html=1;whiteSpace=wrap;strokeColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="203" y="3512" width="3750" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-58" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Si respuesta de&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[CPL!= Plard]&lt;/font&gt;" style="text;html=1;rotation=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="210" y="3556" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-59" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1770" y="3637" as="sourcePoint" />
+            <mxPoint x="3478" y="3637" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-60" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Componente&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Launcher PLARD&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Deposita s&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;olicitud&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;para&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;consultar la comisión por bloqueo de una TDD&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[LMPB]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2004" y="3556" width="240" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-61" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;font&gt;Queue&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font&gt;&lt;b&gt;MQ 390&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Solicita consultar la comisión por bloqueo de una TDD&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[LMPB]&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3512.5" y="3597" width="191" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-62" value="&lt;div&gt;&lt;font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Realiza&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;la consulta de la comisión por bloqueo de una TDD&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[LMPB]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3782" y="3704" width="151" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-63" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;Queue&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;MQ 390&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Recibe response para&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;consulta de la comisión por bloqueo de una TDD&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[LMPB]&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3489" y="3696" width="238" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-64" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3489" y="3676" as="sourcePoint" />
+            <mxPoint x="3730" y="3676" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-65" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="3730" y="3672" width="10" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3741" y="3696" as="sourcePoint" />
+            <mxPoint x="3741" y="3737" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3786" y="3696" />
+              <mxPoint x="3786" y="3737" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-67" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;fontColor=#CC0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3729" y="3777" as="sourcePoint" />
+            <mxPoint x="3488" y="3777" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-68" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Flujo de Error&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3469" y="3889" width="188" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-69" value="alt MQ 390" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=80;height=15;" vertex="1" parent="1">
+          <mxGeometry x="3363" y="3836" width="440" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-70" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;[Response == @2]&lt;/font&gt;" style="text;html=1;rotation=0;" vertex="1" parent="RAgMSd1qzy4tCXa5i1kW-69">
+          <mxGeometry width="90" height="23" relative="1" as="geometry">
+            <mxPoint x="3" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-71" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="3478" y="3620" width="10" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-72" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3477" y="4077" as="sourcePoint" />
+            <mxPoint x="1769" y="4077" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-73" value="&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Componente&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Launcher PLARD&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Recibe&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;el response&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent; color: rgb(0, 0, 0);&quot; face=&quot;Helvetica&quot;&gt;para&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;consulta de la comisión por bloqueo de una TDD&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[LMPB]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="2004" y="4015" width="244" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-74" value="&lt;div&gt;&lt;b&gt;&amp;lt;&amp;lt;Queue&amp;gt;&amp;gt;&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;MQ Canal&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" vertex="1" parent="1">
+          <mxGeometry x="724" y="477" width="161" height="4161" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-75" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="798" y="668" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-76" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Si respuesta de&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[CPL== Plard]&lt;/font&gt;" style="text;html=1;rotation=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="211" y="1355" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-77" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1288" y="996" as="sourcePoint" />
+            <mxPoint x="1518" y="996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-78" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;&quot;&gt;Middleware&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;Altair as a Service&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Recibe solicitud de&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cambio de NIP de una TDD&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[LMPB]&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1297" y="915" width="210" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-79" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1517" y="3317" as="sourcePoint" />
+            <mxPoint x="1287" y="3317" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-80" value="&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;div&gt;Middleware&lt;/div&gt;&lt;div&gt;&lt;b&gt;Altair as a Service&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Recibe la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;respuesta&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;consulta de comisión por bloqueo de una TDD&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;LMPB&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="3255" width="210" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-81" value="&lt;b&gt;Cliente / Ejecutivo Santander&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" vertex="1" parent="1">
+          <mxGeometry x="244" y="477" width="161" height="4161" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-82" value="&lt;div&gt;&lt;b&gt;&amp;lt;&amp;lt;Canal&amp;gt;&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;IVR / TF&lt;/b&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" vertex="1" parent="1">
+          <mxGeometry x="482" y="477" width="161" height="4161" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-83" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="318" y="598" width="10" height="3850" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-84" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="568" y="677" as="sourcePoint" />
+            <mxPoint x="798" y="677" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-85" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;&quot;&gt;Canal&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;IVR / TF&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Solicita realizar&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cambio de NIP de una TDD&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;[LMPB]&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="593" y="596" width="175" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-86" value="&lt;b&gt;Cliente / Ejecutivo Santander&lt;/b&gt;&lt;br&gt;Accede al Canal para realizar un cambio de NIP de una TDD" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="343" y="595" width="190" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-87" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="557" y="628" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-88" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="327" y="637" as="sourcePoint" />
+            <mxPoint x="557" y="637" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-89" value="alt" style="shape=umlFrame;html=1;pointerEvents=0;recursiveResize=0;container=0;collapsible=0;width=80;height=15;" vertex="1" parent="1">
+          <mxGeometry x="243" y="558" width="1560" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-90" value="[Canal != Agave]" style="text;rotation=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="253" y="802" width="55" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-91" value="&lt;b&gt;Cliente / Ejecutivo Santander&lt;/b&gt;&lt;br&gt;Accede al Canal para realizar un cambio de NIP de una TDD" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="343" y="833" width="195" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-92" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="329" y="877" as="sourcePoint" />
+            <mxPoint x="1037" y="876.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-93" value="[Canal == Agave]" style="text;rotation=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="252" y="592" width="60" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-94" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Queue&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;b&gt;MQ Canal&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Recibe&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;solicitud realizar&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cambio de NIP de una TDD&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[LMPB]&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="846" y="631" width="180" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-95" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;div&gt;Microservicio&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;device-block&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Recibe respuesta de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;generación de llave dinámica&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2943" y="1730" width="248" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-96" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="RAgMSd1qzy4tCXa5i1kW-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2728" y="1717" as="sourcePoint" />
+            <mxPoint x="3431" y="1717" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-97" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;" edge="1" parent="1" source="RAgMSd1qzy4tCXa5i1kW-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3193" y="1797" as="sourcePoint" />
+            <mxPoint x="2733" y="1797" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-98" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="RAgMSd1qzy4tCXa5i1kW-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2733" y="2179" as="sourcePoint" />
+            <mxPoint x="2962" y="2180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-99" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;device-block&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Publica Trama de Bitácora&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;generación de llave dinámica&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2739" y="2112" width="222" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-100" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;device-block&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Genera Trama de Bitácora&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;generación de llave dinámica&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2772" y="2019" width="206" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-101" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;" edge="1" parent="1" source="RAgMSd1qzy4tCXa5i1kW-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2967" y="2220" as="sourcePoint" />
+            <mxPoint x="2732.071428571428" y="2220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-102" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="2963" y="2175" width="10" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-103" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Response 200&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2805" y="2196" width="82" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2733" y="2042" as="sourcePoint" />
+            <mxPoint x="2733" y="2083" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2778" y="2042" />
+              <mxPoint x="2778" y="2083" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-105" value="&lt;div&gt;&lt;div&gt;Microservicio&lt;/div&gt;&lt;div&gt;&lt;b&gt;device-block&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Solicita&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;generación de llave dinámica&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;[API PLARD - Device Life Cycle]&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(GET)&amp;nbsp; life-cycle/v5/devices/details&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2732" y="1632" width="221" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-106" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;device-block&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;Toma la&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;s&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;olicitud para&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;generación de llave dinámica&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[LMPB]&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="2368" y="1632" width="314" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-107" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2251" y="1677" as="sourcePoint" />
+            <mxPoint x="2723" y="1677" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-108" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Flujo de Error&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="2708" y="1891" width="188" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-109" value="ref" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=0;collapsible=0;width=50;height=15;" vertex="1" parent="1">
+          <mxGeometry x="2682" y="1878" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-110" value="alt Capa" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=0;collapsible=0;width=80;height=15;" vertex="1" parent="1">
+          <mxGeometry x="2602" y="1838" width="440" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-111" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;[Response == 4XX]&lt;/font&gt;" style="text;html=1;rotation=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="2605" y="1837" width="90" height="23" as="geometry">
+            <mxPoint x="3" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-112" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Microservicio&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;device-block&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Recibe el tipo de tarjeta&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="2974" y="2397" width="220" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-113" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};container=0;" vertex="1" parent="1">
+          <mxGeometry x="3203" y="2348" width="10" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-114" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2734" y="2357" as="sourcePoint" />
+            <mxPoint x="3204" y="2357" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-115" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;div&gt;Microservicio&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;device-block&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Obtener el tipo de tarjeta&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;[API PLARD -&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;IssuerProperties&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve; color: rgb(36, 36, 36); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;(GET) &lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;/issuer_properties_contract/v1/properties&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="2722" y="2282" width="297" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-116" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3203" y="2436" as="sourcePoint" />
+            <mxPoint x="2733" y="2436" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-117" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Flujo de Error&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="2709" y="2531" width="188" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-118" value="ref" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=0;collapsible=0;width=50;height=15;" vertex="1" parent="1">
+          <mxGeometry x="2683" y="2518" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2734" y="2677" as="sourcePoint" />
+            <mxPoint x="2734" y="2718" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2779" y="2677" />
+              <mxPoint x="2779" y="2718" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-120" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="RAgMSd1qzy4tCXa5i1kW-124">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2734" y="2797" as="sourcePoint" />
+            <mxPoint x="2963" y="2798" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-121" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;device-block&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Publica Trama de Bitácora de obtener tipo tarjeta&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="2751" y="2754" width="202" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-122" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;device-block&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Genera Trama de Bitácora del obtener tipo tarjeta&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="2778" y="2656" width="171" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-123" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2963" y="2838" as="sourcePoint" />
+            <mxPoint x="2732" y="2838" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-124" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};container=0;" vertex="1" parent="1">
+          <mxGeometry x="2963" y="2791" width="10" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-125" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Response 200&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="2867" y="2815" width="82" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-126" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;[Response == 4XX]&lt;/font&gt;" style="text;html=1;rotation=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="2606" y="2480" width="90" height="23" as="geometry">
+            <mxPoint x="3" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-127" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;device-block&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Genera response&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;consulta de comisión por bloqueo de una TDD&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;LMPB&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="2775" y="2898" width="210" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2733" y="2917" as="sourcePoint" />
+            <mxPoint x="2733" y="2958" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2778" y="2917" />
+              <mxPoint x="2778" y="2958" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-129" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1760" y="3077" as="sourcePoint" />
+            <mxPoint x="809" y="3077" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-130" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="797" y="3117" as="sourcePoint" />
+            <mxPoint x="567" y="3117" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-131" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="557" y="3157" as="sourcePoint" />
+            <mxPoint x="327" y="3157" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-132" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1518" y="3266" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-133" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1279" y="3306" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-134" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="798" y="3067" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-135" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="556" y="3105" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-136" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;Cliente / Ejecutivo Santander&lt;/b&gt;&lt;br&gt;Visualiza la comisión por bloqueo de una TDD&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="342" y="3104" width="212" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-137" value="&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;div&gt;Canal&lt;/div&gt;&lt;div&gt;&lt;b&gt;Centel / TF&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Recibe la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;respuesta&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;consulta de comisión por bloqueo de una TDD&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;LMPB&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="574" y="3056" width="210" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-138" value="&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;Queue&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;MQ Canal&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;Recibe la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;respuesta&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;consulta de comisión por bloqueo de una TDD&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;LMPB&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="3016" width="230" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-139" value="alt" style="shape=umlFrame;html=1;pointerEvents=0;recursiveResize=0;container=0;collapsible=0;width=80;height=15;" vertex="1" parent="1">
+          <mxGeometry x="243" y="2998" width="1556" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-140" value="[Canal != Agave]" style="text;rotation=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="249" y="3236" width="55" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-141" value="[Canal == Agave]" style="text;rotation=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="248" y="3035" width="60" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-142" value="ref" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;height=15;" vertex="1" parent="1">
+          <mxGeometry x="3443" y="3876" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-143" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#000000;strokeColor=#0000CC;entryX=1;entryY=0.458;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="243" y="4237" as="sourcePoint" />
+            <mxPoint x="1803" y="4236.16" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-144" value="&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;Queue&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;MQ AaaS&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;Recibe la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;respuesta&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;consulta de comisión por bloqueo de una TDD&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;LMPB&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="1536" y="4257" width="214" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-145" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1759" y="4317" as="sourcePoint" />
+            <mxPoint x="1529" y="4317" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-146" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1278" y="4397" as="sourcePoint" />
+            <mxPoint x="1048" y="4397" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-147" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1038" y="4437" as="sourcePoint" />
+            <mxPoint x="328" y="4437" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-148" value="&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;div&gt;Canal&lt;/div&gt;&lt;div&gt;&lt;b&gt;Appian / SanWeb&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Recibe la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;respuesta&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;consulta de comisión por bloqueo de una TDD&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;LMPB&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="1063" y="4334" width="210" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-149" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;Cliente / Ejecutivo Santander&lt;/b&gt;&lt;br&gt;Visualiza la comisión por bloqueo de una TDD&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="4385" width="212" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-150" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1037" y="4387" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-151" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1517" y="4357" as="sourcePoint" />
+            <mxPoint x="1287" y="4357" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-152" value="&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;div&gt;Middleware&lt;/div&gt;&lt;div&gt;&lt;b&gt;Altair as a Service&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Recibe la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;respuesta&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;consulta de comisión por bloqueo de una TDD&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;LMPB&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="4295" width="210" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-153" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1760" y="4117" as="sourcePoint" />
+            <mxPoint x="809" y="4117" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-154" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="797" y="4157" as="sourcePoint" />
+            <mxPoint x="567" y="4157" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-155" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="557" y="4197" as="sourcePoint" />
+            <mxPoint x="327" y="4197" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-156" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1518" y="4306" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-157" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1279" y="4346" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-158" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="798" y="4107" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-159" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="556" y="4145" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-160" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;Cliente / Ejecutivo Santander&lt;/b&gt;&lt;br&gt;Visualiza la comisión por bloqueo de una TDD&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="342" y="4144" width="212" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-161" value="&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;div&gt;Canal&lt;/div&gt;&lt;div&gt;&lt;b&gt;Centel / TF&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Recibe la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;respuesta&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;consulta de comisión por bloqueo de una TDD&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;LMPB&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="574" y="4096" width="210" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-162" value="&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;Queue&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;MQ Canal&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;Recibe la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;respuesta&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;consulta de comisión por bloqueo de una TDD&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;LMPB&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="4056" width="230" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-163" value="alt" style="shape=umlFrame;html=1;pointerEvents=0;recursiveResize=0;container=0;collapsible=0;width=80;height=15;" vertex="1" parent="1">
+          <mxGeometry x="243" y="4038" width="1556" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-164" value="[Canal != Agave]" style="text;rotation=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="249" y="4276" width="55" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="RAgMSd1qzy4tCXa5i1kW-165" value="[Canal == Agave]" style="text;rotation=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="248" y="4075" width="60" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
