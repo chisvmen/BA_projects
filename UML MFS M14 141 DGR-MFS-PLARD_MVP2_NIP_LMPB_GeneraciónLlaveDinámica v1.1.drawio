@@ -1191,8 +1191,8 @@
         </mxCell>
         <mxCell id="CqQF73y-pKX2fBBkcdkx-54" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;exitX=0.499;exitY=0.072;exitDx=0;exitDy=0;exitPerimeter=0;" parent="CqQF73y-pKX2fBBkcdkx-2" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="256" y="336.99800000000005" as="sourcePoint" />
-            <mxPoint x="489.16100000000006" y="336.78999999999996" as="targetPoint" />
+            <mxPoint x="256" y="348.99800000000005" as="sourcePoint" />
+            <mxPoint x="489.16100000000006" y="348.78999999999996" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1294,7 +1294,7 @@
           <mxGeometry x="75.5" y="160" width="10" height="3240" as="geometry" />
         </mxCell>
         <mxCell id="CqQF73y-pKX2fBBkcdkx-82" value="&lt;div&gt;&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Solicita cambio de NIP&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;de una tarjeta de débito&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[LMPB]&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;textShadow=0;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" parent="CqQF73y-pKX2fBBkcdkx-2" vertex="1">
-          <mxGeometry x="269.38" y="294" width="200" height="35" as="geometry" />
+          <mxGeometry x="269.38" y="306" width="200" height="35" as="geometry" />
         </mxCell>
         <mxCell id="CqQF73y-pKX2fBBkcdkx-83" value="&lt;div&gt;Queque&lt;div&gt;&lt;b&gt;MQ AaaS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Recibe solicitud de&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cambio de NIP&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;de una tarjeta de débito&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[LMPB]&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="CqQF73y-pKX2fBBkcdkx-2" vertex="1">
           <mxGeometry x="1225.25" y="456" width="204.75" height="44" as="geometry" />
