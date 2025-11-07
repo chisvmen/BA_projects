@@ -152,7 +152,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Zh7MZkrw_lrTj9WIfTGU" name="LMPB - Generación Llave Dinámica">
-    <mxGraphModel dx="683" dy="1601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2246" dy="2589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1161,6 +1161,32 @@
             <Array as="points">
               <mxPoint x="2678" y="3490" />
               <mxPoint x="2678" y="3531" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_CmaUAmXBJiRtWuvz1K-40" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;div&gt;Microservicio&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;pin-management&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Desencripta llave simetrica&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2695" y="3560" width="160" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="E_CmaUAmXBJiRtWuvz1K-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2633" y="3562" as="sourcePoint" />
+            <mxPoint x="2633" y="3603" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2678" y="3562" />
+              <mxPoint x="2678" y="3603" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_CmaUAmXBJiRtWuvz1K-42" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;div&gt;Microservicio&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;pin-management&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Obtiene llave dinámica&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2695" y="3630" width="160" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="E_CmaUAmXBJiRtWuvz1K-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2633" y="3632" as="sourcePoint" />
+            <mxPoint x="2633" y="3673" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2678" y="3632" />
+              <mxPoint x="2678" y="3673" />
             </Array>
           </mxGeometry>
         </mxCell>
