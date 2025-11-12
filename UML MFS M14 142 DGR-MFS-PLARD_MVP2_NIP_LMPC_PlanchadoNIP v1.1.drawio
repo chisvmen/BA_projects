@@ -152,7 +152,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="O-FxwFixU22YfWX9q44g" name="LMPC - Planchado de NIP">
-    <mxGraphModel dx="1429" dy="2073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1015,8 +1015,8 @@
         </mxCell>
         <mxCell id="dSWtYEA8iX0MJivAvEWm-198" value="" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="558" y="6367" as="sourcePoint" />
-            <mxPoint x="328" y="6367" as="targetPoint" />
+            <mxPoint x="557" y="6367" as="sourcePoint" />
+            <mxPoint x="327" y="6367" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSWtYEA8iX0MJivAvEWm-199" value="&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;br&gt;Recibe&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;los datos del cambio de NIP&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;[LMPC]&lt;/font&gt;&lt;/div&gt;" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" vertex="1" parent="1">
