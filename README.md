@@ -1,7 +1,15 @@
 #**Tools BA**
+https://chatgpt.com/
+https://gemini.google.com/
+
+https://drive.google.com/
+https://photos.google.com/
+https://www.icloud.com/
+https://onedrive.live.com/
 
 https://www.drawio.com/
 https://excalidraw.com/
+https://http.cat/
 https://www.plantuml.com/
 https://www.figma.com/
 
@@ -27,6 +35,8 @@ https://public.tableau.com/app/profile/christopher.valencia/vizzes
 
 https://editor.swagger.io/
 https://monday.com/
+https://app.mural.co/
+
 
 ##TESTING
 chrome://inspect/#devices
