@@ -1,6 +1,7 @@
 #**Tools BA**
 
 https://chatgpt.com/
+
 https://gemini.google.com/
 
 https://drive.google.com/
