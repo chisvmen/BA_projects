@@ -33,7 +33,6 @@ https://base64.guru/converter/decode/image
 
 JIRA
 CONFLUENCE
-https://chatgpt.com/
 EXCEL
 ALM
 VISUAL STUDIO -> IDE -> colecciones -> bloc de notas
