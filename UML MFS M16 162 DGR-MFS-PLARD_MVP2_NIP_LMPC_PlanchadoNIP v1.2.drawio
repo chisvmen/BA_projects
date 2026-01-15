@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1" pages="2">
   <diagram id="O-FxwFixU22YfWX9q44g" name="LMPC - Planchado de NIP">
-    <mxGraphModel dx="1544" dy="2133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="965" dy="1772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1021,13 +1021,13 @@
           <mxGeometry height="81" width="240" x="3221" y="857" as="geometry" />
         </mxCell>
         <mxCell id="Qbz4d1M88X19Xk-HFkqT-9" parent="1" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Repositorio&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Redis Cache&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Envía identificador de sesión asociada la generación de la llave dinámica&lt;/div&gt;&lt;div&gt;[LMPC]&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="230" x="3237" y="957" as="geometry" />
+          <mxGeometry height="80" width="230" x="3222" y="957" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Versiones" id="9mDrpSdMrin3suW39ob4">
-    <mxGraphModel dx="908" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="572" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1121,7 +1121,7 @@
             <mxRectangle height="114" width="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wVD0Wn6h3Lo9srrS1zz6-21" parent="wVD0Wn6h3Lo9srrS1zz6-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=center;" value="LMPC - Planchado de NIP&lt;div&gt;&lt;span style=&quot;color: rgb(0, 32, 96); font-family: Calibri; font-size: 10.6667px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;- Se integra definición de integración por API PLARD &lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="wVD0Wn6h3Lo9srrS1zz6-21" parent="wVD0Wn6h3Lo9srrS1zz6-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=center;" value="LMPC - Planchado de NIP&lt;div&gt;&lt;span style=&quot;color: rgb(0, 32, 96); font-family: Calibri; font-size: 10.6667px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;- Se integra definición de integración por API PLARD Card Security y tratado de seguridad de PEKToken&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="114" width="465" x="545" as="geometry">
             <mxRectangle height="114" width="465" as="alternateBounds" />
           </mxGeometry>
