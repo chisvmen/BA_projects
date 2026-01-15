@@ -32,9 +32,13 @@ https://http.cat/
 https://base64.guru/converter/decode/image
 
 JIRA
+
 CONFLUENCE
+
 EXCEL
+
 ALM
+
 VISUAL STUDIO -> IDE -> colecciones -> bloc de notas
 
 https://www.canva.com/
