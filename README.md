@@ -20,16 +20,17 @@ https://http.cat/
 
 https://www.plantuml.com/
 
+https://base64.guru/converter/decode/image
+
 https://www.figma.com/
 
 https://github.com/chisvmen
-
-Project 
+ 
 https://app.mural.co
 
-https://http.cat/
 
-https://base64.guru/converter/decode/image
+
+Project
 
 JIRA
 
