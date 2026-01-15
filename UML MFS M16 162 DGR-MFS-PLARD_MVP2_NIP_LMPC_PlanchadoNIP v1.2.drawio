@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1" pages="2">
   <diagram id="O-FxwFixU22YfWX9q44g" name="LMPC - Planchado de NIP">
-    <mxGraphModel dx="965" dy="1772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="572" dy="1526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,10 +74,10 @@
             <mxPoint x="3481.3599999999997" y="4557.330000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSWtYEA8iX0MJivAvEWm-29" edge="1" parent="1" source="dSWtYEA8iX0MJivAvEWm-10" style="endArrow=classic;html=1;rounded=0;entryX=0.493;entryY=0.159;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0.159;exitDx=0;exitDy=0;exitPerimeter=0;" target="dSWtYEA8iX0MJivAvEWm-8" value="">
+        <mxCell id="dSWtYEA8iX0MJivAvEWm-29" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.493;entryY=0.159;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0.159;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1770" y="1241" as="sourcePoint" />
-            <mxPoint x="2000" y="1241" as="targetPoint" />
+            <mxPoint x="1763" y="1238.6570000000002" as="sourcePoint" />
+            <mxPoint x="2235.88" y="1239.6569999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TTvuUIsrqTY_W99_IIbb-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=16;fontStyle=1" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; text-align: left;&quot;&gt;PLARD&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;[IVR/TF/APPIAN/SANWEB]&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; text-align: left;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; text-align: left;&quot;&gt;- LMPC&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&amp;nbsp;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;PLANCHADO DE NIP&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; text-align: left;&quot;&gt;- MODELO FUNCIONAL DE SECUENCIA&lt;/span&gt;" vertex="1">
@@ -267,18 +267,18 @@
         </mxCell>
         <mxCell id="dSWtYEA8iX0MJivAvEWm-32" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="2244" y="1282" as="sourcePoint" />
-            <mxPoint x="2474" y="1282" as="targetPoint" />
+            <mxPoint x="2245" y="1282" as="sourcePoint" />
+            <mxPoint x="2475" y="1282" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSWtYEA8iX0MJivAvEWm-33" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;fontColor=#000000;strokeColor=#000000;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="2474" y="1402" as="sourcePoint" />
-            <mxPoint x="2244" y="1402" as="targetPoint" />
+            <mxPoint x="2475" y="1402" as="sourcePoint" />
+            <mxPoint x="2245" y="1402" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSWtYEA8iX0MJivAvEWm-34" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="131" width="10" x="2474" y="1275" as="geometry" />
+          <mxGeometry height="140" width="10" x="2475" y="1270" as="geometry" />
         </mxCell>
         <mxCell id="dSWtYEA8iX0MJivAvEWm-35" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" value="&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Componente&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Launcher PLARD&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Recibe la&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;respuesta&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;del&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;planchado de NIP&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;LMPC&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="45" width="188" x="1797" y="2592" as="geometry" />
@@ -1027,7 +1027,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Versiones" id="9mDrpSdMrin3suW39ob4">
-    <mxGraphModel dx="572" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1103" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
