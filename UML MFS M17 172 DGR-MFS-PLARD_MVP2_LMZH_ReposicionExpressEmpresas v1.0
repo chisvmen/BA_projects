@@ -152,7 +152,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uYfyuXtXuLmTPelHgDV-" name="LMZH - Reposición Express Empresas">
-    <mxGraphModel dx="1287" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="772" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -164,8 +164,8 @@
         </mxCell>
         <mxCell id="-9-KPw-CPh0OBzjc2WSV-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="268.5" y="1572" as="sourcePoint" />
-            <mxPoint x="498.5" y="1572" as="targetPoint" />
+            <mxPoint x="269" y="1581" as="sourcePoint" />
+            <mxPoint x="499" y="1581" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-9-KPw-CPh0OBzjc2WSV-3" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;fontColor=#000000;strokeColor=#000000;entryX=0.506;entryY=0.283;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
@@ -454,8 +454,8 @@
         <mxCell id="-9-KPw-CPh0OBzjc2WSV-69" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;&quot;&gt;Canal&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;FDMP&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Solicita realizar la consulta de conciliación de movimientos&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de una TDD&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="43" width="220" x="511" y="1545" as="geometry" />
         </mxCell>
-        <mxCell id="-9-KPw-CPh0OBzjc2WSV-70" parent="1" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" value="&lt;b&gt;Cliente / Ejecutivo Santander&lt;/b&gt;&lt;br&gt;Accede al Canal para realizar la reposición express de empresas de una TDD" vertex="1">
-          <mxGeometry height="27" width="234.25" x="266.38" y="1529" as="geometry" />
+        <mxCell id="-9-KPw-CPh0OBzjc2WSV-70" parent="1" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" value="&lt;b&gt;Cliente / Ejecutivo Santander&lt;/b&gt;&lt;br&gt;Accede al Canal para solicita la reposición express de una TDD" vertex="1">
+          <mxGeometry height="27" width="193.62" x="291.69" y="1541" as="geometry" />
         </mxCell>
         <mxCell id="-9-KPw-CPh0OBzjc2WSV-71" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="60" width="10" x="498.5" y="1563" as="geometry" />
