@@ -152,7 +152,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SLGQxWEMu3m3VbGhC708" name="Splitters">
-    <mxGraphModel dx="1123" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -237,7 +237,7 @@
         <mxCell id="77w-11hD56J_MRPGeAOX-17" parent="1" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" value="&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;br&gt;Ingresa la TDD al TPV y realiza la imputación" vertex="1">
           <mxGeometry height="27" width="124.25" x="1767.88" y="532" as="geometry" />
         </mxCell>
-        <mxCell id="77w-11hD56J_MRPGeAOX-18" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;b&gt;Capa de Integración&amp;nbsp;&lt;/b&gt;" vertex="1">
+        <mxCell id="77w-11hD56J_MRPGeAOX-18" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;&amp;lt;CaaS Integration Layer&amp;gt;&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;b&gt;Capa de Integración&amp;nbsp;&lt;/b&gt;" vertex="1">
           <mxGeometry height="2902" width="161" x="1860" y="218" as="geometry" />
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
@@ -249,7 +249,7 @@
         <mxCell id="77w-11hD56J_MRPGeAOX-20" parent="1" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" value="&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;br&gt;Ingresa la TDD al TPV y realiza la imputación" vertex="1">
           <mxGeometry height="27" width="124.25" x="1997.88" y="587" as="geometry" />
         </mxCell>
-        <mxCell id="77w-11hD56J_MRPGeAOX-21" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;b&gt;PLARD S3&lt;/b&gt;&lt;div&gt;sistema ficheros&lt;/div&gt;" vertex="1">
+        <mxCell id="77w-11hD56J_MRPGeAOX-21" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;&amp;lt;&amp;lt;Plataforma SaaS&amp;gt;&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;PLARD&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;S3&lt;/b&gt;&lt;/div&gt;&lt;div&gt;sistema ficheros&lt;/div&gt;" vertex="1">
           <mxGeometry height="2902" width="161" x="2090" y="218" as="geometry" />
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
