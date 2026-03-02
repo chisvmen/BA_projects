@@ -152,10 +152,16 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SLGQxWEMu3m3VbGhC708" name="Splitters">
-    <mxGraphModel dx="1429" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1965" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="77w-11hD56J_MRPGeAOX-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1025" y="399" as="sourcePoint" />
+            <mxPoint x="1255" y="399" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3y80HK_5qT1iwzrRv2HO-2" parent="1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;strokeColor=default;" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;Funcionalidad:&lt;/b&gt;&amp;nbsp;Splitters&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Alcance&lt;/b&gt;: MPV-Full Debit&amp;nbsp;&amp;nbsp;-&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;Esta transacción permite realizar la consulta, recuperación e identificación de la información de la cuenta de débito desde el canal Corresponsales Bancarios.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-start=&quot;877&quot; data-end=&quot;906&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-start=&quot;877&quot; data-end=&quot;906&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Con Corresponsales Bancarios nos referimos a los&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;establecimientos comerciales autorizados para operar como ventanillas de Terminal Financiera, permitiendo a los clientes realizar operaciones sin necesidad de acudir a una sucursal bancaria.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;Reglas de negocio&lt;/b&gt;.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;ul data-start=&quot;303&quot; data-end=&quot;493&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Aplica únicamente para Tarjetas de Débito (TDD).&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Precondiciones:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;El cliente Santander debe tener una Tarjeta de Débito.&lt;/li&gt;&lt;li&gt;La Tarjeta de Débito debe estar&amp;nbsp;vigente y activa.&lt;/li&gt;&lt;li&gt;La Tarjeta de Débito debe estar asignada al Cliente.&lt;/li&gt;&lt;li&gt;La Tarjeta de Débito debe estar vinculada a una cuenta activa.&lt;/li&gt;&lt;/ul&gt;&lt;b style=&quot;background-color: initial; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Post-Condiciones:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;El canal de Corresponsales Bancarios realiza la consulta de la cuenta de débito del cliente de manera exitosa.&amp;nbsp;&lt;/span&gt;En caso contrario, el canal informa al Cliente error en la operación.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="730" width="769" x="10" y="40" as="geometry" />
         </mxCell>
@@ -191,6 +197,72 @@
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-5" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="2477" width="10" x="1021" y="333" as="geometry" />
+        </mxCell>
+        <mxCell id="77w-11hD56J_MRPGeAOX-8" parent="1" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" value="&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;br&gt;Ingresa la TDD al TPV y realiza la imputación" vertex="1">
+          <mxGeometry height="27" width="124.25" x="1082.88" y="361" as="geometry" />
+        </mxCell>
+        <mxCell id="77w-11hD56J_MRPGeAOX-9" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;b&gt;Cliente Santander&lt;/b&gt;" vertex="1">
+          <mxGeometry height="2902" width="161" x="1175" y="218" as="geometry" />
+        </mxCell>
+        <mxCell id="77w-11hD56J_MRPGeAOX-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1250" y="459" as="sourcePoint" />
+            <mxPoint x="1480" y="459" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77w-11hD56J_MRPGeAOX-11" parent="1" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" value="&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;br&gt;Ingresa la TDD al TPV y realiza la imputación" vertex="1">
+          <mxGeometry height="27" width="124.25" x="1307.88" y="421" as="geometry" />
+        </mxCell>
+        <mxCell id="77w-11hD56J_MRPGeAOX-12" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;b&gt;Cliente Santander&lt;/b&gt;" vertex="1">
+          <mxGeometry height="2902" width="161" x="1400" y="218" as="geometry" />
+        </mxCell>
+        <mxCell id="77w-11hD56J_MRPGeAOX-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1480" y="518" as="sourcePoint" />
+            <mxPoint x="1710" y="518" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77w-11hD56J_MRPGeAOX-14" parent="1" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" value="&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;br&gt;Ingresa la TDD al TPV y realiza la imputación" vertex="1">
+          <mxGeometry height="27" width="124.25" x="1537.88" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="77w-11hD56J_MRPGeAOX-15" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;b&gt;Cliente Santander&lt;/b&gt;" vertex="1">
+          <mxGeometry height="2902" width="161" x="1630" y="218" as="geometry" />
+        </mxCell>
+        <mxCell id="77w-11hD56J_MRPGeAOX-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1710" y="570" as="sourcePoint" />
+            <mxPoint x="1940" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77w-11hD56J_MRPGeAOX-17" parent="1" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" value="&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;br&gt;Ingresa la TDD al TPV y realiza la imputación" vertex="1">
+          <mxGeometry height="27" width="124.25" x="1767.88" y="532" as="geometry" />
+        </mxCell>
+        <mxCell id="77w-11hD56J_MRPGeAOX-18" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;b&gt;Cliente Santander&lt;/b&gt;" vertex="1">
+          <mxGeometry height="2902" width="161" x="1860" y="218" as="geometry" />
+        </mxCell>
+        <mxCell id="77w-11hD56J_MRPGeAOX-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1940" y="625" as="sourcePoint" />
+            <mxPoint x="2170" y="625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77w-11hD56J_MRPGeAOX-20" parent="1" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" value="&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;br&gt;Ingresa la TDD al TPV y realiza la imputación" vertex="1">
+          <mxGeometry height="27" width="124.25" x="1997.88" y="587" as="geometry" />
+        </mxCell>
+        <mxCell id="77w-11hD56J_MRPGeAOX-21" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;b&gt;Cliente Santander&lt;/b&gt;" vertex="1">
+          <mxGeometry height="2902" width="161" x="2090" y="218" as="geometry" />
+        </mxCell>
+        <mxCell id="77w-11hD56J_MRPGeAOX-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2170" y="689" as="sourcePoint" />
+            <mxPoint x="2400" y="689" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77w-11hD56J_MRPGeAOX-23" parent="1" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" value="&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;br&gt;Ingresa la TDD al TPV y realiza la imputación" vertex="1">
+          <mxGeometry height="27" width="124.25" x="2227.88" y="651" as="geometry" />
+        </mxCell>
+        <mxCell id="77w-11hD56J_MRPGeAOX-24" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;b&gt;Cliente Santander&lt;/b&gt;" vertex="1">
+          <mxGeometry height="2902" width="161" x="2320" y="218" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
