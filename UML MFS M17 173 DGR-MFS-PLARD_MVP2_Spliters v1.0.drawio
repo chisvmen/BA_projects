@@ -152,7 +152,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SLGQxWEMu3m3VbGhC708" name="Splitters">
-    <mxGraphModel dx="1429" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="655" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -326,6 +326,12 @@
         </mxCell>
         <mxCell id="1YsvMv8xvyXHZp-hQnk2-22" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;height=15;" value="alt" vertex="1">
           <mxGeometry height="2659" width="3116" x="874" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="1YsvMv8xvyXHZp-hQnk2-26" parent="1YsvMv8xvyXHZp-hQnk2-22" style="line;strokeWidth=2;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;html=1;whiteSpace=wrap;strokeColor=#0000FF;" value="" vertex="1">
+          <mxGeometry height="10" width="3116" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="1YsvMv8xvyXHZp-hQnk2-27" parent="1YsvMv8xvyXHZp-hQnk2-22" style="text;html=1;rotation=0;fontStyle=1" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Si respuesta de&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[CPL!= Plard]&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="110" x="31" y="470" as="geometry" />
         </mxCell>
         <mxCell id="1YsvMv8xvyXHZp-hQnk2-23" parent="1" style="text;html=1;rotation=0;fontStyle=1;container=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Si respuesta de&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[CPL== Plard]&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="100" x="900" y="1019" as="geometry" />
