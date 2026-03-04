@@ -152,56 +152,62 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SLGQxWEMu3m3VbGhC708" name="Splitters">
-    <mxGraphModel dx="1747" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1429" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="77w-11hD56J_MRPGeAOX-25" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;fontColor=#000000;exitX=0.5;exitY=0.208;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.503;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2265.09" y="721.616" as="sourcePoint" />
+            <mxPoint x="2039.7330000000002" y="722.375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1YsvMv8xvyXHZp-hQnk2-13" edge="1" parent="1" source="77w-11hD56J_MRPGeAOX-12" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;fontColor=#000000;exitX=0.505;exitY=0.221;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.503;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1486.8400000000001" y="859" as="sourcePoint" />
-            <mxPoint x="1260.9830000000002" y="859.375" as="targetPoint" />
+            <mxPoint x="1351.8400000000001" y="859" as="sourcePoint" />
+            <mxPoint x="1125.9830000000002" y="859.375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1YsvMv8xvyXHZp-hQnk2-4" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;fontColor=#000000;exitX=0.5;exitY=0.208;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.503;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1940.93" y="785" as="sourcePoint" />
-            <mxPoint x="1715.073" y="785.375" as="targetPoint" />
+            <mxPoint x="1805.93" y="785" as="sourcePoint" />
+            <mxPoint x="1580.073" y="785.375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="2170" y="612" as="sourcePoint" />
-            <mxPoint x="2400" y="612" as="targetPoint" />
+            <mxPoint x="2031" y="612" as="sourcePoint" />
+            <mxPoint x="2261" y="612" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1YsvMv8xvyXHZp-hQnk2-1" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;fontColor=#000000;exitX=0.5;exitY=0.208;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.503;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="2170.59" y="752" as="sourcePoint" />
-            <mxPoint x="1944.7330000000002" y="752.375" as="targetPoint" />
+            <mxPoint x="2035.5900000000001" y="752" as="sourcePoint" />
+            <mxPoint x="1809.7330000000002" y="752.375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1936" y="573" as="sourcePoint" />
-            <mxPoint x="2166" y="573" as="targetPoint" />
+            <mxPoint x="1801" y="573" as="sourcePoint" />
+            <mxPoint x="2031" y="573" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.499;exitY=0.111;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.502;entryY=0.111;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1705.3390000000002" y="540.122" as="sourcePoint" />
-            <mxPoint x="1935.8219999999997" y="540.122" as="targetPoint" />
+            <mxPoint x="1570.3390000000002" y="540.122" as="sourcePoint" />
+            <mxPoint x="1800.8219999999997" y="540.122" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-13" edge="1" parent="1" source="77w-11hD56J_MRPGeAOX-12" style="endArrow=classic;html=1;rounded=0;exitX=0.498;exitY=0.097;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1475" y="500" as="sourcePoint" />
-            <mxPoint x="1705" y="500" as="targetPoint" />
+            <mxPoint x="1340" y="500" as="sourcePoint" />
+            <mxPoint x="1570" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-10" edge="1" parent="1" source="77w-11hD56J_MRPGeAOX-9" style="endArrow=classic;html=1;rounded=0;exitX=0.506;exitY=0.083;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1246" y="459" as="sourcePoint" />
-            <mxPoint x="1476" y="459" as="targetPoint" />
+            <mxPoint x="1111" y="459" as="sourcePoint" />
+            <mxPoint x="1341" y="459" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3y80HK_5qT1iwzrRv2HO-2" parent="1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;strokeColor=default;" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;Funcionalidad:&lt;/b&gt;&amp;nbsp;Splitters PLARD&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Alcance&lt;/b&gt;: MPV-Full Debit&amp;nbsp;&amp;nbsp;-&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Como responsable del flujo de procesamiento de archivos se requiere&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;procesar la recepción de&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;archivos (incoming / migración) desde Gravity a un repositorio S3 de la Plataforma PLARD con ayuda de la un microservicio de la Capa de Integración, p&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ara procesar el envío, carga y descarga de archivos.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;Reglas de negocio&lt;/b&gt;.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;ul data-start=&quot;303&quot; data-end=&quot;493&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Aplica para Tarjetas de Débito (TDD) y Tarjetas de Credito (TDC).&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Se parametriza la configuración del procesamiento de archivos con los siguientes valores:&amp;nbsp;&lt;/span&gt;[Calendarización]. [Horario], [Nombre Archivo Origen], [Ruta Origen], [Servidor], [Nombre Archivo Destino]&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;, [Ruta Destino]&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Archivos incoming PROSA / ATM:&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Archivos incoming Mastercard:&lt;/b&gt; [Calendarización]. [Horario], Nombre Archivo Origen], [1014], [srvremapvlmx01.mx.corp], [/planplard/procesos/incomming_plard_mc/in/], [Nombre Archivo Destino], [Ruta Destino]&lt;/li&gt;&lt;li&gt;&lt;b&gt;Archivos Migración:&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Archivos Embozado / Nómina:&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Precondiciones:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;El cliente Santander debe tener una Tarjeta de Débito.&lt;/li&gt;&lt;li&gt;La Tarjeta de Débito debe estar&amp;nbsp;vigente y activa.&lt;/li&gt;&lt;li&gt;La Tarjeta de Débito debe estar asignada al Cliente.&lt;/li&gt;&lt;li&gt;La Tarjeta de Débito debe estar vinculada a una cuenta activa.&lt;/li&gt;&lt;/ul&gt;&lt;b style=&quot;background-color: initial; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Post-Condiciones:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Los archivos son almacenados en un repositorio S3 de la Plataforma PLARD.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
@@ -235,25 +241,25 @@
           <mxGeometry height="3180" width="3190" x="800" y="90" as="geometry" />
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-9" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;div&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&amp;lt;&amp;lt;Componente&amp;gt;&amp;gt;&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Sistema Externo Incoming&amp;nbsp;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="2902" width="161" x="1175" y="218" as="geometry" />
+          <mxGeometry height="2902" width="161" x="1040" y="218" as="geometry" />
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-28" parent="77w-11hD56J_MRPGeAOX-9" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="60" width="10" x="75.5" y="190" as="geometry" />
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-11" parent="1" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" value="&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;br&gt;Ingresa la TDD al TPV y realiza la imputación" vertex="1">
-          <mxGeometry height="27" width="124.25" x="1307.88" y="421" as="geometry" />
+          <mxGeometry height="27" width="124.25" x="1172.88" y="421" as="geometry" />
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-12" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;&amp;lt;&amp;lt;Altair 390&amp;gt;&amp;gt;&lt;/div&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Gravity/PAMPA&lt;/b&gt;" vertex="1">
-          <mxGeometry height="2902" width="161" x="1400" y="218" as="geometry" />
+          <mxGeometry height="2902" width="161" x="1265" y="218" as="geometry" />
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-30" parent="77w-11hD56J_MRPGeAOX-12" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="60" width="10" x="75.5" y="231" as="geometry" />
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-14" parent="1" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" value="&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;br&gt;Ingresa la TDD al TPV y realiza la imputación" vertex="1">
-          <mxGeometry height="27" width="124.25" x="1537.88" y="462" as="geometry" />
+          <mxGeometry height="27" width="124.25" x="1402.88" y="462" as="geometry" />
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-15" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;&amp;lt;&amp;lt;Componente&amp;gt;&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Servidor Batch / NAS&lt;/b&gt;" vertex="1">
-          <mxGeometry height="2902" width="161" x="1630" y="218" as="geometry" />
+          <mxGeometry height="2902" width="161" x="1495" y="218" as="geometry" />
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-31" parent="77w-11hD56J_MRPGeAOX-15" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="60" width="10" x="75.5" y="271" as="geometry" />
@@ -271,58 +277,55 @@
           <mxGeometry height="45" width="203.34" x="-131.93999999999983" y="542" as="geometry" />
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-17" parent="1" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" value="&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;br&gt;Ingresa la TDD al TPV y realiza la imputación" vertex="1">
-          <mxGeometry height="27" width="124.25" x="1767.88" y="501" as="geometry" />
+          <mxGeometry height="27" width="124.25" x="1632.88" y="501" as="geometry" />
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-18" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;&amp;lt;&amp;lt;Componente&amp;gt;&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Malla Control M&lt;/b&gt;" vertex="1">
-          <mxGeometry height="2902" width="161" x="1860" y="218" as="geometry" />
+          <mxGeometry height="2902" width="161" x="1725" y="218" as="geometry" />
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-32" parent="77w-11hD56J_MRPGeAOX-18" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="60" width="10" x="75.50000000000011" y="310" as="geometry" />
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-20" parent="1" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" value="&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;br&gt;Ingresa la TDD al TPV y realiza la imputación" vertex="1">
-          <mxGeometry height="27" width="124.25" x="1997.88" y="535" as="geometry" />
+          <mxGeometry height="27" width="124.25" x="1862.88" y="535" as="geometry" />
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-21" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;div&gt;&lt;b&gt;&amp;lt;CaaS Integration Layer&amp;gt;&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Capa de Integración&amp;nbsp;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="2902" width="161" x="2090" y="218" as="geometry" />
+          <mxGeometry height="2902" width="161" x="1955" y="218" as="geometry" />
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-33" parent="77w-11hD56J_MRPGeAOX-21" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="60" width="10" x="75.5" y="344" as="geometry" />
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-23" parent="1" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" value="&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;br&gt;Ingresa la TDD al TPV y realiza la imputación" vertex="1">
-          <mxGeometry height="27" width="124.25" x="2227.88" y="574" as="geometry" />
+          <mxGeometry height="27" width="124.25" x="2092.88" y="574" as="geometry" />
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-24" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;div&gt;&lt;b&gt;&amp;lt;&amp;lt;Plataforma SaaS&amp;gt;&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;PLARD&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;S3&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;sistema ficheros&lt;/span&gt;" vertex="1">
-          <mxGeometry height="2902" width="161" x="2320" y="218" as="geometry" />
+          <mxGeometry height="2902" width="161" x="2185" y="218" as="geometry" />
         </mxCell>
-        <mxCell id="77w-11hD56J_MRPGeAOX-25" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;fontColor=#000000;exitX=0.5;exitY=0.208;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.503;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="2400.09" y="721.616" as="sourcePoint" />
-            <mxPoint x="2174.733" y="722.375" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="chPql24b2Tm9H4BxponP-1" parent="77w-11hD56J_MRPGeAOX-24" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="137" width="10" x="75.5" y="378" as="geometry" />
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-26" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="52" width="10" x="2164.75" y="715" as="geometry" />
+          <mxGeometry height="52" width="10" x="2029.75" y="715" as="geometry" />
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-27" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;Queue&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;MQ Canal&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;Recibe la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;respuesta&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;consulta de la cuenta&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;LMZD&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="45" width="193.75" x="2193.13" y="660" as="geometry" />
+          <mxGeometry height="45" width="193.75" x="2058.13" y="660" as="geometry" />
         </mxCell>
         <mxCell id="1YsvMv8xvyXHZp-hQnk2-2" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="52" width="10" x="1934.75" y="745" as="geometry" />
+          <mxGeometry height="52" width="10" x="1799.75" y="745" as="geometry" />
         </mxCell>
         <mxCell id="1YsvMv8xvyXHZp-hQnk2-3" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;Queue&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;MQ Canal&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;Recibe la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;respuesta&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;consulta de la cuenta&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;LMZD&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="45" width="203.34" x="1957.93" y="690" as="geometry" />
+          <mxGeometry height="45" width="203.34" x="1822.93" y="690" as="geometry" />
         </mxCell>
         <mxCell id="1YsvMv8xvyXHZp-hQnk2-5" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="52" width="10" x="1705.09" y="778" as="geometry" />
+          <mxGeometry height="52" width="10" x="1570.09" y="778" as="geometry" />
         </mxCell>
         <mxCell id="1YsvMv8xvyXHZp-hQnk2-6" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;Queue&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;MQ Canal&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;Recibe la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;respuesta&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;consulta de la cuenta&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;LMZD&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="45" width="203.34" x="1728.27" y="723" as="geometry" />
+          <mxGeometry height="45" width="203.34" x="1593.27" y="723" as="geometry" />
         </mxCell>
         <mxCell id="1YsvMv8xvyXHZp-hQnk2-14" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="52" width="10" x="1251" y="852" as="geometry" />
+          <mxGeometry height="52" width="10" x="1116" y="852" as="geometry" />
         </mxCell>
         <mxCell id="1YsvMv8xvyXHZp-hQnk2-15" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;Queue&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;MQ Canal&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;Recibe la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;respuesta&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;consulta de la cuenta&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;LMZD&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="45" width="203.34" x="1268.3400000000001" y="797" as="geometry" />
+          <mxGeometry height="45" width="203.34" x="1133.3400000000001" y="797" as="geometry" />
         </mxCell>
         <mxCell id="1YsvMv8xvyXHZp-hQnk2-22" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;height=15;" value="alt" vertex="1">
           <mxGeometry height="2659" width="3116" x="874" y="990" as="geometry" />
