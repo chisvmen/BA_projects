@@ -154,7 +154,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SLGQxWEMu3m3VbGhC708" name="Splitters">
-    <mxGraphModel dx="605" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1310" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -320,8 +320,8 @@
         <mxCell id="77w-11hD56J_MRPGeAOX-11" parent="1YsvMv8xvyXHZp-hQnk2-22" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" value="Componente&lt;div&gt;&lt;b&gt;Transmisor de archivos&lt;/b&gt;&lt;br&gt;Envía archivo a procesar&lt;/div&gt;" vertex="1">
           <mxGeometry height="27" width="175.06" x="207" y="77" as="geometry" />
         </mxCell>
-        <mxCell id="77w-11hD56J_MRPGeAOX-14" parent="1YsvMv8xvyXHZp-hQnk2-22" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" value="&lt;div&gt;Componente&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Gravity / PAMPA&lt;/b&gt;&lt;br&gt;Recibe archivo a procesar y almacena en fichero de origen&lt;div&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;[Fichero Gravity&lt;/b&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;]&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="27" width="166.44" x="441.51" y="104" as="geometry" />
+        <mxCell id="77w-11hD56J_MRPGeAOX-14" parent="1YsvMv8xvyXHZp-hQnk2-22" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" value="&lt;div&gt;Componente&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Gravity / PAMPA&lt;/b&gt;&lt;br&gt;Recibe archivo a procesar y almacena en fichero local de origen&lt;div&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;[Fichero Gravity&lt;/b&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;]&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="27" width="198.49" x="425.48" y="104" as="geometry" />
         </mxCell>
         <mxCell id="77w-11hD56J_MRPGeAOX-17" parent="1YsvMv8xvyXHZp-hQnk2-22" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" value="&lt;div&gt;Servidor Batch&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Gestor de transferencia de archivo&lt;/b&gt;&lt;br&gt;Recibe archivo a procesar" vertex="1">
           <mxGeometry height="27" width="212.12" x="645" y="154" as="geometry" />
