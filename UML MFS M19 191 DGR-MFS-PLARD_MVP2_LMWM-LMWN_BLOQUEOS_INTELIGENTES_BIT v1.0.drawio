@@ -892,7 +892,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uNxEpj-rFiBFQsqS82Ju" name="AS IS - DGR-SEC-BLOQUEOS SELECTIVOS">
-    <mxGraphModel dx="983" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3144" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1428,7 +1428,7 @@
           <mxGeometry height="199" width="617" x="84" y="530" as="geometry" />
         </mxCell>
         <mxCell id="-hfAr8guFxQdvAlkYIPQ-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DDP&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Bloquear o desbloquearuna tarjeta para permitiro denegar comprastemporalmente encanales específicos.PUT /cards/{card-key}/selective-locks&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Bloqueos Selectivos:La integración de PLARD al flujo de “Bloqueos selectivos” de la Super Móvil. Esta funcionalidad hoyen día se resuelve mediante el API BaaS de Cards la cual consume transacciones PAMPA.Se busca que el canal pueda continuar atendiendo la funcionalidad de “Bloqueos selectivos”independientemente de si los productos de crédito y débito del cliente son gestionados por PLARD oAPI BaaS Descripción endpoint Medios de pagoCards Obtener resumen de tarjetasdel cliente.GET /v3/cards?expands=PRODUCT,CARD_NUMBER_ENCRYPTEDLMWT - CONSULTA TARJETAS CLIENTESUMMARYN/A Consulta de CVX N/A APK GEMALTO&lt;/p&gt;&lt;p&gt;Proyecto PLARD – Front Medios de Pago Página 8 de 34PAMPA. Lo anterior como parte del proceso de migración del sistema PAMPA a Plard que permitiráreducir el riesgo tecnológico y el TCO asociado con el core bancario de Mainframe 390.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Criterios de aceptación:Super Móvil debe continuar resolviendo a través del API BaaS de Cards la funcionalidad de “Bloqueosselectivos” como lo hace hoy en día. La solución implementada debe ser transparente ser capaz deatender tarjetas de crédito y débito nacidas o migradas a PLARD, así como aquellas existentes enPAMPA.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="510" width="440" x="1960" y="20" as="geometry" />
+          <mxGeometry height="510" width="440" x="1960" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
