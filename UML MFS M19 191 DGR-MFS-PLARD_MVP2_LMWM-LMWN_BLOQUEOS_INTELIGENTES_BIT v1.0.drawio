@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6" pages="2">
   <diagram name="Versiones" id="nsflOGTiMChvYGrzxZ9p">
     <mxGraphModel dx="1965" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,6 +124,545 @@
         </mxCell>
         <mxCell id="WZvjLO2uDvG7n8sTOw-L-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#36393D;fontSize=20;align=left;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;CONTROL DE VERSIONES&lt;/font&gt;" vertex="1">
           <mxGeometry height="41" width="1080" x="270" y="279" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uNxEpj-rFiBFQsqS82Ju" name="AS IS">
+    <mxGraphModel dx="3930" dy="2485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_wseQT55jjj6OUT0LNBo-1" edge="1" parent="1" source="_wseQT55jjj6OUT0LNBo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="877" y="922" as="sourcePoint" />
+            <mxPoint x="874" y="3100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-2" parent="1" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="441" width="10" x="869" y="1701" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-3" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;exitX=0.501;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1354" y="901" as="sourcePoint" />
+            <mxPoint x="1354" y="3100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-4" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="398" y="900" as="sourcePoint" />
+            <mxPoint x="398" y="3100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-5" edge="1" parent="1" source="_wseQT55jjj6OUT0LNBo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;exitX=0.501;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1114" y="898" as="sourcePoint" />
+            <mxPoint x="1114" y="3100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-6" edge="1" parent="1" source="_wseQT55jjj6OUT0LNBo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="195" y="909" as="sourcePoint" />
+            <mxPoint x="195" y="3100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e51400;fontColor=#ffffff;strokeColor=default;align=left;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot; style=&quot;font-size: 11px&quot;&gt;DIAGRAMA DE SECUENCIA&amp;nbsp;&amp;nbsp;&lt;br&gt;DGR-SEC-XX-BLOQUEOS SELECTIVOS&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="1410" x="84" y="739" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-8" parent="1" style="html=1;strokeColor=#82b366;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;fillColor=#d5e8d4;" value="&lt;b&gt;Usuario &lt;br style=&quot;font-size: 11px&quot;&gt;SuperMóvil&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="114" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-9" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="" vertex="1">
+          <mxGeometry height="60" width="30" x="134" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-10" parent="1" style="html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;" value="&lt;b&gt;Front-End&lt;br style=&quot;font-size: 11px&quot;&gt;SuperMóvil&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="318" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-11" parent="1" style="html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;" value="&lt;b&gt;BaaS&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;API Cards&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="794" y="821" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-12" parent="1" style="html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;" value="&lt;b&gt;PAMPA&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;LMWN&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="1033.8600000000001" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-13" parent="1" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="2131" width="10" x="189" y="929" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-14" parent="1" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="20" width="10" x="1108.86" y="1051" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-15" parent="1" style="html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;" value="&lt;b&gt;Back-End&lt;/b&gt;&lt;div&gt;&lt;b&gt;SuperMovil&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Middleware)&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="554" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-16" edge="1" parent="1" source="_wseQT55jjj6OUT0LNBo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="645" y="909" as="sourcePoint" />
+            <mxPoint x="634" y="3100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-17" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.27;entryY=0.037;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="998" />
+              <mxPoint x="275" y="998" />
+            </Array>
+            <mxPoint x="200" y="998" as="sourcePoint" />
+            <mxPoint x="392.70000000000005" y="998.423" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-18" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Usuario SM&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px; text-align: left;&quot;&gt;Cliente ingresa a posición global&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="155" x="214" y="968" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-19" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.27;entryY=0.037;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="276" y="1339" />
+              <mxPoint x="276" y="1339" />
+            </Array>
+            <mxPoint x="201" y="1339" as="sourcePoint" />
+            <mxPoint x="393.70000000000005" y="1339.423" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-20" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Usuario SM&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px; text-align: left;&quot;&gt;Cliente ingresa al detalle de la Tarjeta&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="200" y="1309" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-21" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="478" y="1039" />
+              <mxPoint x="478" y="1039" />
+            </Array>
+            <mxPoint x="403" y="1039" as="sourcePoint" />
+            <mxPoint x="864" y="1039" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-22" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Super Móvil&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Request: Solicita resumen de tarjetas del cliente&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;GET /v3/cards?expands=PRODUCT,CARD_NUMBER_ENCRYPTED&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="190" x="485" y="984" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-23" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="743.6700000000001" y="1099.0929999999998" />
+              <mxPoint x="743.6700000000001" y="1099.0929999999998" />
+            </Array>
+            <mxPoint x="868.53" y="1099.0929999999998" as="sourcePoint" />
+            <mxPoint x="404" y="1099" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-24" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Super Móvil&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Response: Resumen de tarjetas del cliente&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="410" y="1049" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-25" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.012;entryY=0.215;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="439" y="1178" />
+              <mxPoint x="439" y="1220" />
+              <mxPoint x="404" y="1220" />
+            </Array>
+            <mxPoint x="404" y="1178.521739130435" as="sourcePoint" />
+            <mxPoint x="404.1199999999999" y="1219.485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-26" connectable="0" parent="_wseQT55jjj6OUT0LNBo-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Mantiene la información de la lista de tarjetas" vertex="1">
+          <mxGeometry relative="1" x="0.0732" as="geometry">
+            <mxPoint x="35" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-27" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.5;entryY=0.279;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="344" y="1259.4589999999998" />
+              <mxPoint x="344" y="1259.4589999999998" />
+            </Array>
+            <mxPoint x="389" y="1259.4589999999998" as="sourcePoint" />
+            <mxPoint x="204" y="1259" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-28" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Super Móvil&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Muestra al cliente el resumen de tarjetas.&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="31" width="190" x="205" y="1228" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-29" parent="1" style="html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;" value="&lt;b&gt;BIT&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="1273" y="821" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-30" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Super Móvil&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Muestra al cliente opciones disponibles:&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Prender o apagar tarjeta&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Tarjeta digital&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Movimientos&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Realizar transferencia&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Realizar pago&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Realizar retiro sin tarjeta&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Generación de NIP&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;BIlleteras digitales&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;u&gt;&lt;b&gt;Bloqueos selectivos&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Bloqueo y reposición de tarjeta&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Aclaraciones&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Mis finanzas&amp;nbsp;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="31" width="190" x="208" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-31" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.5;entryY=0.279;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="347" y="1540.4589999999998" />
+              <mxPoint x="347" y="1540.4589999999998" />
+            </Array>
+            <mxPoint x="392" y="1540.4589999999998" as="sourcePoint" />
+            <mxPoint x="207" y="1540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-32" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.27;entryY=0.037;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="273" y="1618" />
+              <mxPoint x="273" y="1618" />
+            </Array>
+            <mxPoint x="198" y="1618" as="sourcePoint" />
+            <mxPoint x="390.70000000000005" y="1618.4229999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-33" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Usuario SM&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px; text-align: left;&quot;&gt;Da tap en &quot;Bloqueos selectivos&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="198" y="1590" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-34" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.5;entryY=0.279;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="338" y="2260.459" />
+              <mxPoint x="338" y="2260.459" />
+            </Array>
+            <mxPoint x="393" y="2260" as="sourcePoint" />
+            <mxPoint x="198" y="2260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-35" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Super Móvil&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Muestra Switch para cada bloqueo selectivos de la tarjeta:&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Compras en el extrangero&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Compras con terminales&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Retiro de efectivo ATM&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Compras por internet o teléfono&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Botón Confirmar&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="179" x="211" y="2200" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-36" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.27;entryY=0.037;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="274" y="2338" />
+              <mxPoint x="274" y="2338" />
+            </Array>
+            <mxPoint x="199" y="2338" as="sourcePoint" />
+            <mxPoint x="391.70000000000005" y="2338.423" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-37" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Usuario SM&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Habilita o deshabilita uno o mas bloqueos selectivos y da tap en botón &quot;Confirmar&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="202" y="2306" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-38" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.5;entryY=0.279;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="338" y="3060.459" />
+              <mxPoint x="338" y="3060.459" />
+            </Array>
+            <mxPoint x="393" y="3060" as="sourcePoint" />
+            <mxPoint x="198" y="3060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-39" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Super Móvil&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;div&gt;Muestra mensaje de &quot;Actualización exitosa&quot; y listado de b&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;loqueos selectivos de la tarjeta activos e inactivos:&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Compras en el extrangero&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Compras con terminales&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Retiro de efectivo ATM&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Compras por internet o teléfono&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="200" x="194" y="3000" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-40" parent="1" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;labelBackgroundColor=default;textShadow=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ON: Tarjeta activada&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Off Tarjeta desactivada&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="66" width="130" x="409" y="2196" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-41" parent="1" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="62" width="10" x="869" y="1038" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-42" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="956" y="1060" />
+              <mxPoint x="956" y="1060" />
+            </Array>
+            <mxPoint x="881" y="1060" as="sourcePoint" />
+            <mxPoint x="1104" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-43" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;API BaaS&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;LMWT - Card/CardInqByParty&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="155" x="895" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-44" parent="1" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="2131" width="10" x="393" y="929" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-45" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;API BaaS&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;GET&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;/cards/{card-key}/locks&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Entrada:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Headers&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Authorization = Token de autorización para acceder a los servicios de la API.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Accept = Parámetro de encabezado donde el consumidor define el formato de datos de la solicitud.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Content-Type = Parámetro de encabezado que indica el formato de datos del servidor en la respuesta.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;x-ibm-client-id&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;= Identificador de la aplicación del consumidor (solo IBM).&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;x-global-transaction-id = Encabezado de ID de transacción global&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;x-santander-client-id = Encabezado de ID de cliente&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;X-Device-Fongerprint = Información de la huella digital registrada en el dispositivo.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;X-Geolocation = Geolocalización&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;X-B3-TraceId = Información de identificador único de traza a través del sistema.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;X-B3-SpanId = Información de identificador único de posición actual en árbol de rastreo.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Path:&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;card-key =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;Identificador único de tarjeta. Compuesto&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;de PAN, PRODUCT y SUBPROD&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Complementos de entrada&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;que deberán ser informados en los servicios AaaS o DDFs para poder ser ejecutados:&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;ProductType =&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;Tipo de producto. CARDS&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Salida:&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;div&gt;data.international = Estatus de bloqueo para compras generadas con registro fuera del territorio mexicano. Puede ser true o false.&lt;/div&gt;&lt;div&gt;data.pos = Estatus de bloqueo para las compras realizadas por medio de la terminal. Puede ser true o false.&lt;/div&gt;&lt;div&gt;data.internet = Estatus de bloqueo para las compras en línea o vía telefónica. Puede ser true o false.&lt;/div&gt;&lt;div&gt;data.atm = Estatus de bloqueo para los retiros de efectivo en cualquier cajero automático. Puede ser true o false.&lt;/div&gt;&lt;div&gt;notifications[].level = Error o notificación en la operación se mapeará la salida Transacción status.additionalStatus.severity&lt;/div&gt;&lt;div&gt;notifications[].code = Error o notificación en la operación se mapeará la salida Transacción status.additionalStatus.statusCode&lt;/div&gt;&lt;div&gt;notifications[].message = Error o notificación en la operación se mapeará Transacción status.additionalStatus.statusDesc&lt;/div&gt;&lt;div&gt;notifications[].timestamp = Timestamp de la operación, el microservicio será el encargado de proveer este timestamp.&lt;/div&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="400" width="580" x="84" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-46" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;API BaaS&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;GET /v3/cards?expands=PRODUCT,CARD_NUMBER_ENCRYPTED&lt;/div&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Entrada:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Headers&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Authorization = Token de autorización para acceder a los servicios de la API.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Accept = Parámetro de encabezado donde el consumidor define el formato de datos de la solicitud.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Content-Type = Parámetro de encabezado que indica el formato de datos del servidor en la respuesta.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;x-ibm-client-id&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;= Identificador de la aplicación del consumidor (solo IBM).&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;x-global-transaction-id = Encabezado de ID de transacción global&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;x-santander-client-id = Encabezado de ID de cliente&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;X-Device-Fongerprint = Información de la huella digital registrada en el dispositivo.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;X-Geolocation = Geolocalización&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;X-B3-TraceId = Información de identificador único de traza a través del sistema.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;X-B3-SpanId = Información de identificador único de posición actual en árbol de rastreo.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;public_key = Llave pública para los datos encriptados.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Complementos de entrada&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;que deberán ser informados en los servicios AaaS o DDFs para poder ser ejecutados:&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;CardSel/PartyKeys/PartyId = [&lt;/span&gt;&lt;b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;IDENTCTL-&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;LMWT&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Número de cliente&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Salida:&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;div style=&quot;&quot;&gt;data[].key = [&lt;b&gt;PAN|PRODUCT|SUBPROD-LMWT&lt;/b&gt;]&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Identificador único de Tarjeta.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].display_number = [&lt;b&gt;PAN-LMWT&lt;/b&gt;]&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;Número de tarjeta. Ejemplo: (*1234).&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].description = [&lt;b&gt;DESPROD-LMWT&lt;/b&gt;]&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;Descripción producto.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].expiration_date = [&lt;b&gt;FECCADU-LMWT&lt;/b&gt;] Fecha de vencimiento en formato MM/YY.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].relation_type = [&lt;b&gt;CALPART-LMWT&lt;/b&gt;] Calidad de participación.Los valores son: PRIMARY y ADDITIONAL&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].status = [&lt;b&gt;INDSITT-LMWT&lt;/b&gt;] Estatus de tarjeta.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].holder_name = [&lt;b&gt;NOMBENR-LMWT&lt;/b&gt;] Nombre en estampación.&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].image_code = [&lt;b&gt;PRODUCT|SUBPROD|CODMAR|CONDEST-LMWT&lt;/b&gt;] Código de imagen.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].embossing_code = [&lt;b&gt;CONDEST-LMWT&lt;/b&gt;] Condición de estampación&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].issue_code = [&lt;b&gt;INDSITT-LMWT&lt;/b&gt;] Indicador de situación de tarjeta&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].type_code = [&lt;b&gt;INDTIPT-LMWT&lt;/b&gt;] Indicador de tipo de tarjeta&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].contract_id = [&lt;b&gt;CUENTA-LMWT&lt;/b&gt;] Contrato asociado&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].branch_id = [&lt;b&gt;CENTRO-LMWT&lt;/b&gt;] Código de sucursal&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].type = [&lt;b&gt;TECNOLO-LMWT&lt;/b&gt;] Indica el tipo de tarjetas a devolver.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].url = Path para el siguiente llamado dentro del flujo autodescriptivo de la API.&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].related_cards[].key = [&lt;b&gt;PAN|PRODUCT|SUBPROD-LMWT&lt;/b&gt;] Identificador único de Tarjeta relacionada.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].related_cards[].relation_type = [&lt;b&gt;CALPART-LMWT&lt;/b&gt;] Calidad de participación (PRIMARY y ADDITIONAL)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].related_cards[].type = [&lt;b&gt;TECNOLO-LMWT&lt;/b&gt;] Indica el tipo de tarjeta relacionada.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].related_cards[].status= [&lt;b&gt;INDSITT-LMWT&lt;/b&gt;] Estatus de tarjeta relacionada.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].related_cards[].image_code = [&lt;b&gt;PRODUCT|SUBPROD|CODMAR|CONDEST-LMWT&lt;/b&gt;] Refiere al código de imagen de tarjeta&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].related_cards[].url = Path para el siguiente llamado dentro del flujo autodescriptivo de la API.&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].available_products[].key = Identificador único del producto de crédito. *NO IMPLEMENTADO&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].available_products[].name = El tipo del nuevo producto disponible&amp;nbsp; *NO IMPLEMENTADO&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].available_products[].image_code = Refiere al código de imagen PRODUCT|SUBPROD|CODMAR|CONDEST *NO IMPLEMENTADO&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].entitlements.key = Código de permiso sobre el producto.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].entitlements.value = Descripción del permiso sobre el producto.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;notifications[].level = En caso de un error o notificación en la operación, indicará la severidad.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;notifications[].code = En caso de un error o notificación en la operación, indicará el código relacionado.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;notifications[].message = En caso de un error o notificación en la operación, indicará la descripción relacionada.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;notifications[].timestamp = Fecha en que se ejecutó la operación en microservicio.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;paging.next_cursor_key = Cursor para la siguiente llamada del conjunto de registros recuperados.&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;Salida expands=PRODUCT&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;data[].product.code&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;= [&lt;b&gt;PRODUCT-LMWT&lt;/b&gt;] Código de producto.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].product.name = [&lt;b&gt;DESPROD-LMWT&lt;/b&gt;] Descripción de producto.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].product.subproduct_code = [&lt;b&gt;SUBPROD-LMWT&lt;/b&gt;] Código de subproducto.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].product.subproduct_name = [&lt;b&gt;CODMAR-LMWT&lt;/b&gt;] Marca de la tarjeta.&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;Salida expands=CARD_NUMBER_ENCRYPTED&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data[].card_number_encrypted = [&lt;b&gt;PAN-LMWT&lt;/b&gt;] Número de tarjeta encriptado.&lt;/div&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="690" width="572" x="714" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-47" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=150;height=30;" value="alt" vertex="1">
+          <mxGeometry height="559" width="1370" x="30" y="2381" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-48" parent="_wseQT55jjj6OUT0LNBo-47" style="text;html=1;" value="cliActivaBloqTddDigital&lt;div&gt;(temporal_lock==false)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="20" relative="1" width="100" as="geometry">
+            <mxPoint x="20" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-49" parent="_wseQT55jjj6OUT0LNBo-47" style="line;strokeWidth=1;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;html=1;whiteSpace=wrap;" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(236, 236, 236);&quot;&gt;clienteDesactivaBloqueo&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(236, 236, 236);&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;(temporal_lock==true)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="10" width="1370" y="274" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-50" parent="_wseQT55jjj6OUT0LNBo-47" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Super Móvil&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Response: &quot;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Habilitar bloqueo inteligente&quot;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="28" width="240" x="373" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-51" parent="_wseQT55jjj6OUT0LNBo-47" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;labelBackgroundColor=default;textShadow=1;" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Si la tarjeta es PAN ÚNICO, se deberá BLOQUEAR tanto la tarjeta física como la tarjeta digital.&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;LMWN [ENROLAMIENTO BIT]&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="105" width="207" x="1053" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-52" parent="_wseQT55jjj6OUT0LNBo-47" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;labelBackgroundColor=default;textShadow=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 9px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Si la tarjeta es PAN ÚNICO, se deberá DESBLOQUEAR tanto la tarjeta física como la tarjeta digital.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;LMWN [ENROLAMIENTO BIT]&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="103" width="226" x="1073" y="287" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-53" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="478" y="2458" />
+              <mxPoint x="478" y="2458" />
+            </Array>
+            <mxPoint x="403" y="2458" as="sourcePoint" />
+            <mxPoint x="864" y="2458" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-54" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="743.6700000000001" y="2579.093" />
+              <mxPoint x="743.6700000000001" y="2579.093" />
+            </Array>
+            <mxPoint x="863" y="2579" as="sourcePoint" />
+            <mxPoint x="404" y="2579" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-55" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Super Móvil&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Request: &quot;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Habilitar bloqueo inteligente&quot;&lt;/span&gt;&lt;font color=&quot;rgba(0, 0, 0, 0)&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&quot;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 11px; background-color: transparent;&quot;&gt;PUT&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 11px;&quot;&gt;/cards/v2/cards/{card-key}/temporal-locks&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="24" width="240" x="396" y="2426" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-56" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;API CARDS&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;BIT - /bit/{product_type}/{PAN}/locks&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="24" width="240" x="874" y="2474" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-57" parent="1" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="122" width="10" x="868" y="2459" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-58" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Super Móvil&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Response: &quot;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Habilitar bloqueo inteligente&quot;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="28" width="240" x="400" y="2831" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-59" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="475" y="2738" />
+              <mxPoint x="475" y="2738" />
+            </Array>
+            <mxPoint x="400" y="2738" as="sourcePoint" />
+            <mxPoint x="861" y="2738" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-60" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740.6700000000001" y="2859.093" />
+              <mxPoint x="740.6700000000001" y="2859.093" />
+            </Array>
+            <mxPoint x="860" y="2859" as="sourcePoint" />
+            <mxPoint x="401" y="2859" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-61" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Super Móvil&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Request: &quot;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Habilitar bloqueo inteligente&quot;&lt;/span&gt;&lt;font color=&quot;rgba(0, 0, 0, 0)&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&quot;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 11px; background-color: transparent;&quot;&gt;PUT&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent;&quot;&gt;/cards/{card-key}/selective-locks&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0)&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="24" width="240" x="401" y="2706" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-62" parent="1" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="1109" y="2815" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-63" parent="1" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="122" width="10" x="869" y="2739" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-64" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;API CARDS&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;LMWN - CardDeviceManagement/CardEnrollBlockAdd&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="24" width="240" x="861" y="2794" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-65" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="953" y="2500" />
+              <mxPoint x="953" y="2500" />
+            </Array>
+            <mxPoint x="878" y="2500" as="sourcePoint" />
+            <mxPoint x="1344" y="2500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-66" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="952" y="2539" />
+              <mxPoint x="952" y="2539" />
+            </Array>
+            <mxPoint x="877" y="2539" as="sourcePoint" />
+            <mxPoint x="1104" y="2540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-67" parent="1" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="1109" y="2534" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-68" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;API CARDS&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;LMWN - CardDeviceManagement/CardEnrollBlockAdd&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="24" width="240" x="869" y="2512" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-69" parent="1" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="22" width="10" x="1348" y="2491" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-70" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;API CARDS&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;BIT - /bit/{product_type}/{PAN}/locks/deactivate&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="24" width="240" x="874" y="2751" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-71" parent="1" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="22" width="10" x="1348" y="2768" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-72" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.5;entryY=0.279;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="337" y="2619.459" />
+              <mxPoint x="337" y="2619.459" />
+            </Array>
+            <mxPoint x="392" y="2619" as="sourcePoint" />
+            <mxPoint x="197" y="2619" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-73" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Super Móvil&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Deshabilita el Switch bloqueando la tarjeta&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="193" x="200" y="2592" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-74" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.5;entryY=0.279;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="334" y="2901.459" />
+              <mxPoint x="334" y="2901.459" />
+            </Array>
+            <mxPoint x="389" y="2901" as="sourcePoint" />
+            <mxPoint x="194" y="2901" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-75" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Super Móvil&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Habilita el Switch desbloqueando la tarjeta&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="194" x="197" y="2877" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-76" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="951" y="2820" />
+              <mxPoint x="951" y="2820" />
+            </Array>
+            <mxPoint x="876" y="2820" as="sourcePoint" />
+            <mxPoint x="1103" y="2821" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-77" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="949" y="2780" />
+              <mxPoint x="949" y="2780" />
+            </Array>
+            <mxPoint x="874" y="2780" as="sourcePoint" />
+            <mxPoint x="1340" y="2780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-78" parent="1" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;labelBackgroundColor=default;textShadow=1;" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;Realiza alta en la tabla de tarjetas&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;enroladas a Bloqueo Inteligente de&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;Tarjetas (BIT)&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: x-small; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;LMWN&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="170" x="1124" y="2552" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-79" parent="1" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;labelBackgroundColor=default;textShadow=1;" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;Realiza alta en la tabla de tarjetas&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;enroladas a Bloqueo Inteligente de&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;Tarjetas (BIT) LMWN&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="170" x="1144" y="2820" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-80" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="479" y="1698" />
+              <mxPoint x="479" y="1698" />
+            </Array>
+            <mxPoint x="404" y="1698" as="sourcePoint" />
+            <mxPoint x="865" y="1698" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-81" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Super Móvil&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Request: &quot;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Obtener bloqueos inteligentes de tarjeta&quot;&lt;/span&gt;&lt;font color=&quot;rgba(0, 0, 0, 0)&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&quot;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 11px; background-color: transparent;&quot;&gt;GET&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent;&quot;&gt;/cards/{card-key}/locks&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0)&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="24" width="240" x="405" y="1666" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-82" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Super Móvil&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Response: &quot;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Obtener bloqueos inteligentes de tarjeta&quot;&lt;/span&gt;&lt;font color=&quot;rgba(0, 0, 0, 0)&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&quot;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="24" width="250" x="400" y="2108" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-83" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="956" y="1819" />
+              <mxPoint x="956" y="1819" />
+            </Array>
+            <mxPoint x="881" y="1819" as="sourcePoint" />
+            <mxPoint x="1344" y="1819" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-84" parent="1" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="20" width="10" x="1348" y="1809" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-85" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;API BaaS&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;BIT - /bit/{product_type}/{PAN}/locks&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="24" width="193" x="891" y="1791" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-86" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.012;entryY=0.215;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="914" y="1698" />
+              <mxPoint x="914" y="1740" />
+              <mxPoint x="879" y="1740" />
+            </Array>
+            <mxPoint x="879" y="1698.521739130435" as="sourcePoint" />
+            <mxPoint x="879.1199999999999" y="1739.4849999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-87" connectable="0" parent="_wseQT55jjj6OUT0LNBo-86" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 12px; text-align: left; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;validaCardKey&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1022" y="-1" as="geometry">
+            <mxPoint y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-88" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=150;height=30;" value="alt" vertex="1">
+          <mxGeometry height="301" width="890" x="664" y="1759" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-89" parent="_wseQT55jjj6OUT0LNBo-88" style="text;html=1;" value="&lt;span style=&quot;text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;cardKey==valido&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" relative="1" width="110" as="geometry">
+            <mxPoint x="20" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-90" parent="_wseQT55jjj6OUT0LNBo-88" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;labelBackgroundColor=default;textShadow=1;" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Locks:&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;Compras en el extrangero&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Compras con terminales&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Retiro de efectivo ATM&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Compras por internet o teléfono&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Si la tarjeta es nueva el servicio retorna 403&lt;/div&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="147" x="703" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-91" parent="_wseQT55jjj6OUT0LNBo-88" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=150;height=30;" value="alt" vertex="1">
+          <mxGeometry height="80" width="680" x="50" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-92" parent="_wseQT55jjj6OUT0LNBo-91" style="text;html=1;" value="&lt;span style=&quot;text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;consultaBloqueosResponse==403&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" relative="1" width="110" as="geometry">
+            <mxPoint x="2" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-93" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.012;entryY=0.215;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="914" y="1859" />
+              <mxPoint x="914" y="1901" />
+              <mxPoint x="879" y="1901" />
+            </Array>
+            <mxPoint x="879" y="1859.521739130435" as="sourcePoint" />
+            <mxPoint x="879.1199999999999" y="1900.4849999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-94" connectable="0" parent="_wseQT55jjj6OUT0LNBo-93" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 12px; text-align: left; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;existenBloqueosActivos()&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1022" y="-1" as="geometry">
+            <mxPoint y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-95" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="955" y="1977" />
+              <mxPoint x="955" y="1977" />
+            </Array>
+            <mxPoint x="880" y="1977" as="sourcePoint" />
+            <mxPoint x="1343" y="1977" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-96" parent="1" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="20" width="10" x="1347" y="1967" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-97" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Alta tarjeta en Bit&amp;nbsp;&lt;/div&gt;&lt;div&gt;bit/cards/&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="24" width="193" x="890" y="1949" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-98" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="741.6700000000001" y="2140.093" />
+              <mxPoint x="741.6700000000001" y="2140.093" />
+            </Array>
+            <mxPoint x="861" y="2140" as="sourcePoint" />
+            <mxPoint x="402" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-99" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div style=&quot;font-size: 11px; font-weight: bold;&quot;&gt;API BaaS&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; font-weight: bold; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PUT&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 11px;&quot;&gt;&lt;b&gt;/cards/v2/cards/{card-key}/temporal-locks&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Entrada:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Headers&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Authorization = Token de autorización para acceder a los servicios de la API.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Accept = Parámetro de encabezado donde el consumidor define el formato de datos de la solicitud.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Content-Type = Parámetro de encabezado que indica el formato de datos del servidor en la respuesta.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;x-ibm-client-id&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;= Identificador de la aplicación del consumidor (solo IBM).&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;x-global-transaction-id = Encabezado de ID de transacción global&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;x-santander-client-id = Encabezado de ID de cliente&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;X-Device-Fongerprint = Información de la huella digital registrada en el dispositivo.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;X-Geolocation = Geolocalización&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;X-B3-TraceId = Información de identificador único de traza a través del sistema.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;X-B3-SpanId = Información de identificador único de posición actual en árbol de rastreo.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Path:&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;card-key =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;Identificador único de tarjeta. Compuesto&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;de PAN, PRODUCT y SUBPROD&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;/bit/{product_type}/{PAN}/locks =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;Habilitar bloqueo inteligente&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;/bit/{product_type}/{PAN}/locks/deactivate =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Deshabilitar bloqueo inteligente&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;CardEnrollInfo/CardNum [PAN-&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;LMWN&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;] =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;BLOQUEO TEMPORAL DE TARJETAS&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Body&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;body =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;Indicador booleano de estado actual de bloqueo inteligente. true/false.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;&lt;div&gt;body.international =&amp;nbsp;Indicador booleano de estado actual de bloqueo inteligente. true/false.&lt;/div&gt;&lt;div&gt;body.pos =&amp;nbsp;Indicador booleano de estado actual de bloqueo inteligente. true/false.&lt;/div&gt;&lt;div&gt;body.internet =&amp;nbsp;Indicador booleano de estado actual de bloqueo inteligente. true/false.&lt;/div&gt;&lt;div&gt;body.atm =&amp;nbsp;Indicador booleano de estado actual de bloqueo inteligente. true/false.&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Complementos de entrada&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;que deberán ser informados en los servicios AaaS o DDFs para poder ser ejecutados:&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;ProductType =&amp;nbsp;Tipo de producto. CARDS&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;ProductType =&amp;nbsp;Tipo de producto. CARDS&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;MsgRqHdr/ChannelId = [&lt;b&gt;CANOPER-LMWN&lt;/b&gt;] =&amp;nbsp;Canal Operativo&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;&lt;b&gt;Salida para activar o desactivar bloqueo inteligente&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;:&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;data.display_card_number = Número de la tarjeta ofuscada. Ejemplo *1234&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data.locks.international = Estatus después del bloqueo/desbloqueo inteligente &quot;international-international&quot;.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data.locks.pos = Estatus después del bloqueo/desbloqueo inteligente &quot;pos-pos&quot;.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data.locks.internet = Estatus después del bloqueo/desbloqueo inteligente &quot;internet-internet&quot;.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;data.locks = Estatus después del bloqueo/desbloqueo inteligente &quot;atm-atm&quot;.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;notifications[].level = En caso de un error o notificación en la operación, indicará la severidad.&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;notifications[].code = En caso de un error o notificación en la operación, indicará el código relacionado.&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;notifications[].message = En caso de un error o notificación en la operación, indicará la descripción relacionada.&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;notifications[].timestamp = Fecha en que se ejecutó la operación en microservicio.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="540" width="580" x="1314" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_wseQT55jjj6OUT0LNBo-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;As Is&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Proceso:&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1.- Cliente accede a la SM (Posición Global)&lt;/div&gt;&lt;div&gt;2.-&amp;nbsp; SM obtiene el resumen de tarjetas del cliente.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;GET /v3/cards?expands=PRODUCT,CARD_NUMBER_ENCRYPTED&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3.- Cliente ingresa al detalle de la tarjeta&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4.- Cliente da tap en la opción Bloqueos selectivos&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;5.- SM o&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;btiene lista de bloqueos de tarjeta.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;GET&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;/cards/{card-key}/locks&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;6.- Cliente habilita o deshabilita bloqueos selectivos&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;7.- SM b&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;loquea o desbloquea una tarjeta para permitir o denegar compras temporalmente en canales específicos.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;PUT&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;/cards/{card-key}/selective-locks&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="199" width="617" x="84" y="530" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
