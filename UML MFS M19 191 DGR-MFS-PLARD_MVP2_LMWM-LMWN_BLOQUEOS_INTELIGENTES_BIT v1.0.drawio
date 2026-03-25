@@ -318,7 +318,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kuDh-uSmHMAf1DH8ulAp-32" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;&amp;lt;&amp;lt;Altair 390&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;PAMPA/GRAVITY&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="2943" width="160" x="2757" y="1388" as="geometry" />
+          <mxGeometry height="2943" width="160" x="2750" y="1389" as="geometry" />
         </mxCell>
         <mxCell id="kuDh-uSmHMAf1DH8ulAp-33" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&amp;lt;Queue&amp;gt;&amp;gt;&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;MQ 390&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="2923" width="160" x="2521" y="1388" as="geometry" />
@@ -570,6 +570,27 @@
           <mxGeometry height="23" width="90" x="1768" y="2379.5" as="geometry">
             <mxPoint x="3" y="13" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yaqr4dKOBLcVgBa3znTF-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;div&gt;&lt;b&gt;&amp;lt;CaaS Integration Layer&amp;gt;&amp;gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;devices-data-support&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="2924" width="160" x="2975" y="1389" as="geometry" />
+        </mxCell>
+        <mxCell id="yaqr4dKOBLcVgBa3znTF-4" edge="1" parent="yaqr4dKOBLcVgBa3znTF-3" style="endArrow=classic;html=1;rounded=0;exitX=0.494;exitY=0.213;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="77.00400000000036" y="865.029" as="sourcePoint" />
+            <mxPoint x="541.5" y="865.029" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yaqr4dKOBLcVgBa3znTF-5" parent="yaqr4dKOBLcVgBa3znTF-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="817" width="10" x="75" y="793" as="geometry" />
+        </mxCell>
+        <mxCell id="yaqr4dKOBLcVgBa3znTF-6" parent="yaqr4dKOBLcVgBa3znTF-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="114" width="10" x="541.43" y="858" as="geometry" />
+        </mxCell>
+        <mxCell id="yaqr4dKOBLcVgBa3znTF-8" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;&amp;lt;&amp;lt;Altair 390&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;PAMPA/GRAVITY&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="2943" width="160" x="3205" y="1389" as="geometry" />
+        </mxCell>
+        <mxCell id="yaqr4dKOBLcVgBa3znTF-9" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;&amp;lt;&amp;lt;Altair 390&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;PAMPA/GRAVITY&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="2943" width="160" x="3432" y="1387" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
