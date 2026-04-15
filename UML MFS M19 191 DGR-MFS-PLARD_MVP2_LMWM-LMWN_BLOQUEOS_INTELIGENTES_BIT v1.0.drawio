@@ -1126,7 +1126,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de LMWN - Enrolamiento BIT" id="TvT79M4eA89Su6eGMzqf">
-    <mxGraphModel dx="1548" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1935" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="TIq1aSwOBNqD19ERni8P-0" />
         <mxCell id="TIq1aSwOBNqD19ERni8P-1" parent="TIq1aSwOBNqD19ERni8P-0" />
@@ -1174,14 +1174,14 @@
         </mxCell>
         <mxCell id="B31rLZlRTtCu9LYplwge-0" edge="1" parent="TIq1aSwOBNqD19ERni8P-1" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;fontColor=#000000;entryX=0.499;entryY=0.572;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.495;exitY=0.572;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="484.3560000000002" y="1747.29" as="sourcePoint" />
-            <mxPoint x="252" y="1747.29" as="targetPoint" />
+            <mxPoint x="484.3560000000002" y="1764.29" as="sourcePoint" />
+            <mxPoint x="252" y="1764.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B31rLZlRTtCu9LYplwge-1" edge="1" parent="TIq1aSwOBNqD19ERni8P-1" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;fontColor=#000000;entryX=0.499;entryY=0.572;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.495;exitY=0.572;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="484.3560000000002" y="1603" as="sourcePoint" />
-            <mxPoint x="252" y="1603" as="targetPoint" />
+            <mxPoint x="484.3560000000002" y="1620" as="sourcePoint" />
+            <mxPoint x="252" y="1620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B31rLZlRTtCu9LYplwge-2" edge="1" parent="TIq1aSwOBNqD19ERni8P-1" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;fontColor=#000000;strokeColor=#000000;exitX=0.509;exitY=0.714;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.491;entryY=0.226;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
@@ -1432,7 +1432,7 @@
           <mxGeometry height="27" width="178.62" x="280.19000000000005" y="1491" as="geometry" />
         </mxCell>
         <mxCell id="B31rLZlRTtCu9LYplwge-61" parent="TIq1aSwOBNqD19ERni8P-1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="86" width="10" x="480" y="1525" as="geometry" />
+          <mxGeometry height="105" width="10" x="480" y="1525" as="geometry" />
         </mxCell>
         <mxCell id="B31rLZlRTtCu9LYplwge-62" parent="TIq1aSwOBNqD19ERni8P-1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Queue&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;b&gt;MQ Canal&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Recibe&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;solicitud para realizar&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;consulta de cuenta&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="43" width="174" x="756.5" y="1819" as="geometry" />
@@ -1596,40 +1596,40 @@
           <mxGeometry height="2924" width="160" x="2981" y="1388" as="geometry" />
         </mxCell>
         <mxCell id="B31rLZlRTtCu9LYplwge-107" parent="TIq1aSwOBNqD19ERni8P-1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;&quot;&gt;Canal&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Supermovil / Santander Web&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Muestra tarjetas de debito relacionadas a la cuenta del cliente&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="64" width="200.75" x="269.13" y="1536" as="geometry" />
+          <mxGeometry height="64" width="200.75" x="269.13" y="1553" as="geometry" />
         </mxCell>
         <mxCell id="B31rLZlRTtCu9LYplwge-108" edge="1" parent="TIq1aSwOBNqD19ERni8P-1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="249.51" y="1671" as="sourcePoint" />
-            <mxPoint x="479.51" y="1671" as="targetPoint" />
+            <mxPoint x="249.51" y="1688" as="sourcePoint" />
+            <mxPoint x="479.51" y="1688" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B31rLZlRTtCu9LYplwge-109" parent="TIq1aSwOBNqD19ERni8P-1" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" value="&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;br&gt;Selecciona opciones de Bloqueo" vertex="1">
-          <mxGeometry height="27" width="124.25" x="302.38" y="1635" as="geometry" />
+          <mxGeometry height="27" width="124.25" x="304.38" y="1652" as="geometry" />
         </mxCell>
         <mxCell id="B31rLZlRTtCu9LYplwge-110" parent="TIq1aSwOBNqD19ERni8P-1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="97" width="10" x="479.5" y="1662" as="geometry" />
+          <mxGeometry height="97" width="10" x="479.5" y="1679" as="geometry" />
         </mxCell>
         <mxCell id="B31rLZlRTtCu9LYplwge-111" parent="TIq1aSwOBNqD19ERni8P-1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;&quot;&gt;Canal&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Supermovil / Santander Web&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Muestra opciones de Bloqueo de la tarjeta de débito&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="64" width="200.75" x="269.13" y="1680.29" as="geometry" />
+          <mxGeometry height="64" width="200.75" x="269.13" y="1697.29" as="geometry" />
         </mxCell>
         <mxCell id="B31rLZlRTtCu9LYplwge-112" edge="1" parent="TIq1aSwOBNqD19ERni8P-1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="252" y="1816.09" as="sourcePoint" />
-            <mxPoint x="482" y="1816.09" as="targetPoint" />
+            <mxPoint x="252" y="1880.98" as="sourcePoint" />
+            <mxPoint x="482" y="1880.98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B31rLZlRTtCu9LYplwge-113" parent="TIq1aSwOBNqD19ERni8P-1" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" value="&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;br&gt;Selecciona Bloqueo Inteligente" vertex="1">
-          <mxGeometry height="27" width="124.25" x="304.87" y="1780.09" as="geometry" />
+          <mxGeometry height="27" width="124.25" x="304.87" y="1844.98" as="geometry" />
         </mxCell>
         <mxCell id="B31rLZlRTtCu9LYplwge-114" edge="1" parent="TIq1aSwOBNqD19ERni8P-1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="252" y="1875" as="sourcePoint" />
-            <mxPoint x="482" y="1875" as="targetPoint" />
+            <mxPoint x="252" y="1939.89" as="sourcePoint" />
+            <mxPoint x="482" y="1939.89" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B31rLZlRTtCu9LYplwge-115" parent="TIq1aSwOBNqD19ERni8P-1" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" value="&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;br&gt;Solicita consulta de información de bloqueo" vertex="1">
-          <mxGeometry height="27" width="141.13" x="304.87" y="1839" as="geometry" />
+          <mxGeometry height="27" width="141.13" x="304.87" y="1903.89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
