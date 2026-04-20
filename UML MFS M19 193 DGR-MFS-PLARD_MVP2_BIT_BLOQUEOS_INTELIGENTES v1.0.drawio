@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" pages="7">
   <diagram id="Qc8W6-mU_YH3rFQJ1NVV" name="BIT - Consulta de bloqueos">
-    <mxGraphModel dx="1191" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1032" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,7 +215,7 @@
             <mxPoint x="1896.4" y="3900.6040000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kuDh-uSmHMAf1DH8ulAp-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.498;entryY=0.763;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.501;exitY=0.602;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+        <mxCell id="kuDh-uSmHMAf1DH8ulAp-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.494;entryY=0.581;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.501;exitY=0.602;exitDx=0;exitDy=0;exitPerimeter=0;" target="7caOuonk2ZlgiUJtb8wu-5" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="2615.661" y="3625.6040000000003" as="sourcePoint" />
             <mxPoint x="2851.6800000000003" y="3626.4860000000003" as="targetPoint" />
@@ -389,7 +389,7 @@
           <mxGeometry height="49" width="246" x="2261" y="3754" as="geometry" />
         </mxCell>
         <mxCell id="kuDh-uSmHMAf1DH8ulAp-76" parent="1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;" value="Response 200" vertex="1">
-          <mxGeometry height="24" width="79" x="2770" y="3651.5" as="geometry" />
+          <mxGeometry height="24" width="79" x="2772.5" y="3660" as="geometry" />
         </mxCell>
         <mxCell id="kuDh-uSmHMAf1DH8ulAp-77" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" value="&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Componente&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Launcher PLARD&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Recibe&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;el response&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;del&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;bloqueo inteligente&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la tarjeta de débito&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[BIT]&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="45" width="180" x="2426.93" y="4839" as="geometry" />
@@ -616,10 +616,10 @@
         <mxCell id="twCmNwDb_pnUzj98sQzw-2" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="50" width="10" x="1887" y="3890.5" as="geometry" />
         </mxCell>
-        <mxCell id="twCmNwDb_pnUzj98sQzw-3" edge="1" parent="1" source="7caOuonk2ZlgiUJtb8wu-5" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;fontColor=#000000;strokeColor=#000000;exitX=0.501;exitY=0.598;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.512;entryY=0.494;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+        <mxCell id="twCmNwDb_pnUzj98sQzw-3" edge="1" parent="1" source="7caOuonk2ZlgiUJtb8wu-5" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;fontColor=#000000;strokeColor=#000000;exitX=0.509;exitY=0.598;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.512;entryY=0.494;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="3088.4880000000003" y="3690" as="sourcePoint" />
-            <mxPoint x="2612" y="3690.5060000000003" as="targetPoint" />
+            <mxPoint x="2864.16" y="3690.1539999999995" as="sourcePoint" />
+            <mxPoint x="2619" y="3690.5060000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
