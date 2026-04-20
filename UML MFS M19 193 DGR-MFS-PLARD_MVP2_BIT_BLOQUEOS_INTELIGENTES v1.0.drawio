@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" pages="7">
   <diagram id="Qc8W6-mU_YH3rFQJ1NVV" name="BIT - Consulta de bloqueos">
-    <mxGraphModel dx="534" dy="343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1032" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -343,13 +343,13 @@
           <mxGeometry height="41" width="10" x="76" y="3711" as="geometry" />
         </mxCell>
         <mxCell id="kuDh-uSmHMAf1DH8ulAp-56" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="2610" width="10" x="175" y="1530" as="geometry" />
+          <mxGeometry height="2520" width="10" x="175" y="1620" as="geometry" />
         </mxCell>
         <mxCell id="kuDh-uSmHMAf1DH8ulAp-58" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Canal&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Supermovíl / Santander Web&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Procesa de solicitud de bloqueo inteligente&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px;&quot;&gt;de la tarjeta de débito&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="64" width="197.5" x="449.69000000000005" y="2266" as="geometry" />
         </mxCell>
         <mxCell id="kuDh-uSmHMAf1DH8ulAp-59" parent="1" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;html=1;" value="&lt;b&gt;Cliente Santander&lt;/b&gt;&lt;br&gt;Envia solicitud REST&lt;div&gt;Selecciona opción para visualizar productos de débito relacionados a la cuenta&lt;/div&gt;" vertex="1">
-          <mxGeometry height="27" width="178.62" x="219.19" y="1647" as="geometry" />
+          <mxGeometry height="27" width="178.62" x="219.19" y="1641" as="geometry" />
         </mxCell>
         <mxCell id="kuDh-uSmHMAf1DH8ulAp-60" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="92" width="10" x="419" y="1685" as="geometry" />
