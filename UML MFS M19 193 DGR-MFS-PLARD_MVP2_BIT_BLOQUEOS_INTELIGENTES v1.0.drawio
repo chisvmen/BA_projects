@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" pages="7">
   <diagram id="Qc8W6-mU_YH3rFQJ1NVV" name="BIT - Consulta de bloqueos">
-    <mxGraphModel dx="704" dy="452" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1407" dy="904" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,10 +84,10 @@
             <mxPoint x="908.2530000000006" y="4959.389999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kuDh-uSmHMAf1DH8ulAp-5" edge="1" parent="1" source="7caOuonk2ZlgiUJtb8wu-36" style="endArrow=classic;html=1;rounded=0;entryX=0.497;entryY=0.785;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.514;exitY=0.784;exitDx=0;exitDy=0;exitPerimeter=0;" target="kuDh-uSmHMAf1DH8ulAp-21" value="">
+        <mxCell id="kuDh-uSmHMAf1DH8ulAp-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.503;entryY=0.784;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.514;exitY=0.784;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1381.48" y="4401.8095" as="sourcePoint" />
-            <mxPoint x="3300.5600000000004" y="4401.9529999999995" as="targetPoint" />
+            <mxPoint x="1392.2400000000002" y="4401.988" as="sourcePoint" />
+            <mxPoint x="2115.4800000000005" y="4399.448" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7caOuonk2ZlgiUJtb8wu-5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;div&gt;&lt;b&gt;&amp;lt;&amp;lt;Servicio&lt;/b&gt;&lt;b&gt;&amp;gt;&amp;gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;admin-bit&lt;/b&gt;&lt;/div&gt;" vertex="1">
@@ -234,9 +234,6 @@
         </mxCell>
         <mxCell id="kuDh-uSmHMAf1DH8ulAp-12" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;div&gt;&lt;b&gt;&amp;lt;&amp;lt;Plataforma SaaS&amp;gt;&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;PLARD&lt;/b&gt;" vertex="1">
           <mxGeometry height="3823" width="160" x="2281" y="1403" as="geometry" />
-        </mxCell>
-        <mxCell id="PzOM4Qo81eC-5YMLgKvq-34" parent="kuDh-uSmHMAf1DH8ulAp-12" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="77" width="10" x="75" y="3037" as="geometry" />
         </mxCell>
         <mxCell id="uZeBMb21VWttYwuVnyqk-3" parent="kuDh-uSmHMAf1DH8ulAp-12" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="134" width="10" x="75" y="1688" as="geometry" />
@@ -563,10 +560,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PzOM4Qo81eC-5YMLgKvq-32" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;font&gt;Queue&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font&gt;&lt;b&gt;MQ 390&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Solicita ejecución&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;del&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;bloqueo inteligente&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la tarjeta de débito&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 0, 0); text-align: center;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;BIT&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;]&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="78" width="175.75" x="2151" y="4374" as="geometry" />
-        </mxCell>
-        <mxCell id="PzOM4Qo81eC-5YMLgKvq-35" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="77" width="10" x="2357" y="4830" as="geometry" />
+          <mxGeometry height="78" width="175.75" x="2150" y="4370" as="geometry" />
         </mxCell>
         <mxCell id="twCmNwDb_pnUzj98sQzw-3" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;fontColor=#000000;strokeColor=#000000;exitX=0.509;exitY=0.598;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.512;entryY=0.494;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
