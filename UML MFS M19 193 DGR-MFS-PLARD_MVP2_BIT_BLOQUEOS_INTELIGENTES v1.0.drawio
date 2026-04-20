@@ -237,12 +237,6 @@
             <mxPoint x="2621.34" y="3508.205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kuDh-uSmHMAf1DH8ulAp-15" edge="1" parent="1" source="kuDh-uSmHMAf1DH8ulAp-21" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;fontColor=#000000;strokeColor=#000000;exitX=0.496;exitY=0.596;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.497;entryY=0.596;entryDx=0;entryDy=0;entryPerimeter=0;" target="kuDh-uSmHMAf1DH8ulAp-12" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="2855.6800000000003" y="3677.4320000000007" as="sourcePoint" />
-            <mxPoint x="2620.04" y="3675" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kuDh-uSmHMAf1DH8ulAp-16" edge="1" parent="1" source="kuDh-uSmHMAf1DH8ulAp-12" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;entryX=0.521;entryY=0.918;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.507;exitY=0.915;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="2629.7999999999997" y="4901.045000000001" as="sourcePoint" />
@@ -263,9 +257,6 @@
         </mxCell>
         <mxCell id="kuDh-uSmHMAf1DH8ulAp-21" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;div&gt;&lt;b&gt;&amp;lt;&amp;lt;Repositorio&amp;gt;&amp;gt;&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Kafka&lt;/b&gt;" vertex="1">
           <mxGeometry height="3822" width="160" x="2295" y="1403" as="geometry" />
-        </mxCell>
-        <mxCell id="kuDh-uSmHMAf1DH8ulAp-22" parent="kuDh-uSmHMAf1DH8ulAp-21" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="70" width="10" x="75" y="2222" as="geometry" />
         </mxCell>
         <mxCell id="UFBXmApEA60ZRzsLyh0n-2" parent="kuDh-uSmHMAf1DH8ulAp-21" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="77" width="10" x="75" y="2987" as="geometry" />
@@ -624,6 +615,12 @@
         </mxCell>
         <mxCell id="twCmNwDb_pnUzj98sQzw-2" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="50" width="10" x="1887" y="3890.5" as="geometry" />
+        </mxCell>
+        <mxCell id="twCmNwDb_pnUzj98sQzw-3" edge="1" parent="1" source="7caOuonk2ZlgiUJtb8wu-5" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;fontColor=#000000;strokeColor=#000000;exitX=0.501;exitY=0.598;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.512;entryY=0.494;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="3088.4880000000003" y="3690" as="sourcePoint" />
+            <mxPoint x="2612" y="3690.5060000000003" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
