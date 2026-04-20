@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" pages="7">
   <diagram id="Qc8W6-mU_YH3rFQJ1NVV" name="BIT - Consulta de bloqueos">
-    <mxGraphModel dx="1032" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1191" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -209,10 +209,10 @@
             <mxPoint x="2145" y="3822" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kuDh-uSmHMAf1DH8ulAp-10" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;fontColor=#000000;entryX=0.525;entryY=0.548;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.495;exitY=0.548;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+        <mxCell id="kuDh-uSmHMAf1DH8ulAp-10" edge="1" parent="1" source="kuDh-uSmHMAf1DH8ulAp-20" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;fontColor=#000000;entryX=0.525;entryY=0.548;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.504;exitY=0.653;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="2358.6000000000004" y="3849.6040000000003" as="sourcePoint" />
-            <mxPoint x="1883.4" y="3849.6040000000003" as="targetPoint" />
+            <mxPoint x="2371.6000000000004" y="3900.6040000000003" as="sourcePoint" />
+            <mxPoint x="1896.4" y="3900.6040000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kuDh-uSmHMAf1DH8ulAp-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.498;entryY=0.763;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.501;exitY=0.602;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
@@ -392,7 +392,7 @@
           <mxGeometry height="53" width="224" x="2625" y="3545" as="geometry" />
         </mxCell>
         <mxCell id="kuDh-uSmHMAf1DH8ulAp-74" parent="1" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;" value="Componente&lt;div&gt;&lt;b&gt;Launcher PLARD&lt;/b&gt;&lt;br&gt;&lt;div&gt;Toma Mensaje exitoso de Redis Streams&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;[&lt;/span&gt;BIT&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="49" width="222.5" x="1890" y="3762" as="geometry" />
+          <mxGeometry height="49" width="222.5" x="1897" y="3829" as="geometry" />
         </mxCell>
         <mxCell id="kuDh-uSmHMAf1DH8ulAp-75" parent="1" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;" value="&lt;font&gt;Microservicio&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;admin-bit-sidecard&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;Deposita Mensaje exitoso en Redis Streams&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;[&lt;/span&gt;BIT&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;]&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="49" width="246" x="2261" y="3754" as="geometry" />
@@ -561,7 +561,7 @@
           <mxGeometry height="45" width="230" x="1402" y="3893" as="geometry" />
         </mxCell>
         <mxCell id="PzOM4Qo81eC-5YMLgKvq-12" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;Microservicio&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;admin-bit-sidecard&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;Recibe la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;respuesta&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;del&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;bloqueo inteligente&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la tarjeta de débito&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;BIT&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="45" width="230" x="1655" y="3878" as="geometry" />
+          <mxGeometry height="45" width="230" x="1655" y="3870" as="geometry" />
         </mxCell>
         <mxCell id="PzOM4Qo81eC-5YMLgKvq-14" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;fontColor=#000000;exitX=0.493;exitY=0.952;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.503;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -621,6 +621,9 @@
         </mxCell>
         <mxCell id="PzOM4Qo81eC-5YMLgKvq-35" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="77" width="10" x="2612" y="4830" as="geometry" />
+        </mxCell>
+        <mxCell id="twCmNwDb_pnUzj98sQzw-2" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="1887" y="3890.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
