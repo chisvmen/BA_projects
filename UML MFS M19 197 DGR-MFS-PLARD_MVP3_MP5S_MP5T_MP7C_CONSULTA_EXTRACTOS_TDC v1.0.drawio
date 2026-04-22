@@ -1644,12 +1644,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Versiones" id="HULUK8qOnNXnypZfuoQ4">
-    <mxGraphModel dx="1106" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1515" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0O2rxOOoALeRb9QqXVek-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=center;fontStyle=0" value="" vertex="1">
-          <mxGeometry height="649" width="1080" x="300" y="251" as="geometry" />
+          <mxGeometry height="708.9999999999998" width="1080" x="300" y="251" as="geometry" />
         </mxCell>
         <mxCell id="0O2rxOOoALeRb9QqXVek-2" parent="0O2rxOOoALeRb9QqXVek-1" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;fontStyle=0" value="" vertex="1">
           <mxGeometry height="100" width="1080" as="geometry" />
@@ -1698,72 +1698,72 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0O2rxOOoALeRb9QqXVek-12" parent="0O2rxOOoALeRb9QqXVek-1" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;fontStyle=0" value="" vertex="1">
-          <mxGeometry height="159" width="1080" y="200" as="geometry" />
+          <mxGeometry height="179" width="1080" y="200" as="geometry" />
         </mxCell>
         <mxCell id="0O2rxOOoALeRb9QqXVek-13" parent="0O2rxOOoALeRb9QqXVek-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;fontStyle=0" value="Christopher Valencia Mendoza" vertex="1">
-          <mxGeometry height="159" width="381" as="geometry">
-            <mxRectangle height="159" width="381" as="alternateBounds" />
+          <mxGeometry height="179" width="381" as="geometry">
+            <mxRectangle height="179" width="381" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0O2rxOOoALeRb9QqXVek-14" parent="0O2rxOOoALeRb9QqXVek-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;fontStyle=0" value="16/04/2026" vertex="1">
-          <mxGeometry height="159" width="116" x="381" as="geometry">
-            <mxRectangle height="159" width="116" as="alternateBounds" />
+          <mxGeometry height="179" width="116" x="381" as="geometry">
+            <mxRectangle height="179" width="116" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0O2rxOOoALeRb9QqXVek-15" parent="0O2rxOOoALeRb9QqXVek-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;fontStyle=0" value="1.1" vertex="1">
-          <mxGeometry height="159" width="86" x="497" as="geometry">
-            <mxRectangle height="159" width="86" as="alternateBounds" />
+          <mxGeometry height="179" width="86" x="497" as="geometry">
+            <mxRectangle height="179" width="86" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0O2rxOOoALeRb9QqXVek-16" parent="0O2rxOOoALeRb9QqXVek-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=left;fontStyle=0" value="&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;Se agrega diagrama que cubre la funcionalidad de la transacción&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span&gt;MP5S&lt;/span&gt; - Consulta Unitaria de Extractos de Medios de Pago&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Se agregaron mapeos de campos PAMPA TRX CREDITO&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Se acuerda estrategia de integración Agave MQ para la operativa del canal FDMP&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="159" width="497" x="583" as="geometry">
-            <mxRectangle height="159" width="497" as="alternateBounds" />
+        <mxCell id="0O2rxOOoALeRb9QqXVek-16" parent="0O2rxOOoALeRb9QqXVek-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=left;fontStyle=0" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Se agrega el diagrama que cubre la funcionalidad de la transacción MP5S – Consulta Unitaria de Extractos de Medios de Pago.&lt;/li&gt;&lt;li&gt;Se agregan los mapeos de campos correspondientes a PAMPA TRX Crédito.&lt;/li&gt;&lt;li&gt;Se acuerda la estrategia de integración mediante Agave MQ para la operativa del canal FDMP.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="179" width="497" x="583" as="geometry">
+            <mxRectangle height="179" width="497" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0O2rxOOoALeRb9QqXVek-17" parent="0O2rxOOoALeRb9QqXVek-1" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Calibri;fontSize=16;strokeWidth=1;labelBackgroundColor=none;fontColor=default;fontStyle=0" vertex="1">
-          <mxGeometry height="140" width="1080" y="359" as="geometry" />
+          <mxGeometry height="160" width="1080" y="379" as="geometry" />
         </mxCell>
         <mxCell id="0O2rxOOoALeRb9QqXVek-18" parent="0O2rxOOoALeRb9QqXVek-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;fontStyle=0" value="Christopher Valencia Mendoza" vertex="1">
-          <mxGeometry height="140" width="381" as="geometry">
-            <mxRectangle height="140" width="381" as="alternateBounds" />
+          <mxGeometry height="160" width="381" as="geometry">
+            <mxRectangle height="160" width="381" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0O2rxOOoALeRb9QqXVek-19" parent="0O2rxOOoALeRb9QqXVek-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;fontStyle=0" value="20/04/2026" vertex="1">
-          <mxGeometry height="140" width="116" x="381" as="geometry">
-            <mxRectangle height="140" width="116" as="alternateBounds" />
+          <mxGeometry height="160" width="116" x="381" as="geometry">
+            <mxRectangle height="160" width="116" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0O2rxOOoALeRb9QqXVek-20" parent="0O2rxOOoALeRb9QqXVek-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;fontStyle=0" value="1.1" vertex="1">
-          <mxGeometry height="140" width="86" x="497" as="geometry">
-            <mxRectangle height="140" width="86" as="alternateBounds" />
+          <mxGeometry height="160" width="86" x="497" as="geometry">
+            <mxRectangle height="160" width="86" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0O2rxOOoALeRb9QqXVek-21" parent="0O2rxOOoALeRb9QqXVek-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Times New Roman;fontSize=13;strokeWidth=1;align=left;fontStyle=0" value="&lt;div style=&quot;font-family: Roboto; font-size: 16px; text-align: center;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Se agrega diagrama que cubre la funcionalidad de la transacción de la transacción&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span&gt;MP5T&lt;/span&gt; - Consulta Paginable de Extractos&lt;/span&gt;&amp;nbsp;de Medios de Pago&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Se agregaron mapeos de campos PAMPA TRX CREDITO&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Se acuerda estrategia de integración Agave MQ para la operativa del canal FDMP&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="140" width="497" x="583" as="geometry">
-            <mxRectangle height="140" width="497" as="alternateBounds" />
+        <mxCell id="0O2rxOOoALeRb9QqXVek-21" parent="0O2rxOOoALeRb9QqXVek-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Times New Roman;fontSize=13;strokeWidth=1;align=left;fontStyle=0" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;font face=&quot;Roboto&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Se agrega el diagrama que cubre la funcionalidad de la transacción MP5T – Consulta Paginable de Extractos de Medios de Pago.&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font face=&quot;Roboto&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Se agregan los mapeos de campos correspondientes a PAMPA TRX Crédito.&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font face=&quot;Roboto&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Se acuerda la estrategia de integración mediante Agave MQ para la operativa del canal FDMP.&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="497" x="583" as="geometry">
+            <mxRectangle height="160" width="497" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0O2rxOOoALeRb9QqXVek-22" parent="0O2rxOOoALeRb9QqXVek-1" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;fontStyle=0" vertex="1">
-          <mxGeometry height="150" width="1080" y="499" as="geometry" />
+          <mxGeometry height="170" width="1080" y="539" as="geometry" />
         </mxCell>
         <mxCell id="0O2rxOOoALeRb9QqXVek-23" parent="0O2rxOOoALeRb9QqXVek-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;fontStyle=0" value="Christopher Valencia Mendoza" vertex="1">
-          <mxGeometry height="150" width="381" as="geometry">
-            <mxRectangle height="150" width="381" as="alternateBounds" />
+          <mxGeometry height="170" width="381" as="geometry">
+            <mxRectangle height="170" width="381" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0O2rxOOoALeRb9QqXVek-24" parent="0O2rxOOoALeRb9QqXVek-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;fontStyle=0" value="21/04/2026" vertex="1">
-          <mxGeometry height="150" width="116" x="381" as="geometry">
-            <mxRectangle height="150" width="116" as="alternateBounds" />
+          <mxGeometry height="170" width="116" x="381" as="geometry">
+            <mxRectangle height="170" width="116" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0O2rxOOoALeRb9QqXVek-25" parent="0O2rxOOoALeRb9QqXVek-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;fontStyle=0" value="1.1" vertex="1">
-          <mxGeometry height="150" width="86" x="497" as="geometry">
-            <mxRectangle height="150" width="86" as="alternateBounds" />
+          <mxGeometry height="170" width="86" x="497" as="geometry">
+            <mxRectangle height="170" width="86" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0O2rxOOoALeRb9QqXVek-26" parent="0O2rxOOoALeRb9QqXVek-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=left;fontStyle=0" value="&lt;ul&gt;&lt;li&gt;Se agrega diagrama que cubre la funcionalidad de la transacción de la transacción&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span&gt;MP7C&lt;/span&gt; - Consulta Paginable de Extractos (Masiva)&amp;nbsp;&lt;/span&gt;de Medios de Pago&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Se agregaron mapeos de campos PAMPA TRX CREDITO&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Se acuerda estrategia de integración Agave MQ para la operativa del canal FDMP&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="150" width="497" x="583" as="geometry">
-            <mxRectangle height="150" width="497" as="alternateBounds" />
+        <mxCell id="0O2rxOOoALeRb9QqXVek-26" parent="0O2rxOOoALeRb9QqXVek-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=left;fontStyle=0" value="&lt;ul&gt;&lt;li&gt;Se agrega el diagrama que cubre la funcionalidad de la transacción MP7C – Consulta Paginable de Extractos (Masiva) de Medios de Pago.&lt;/li&gt;&lt;li&gt;Se agregan los mapeos de campos correspondientes a PAMPA TRX Crédito.&lt;/li&gt;&lt;li&gt;Se acuerda la estrategia de integración mediante Agave MQ para la operativa del canal FDMP.&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="170" width="497" x="583" as="geometry">
+            <mxRectangle height="170" width="497" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0O2rxOOoALeRb9QqXVek-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#36393D;fontSize=20;align=left;fontStyle=0" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;CONTROL DE VERSIONES&lt;/font&gt;" vertex="1">
