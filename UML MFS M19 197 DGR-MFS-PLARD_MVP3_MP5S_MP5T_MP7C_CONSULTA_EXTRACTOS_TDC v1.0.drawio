@@ -71,7 +71,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2NwZeuXVA6w2kIIwgeia" name="MP5S - CONSULTA UNITARIA DE EXTRACTOS">
-    <mxGraphModel dx="3078" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2669" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,7 +82,7 @@
           <mxGeometry height="60" width="10" x="75.5" y="180" as="geometry" />
         </mxCell>
         <mxCell id="PuF2dmNS-M8CWl-lxtja-18" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;div&gt;&lt;b&gt;&amp;lt;&amp;lt;Canal&amp;gt;&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;FDMP&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="3222" width="161" x="-289" y="1388" as="geometry" />
+          <mxGeometry height="3222" width="161" x="-290" y="1388" as="geometry" />
         </mxCell>
         <mxCell id="dJ-z2oru_mvIJNaqy6CO-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -208,7 +208,7 @@
             <mxPoint x="1233.04" y="3346" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PuF2dmNS-M8CWl-lxtja-16" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;entryX=0.51;entryY=0.819;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.505;exitY=0.571;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+        <mxCell id="PuF2dmNS-M8CWl-lxtja-16" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;entryX=0.503;entryY=0.932;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.505;exitY=0.571;exitDx=0;exitDy=0;exitPerimeter=0;" target="PuF2dmNS-M8CWl-lxtja-23" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1911.8000000000002" y="4390.995" as="sourcePoint" />
             <mxPoint x="518.6000000000004" y="4390.4659999999985" as="targetPoint" />
@@ -402,7 +402,7 @@
           <mxGeometry height="45" width="238" x="1666" y="4327" as="geometry" />
         </mxCell>
         <mxCell id="PuF2dmNS-M8CWl-lxtja-78" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" value="&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;Queue&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;MQ Canal&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;Recibe response &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;consulta del resumen extractos de la tarjeta de crédito&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); background-color: transparent;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); background-color: transparent;&quot;&gt;MP5S&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); background-color: transparent;&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="45" width="241" x="265.5" y="4383" as="geometry" />
+          <mxGeometry height="45" width="241" x="27" y="4385" as="geometry" />
         </mxCell>
         <mxCell id="PuF2dmNS-M8CWl-lxtja-79" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -425,14 +425,14 @@
         <mxCell id="PuF2dmNS-M8CWl-lxtja-83" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="66" width="10" x="-214.25" y="4476" as="geometry" />
         </mxCell>
-        <mxCell id="PuF2dmNS-M8CWl-lxtja-84" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;exitX=0.508;exitY=0.952;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.493;entryY=0.862;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+        <mxCell id="PuF2dmNS-M8CWl-lxtja-84" edge="1" parent="1" source="PuF2dmNS-M8CWl-lxtja-23" style="endArrow=block;html=1;rounded=0;dashed=1;endFill=1;exitX=0.493;exitY=0.948;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.493;entryY=0.862;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="515.2799999999997" y="4445.3279999999995" as="sourcePoint" />
             <mxPoint x="35.3730000000005" y="4442.389999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PuF2dmNS-M8CWl-lxtja-85" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="74" width="10" x="509" y="4380" as="geometry" />
+          <mxGeometry height="74" width="10" x="269" y="4378" as="geometry" />
         </mxCell>
         <mxCell id="PuF2dmNS-M8CWl-lxtja-86" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="59" width="10" x="-451.25" y="4524" as="geometry" />
