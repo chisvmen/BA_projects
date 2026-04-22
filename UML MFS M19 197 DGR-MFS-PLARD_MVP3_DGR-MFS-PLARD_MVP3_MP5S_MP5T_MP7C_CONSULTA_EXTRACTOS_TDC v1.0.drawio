@@ -978,7 +978,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jR0inhvBBQsaC7Dhm6Q8" name="MP7C - CONSULTA PAGINABLE (MASIVA) EXTRACTOS/TIPO IMPOR">
-    <mxGraphModel dx="1720" dy="-65" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2211" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1467,7 +1467,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Versiones" id="HULUK8qOnNXnypZfuoQ4">
-    <mxGraphModel dx="1548" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1538,7 +1538,7 @@
             <mxRectangle height="159" width="86" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0O2rxOOoALeRb9QqXVek-16" parent="0O2rxOOoALeRb9QqXVek-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=left;fontStyle=0" value="&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;Se agrega diagrama que cubre la funcionalidad de la transacción&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span&gt;MP5S&lt;/span&gt; - Consulta Unitaria de Extractos de Medios de Pago&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Se agregaron mapeos de campos PAMPA TRX CREDITO&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Se acuerda la estrategia de integración Agave MQ para la operativa del canal FDMP&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
+        <mxCell id="0O2rxOOoALeRb9QqXVek-16" parent="0O2rxOOoALeRb9QqXVek-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=left;fontStyle=0" value="&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;Se agrega diagrama que cubre la funcionalidad de la transacción&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span&gt;MP5S&lt;/span&gt; - Consulta Unitaria de Extractos de Medios de Pago&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Se agregaron mapeos de campos PAMPA TRX CREDITO&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Se acuerda estrategia de integración Agave MQ para la operativa del canal FDMP&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="159" width="497" x="583" as="geometry">
             <mxRectangle height="159" width="497" as="alternateBounds" />
           </mxGeometry>
@@ -1561,7 +1561,7 @@
             <mxRectangle height="140" width="86" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0O2rxOOoALeRb9QqXVek-21" parent="0O2rxOOoALeRb9QqXVek-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Times New Roman;fontSize=13;strokeWidth=1;align=left;fontStyle=0" value="&lt;div style=&quot;font-family: Roboto; font-size: 16px; text-align: center;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Se agrega diagrama que cubre la funcionalidad de la transacción de la transacción&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span&gt;MP5T&lt;/span&gt; - Consulta Paginable de Extractos&lt;/span&gt;&amp;nbsp;de Medios de Pago&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Se agregaron mapeos de campos PAMPA TRX CREDITO&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Se acuerda la estrategia de integración Agave MQ para la operativa del canal FDMP&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="0O2rxOOoALeRb9QqXVek-21" parent="0O2rxOOoALeRb9QqXVek-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Times New Roman;fontSize=13;strokeWidth=1;align=left;fontStyle=0" value="&lt;div style=&quot;font-family: Roboto; font-size: 16px; text-align: center;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Se agrega diagrama que cubre la funcionalidad de la transacción de la transacción&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span&gt;MP5T&lt;/span&gt; - Consulta Paginable de Extractos&lt;/span&gt;&amp;nbsp;de Medios de Pago&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Se agregaron mapeos de campos PAMPA TRX CREDITO&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Se acuerda estrategia de integración Agave MQ para la operativa del canal FDMP&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="497" x="583" as="geometry">
             <mxRectangle height="140" width="497" as="alternateBounds" />
           </mxGeometry>
@@ -1584,7 +1584,7 @@
             <mxRectangle height="150" width="86" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0O2rxOOoALeRb9QqXVek-26" parent="0O2rxOOoALeRb9QqXVek-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=left;fontStyle=0" value="&lt;ul&gt;&lt;li&gt;Se agrega diagrama que cubre la funcionalidad de la transacción de la transacción&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span&gt;MP7C&lt;/span&gt; - Consulta Paginable de Extractos (Masiva)&amp;nbsp;&lt;/span&gt;de Medios de Pago&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Se agregaron mapeos de campos PAMPA TRX CREDITO&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Se acuerda la estrategia de integración Agave MQ para la operativa del canal FDMP&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+        <mxCell id="0O2rxOOoALeRb9QqXVek-26" parent="0O2rxOOoALeRb9QqXVek-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=left;fontStyle=0" value="&lt;ul&gt;&lt;li&gt;Se agrega diagrama que cubre la funcionalidad de la transacción de la transacción&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span&gt;MP7C&lt;/span&gt; - Consulta Paginable de Extractos (Masiva)&amp;nbsp;&lt;/span&gt;de Medios de Pago&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Se agregaron mapeos de campos PAMPA TRX CREDITO&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Se acuerda estrategia de integración Agave MQ para la operativa del canal FDMP&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="150" width="497" x="583" as="geometry">
             <mxRectangle height="150" width="497" as="alternateBounds" />
           </mxGeometry>
