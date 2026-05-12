@@ -129,10 +129,67 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iW174s7W-5sLwbLbMquX" name="Alta Masiva">
-    <mxGraphModel dx="1106" dy="1879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3096" dy="3157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EJzCjU-CLY_FqDUSJdZx-229" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;endFill=1;entryX=0.501;entryY=0.439;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="917.5" y="4247" as="sourcePoint" />
+            <mxPoint x="667.6599999999999" y="4246.43" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJzCjU-CLY_FqDUSJdZx-194" edge="1" parent="1" source="EJzCjU-CLY_FqDUSJdZx-8" style="endArrow=classic;html=1;rounded=0;exitX=0.488;exitY=0.408;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="903.5" y="4021" as="sourcePoint" />
+            <mxPoint x="1377" y="4021" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJzCjU-CLY_FqDUSJdZx-226" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;endFill=1;exitX=0.505;exitY=0.414;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1381.3000000000002" y="4062.1799999999994" as="sourcePoint" />
+            <mxPoint x="915.5014285714279" y="4062" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJzCjU-CLY_FqDUSJdZx-192" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.491;entryY=0.382;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="666.5" y="3829" as="sourcePoint" />
+            <mxPoint x="908.0599999999997" y="3827.34" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJzCjU-CLY_FqDUSJdZx-193" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;log-monitor&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Toma datos de publicación del MC&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;contract-mgt&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="223" x="682.5" y="3783" as="geometry" />
+        </mxCell>
+        <mxCell id="EJzCjU-CLY_FqDUSJdZx-170" edge="1" parent="1" source="EJzCjU-CLY_FqDUSJdZx-8" style="endArrow=classic;html=1;rounded=0;dashed=1;endFill=1;exitX=0.477;exitY=0.371;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="898.5" y="3747" as="sourcePoint" />
+            <mxPoint x="668.5" y="3747" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJzCjU-CLY_FqDUSJdZx-220" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.496;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.504;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="909.1400000000001" y="3465.21" as="sourcePoint" />
+            <mxPoint x="1858.8600000000001" y="3464.21" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJzCjU-CLY_FqDUSJdZx-164" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="EJzCjU-CLY_FqDUSJdZx-166" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="908.5" y="3080" as="sourcePoint" />
+            <mxPoint x="1862.5" y="3072" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJzCjU-CLY_FqDUSJdZx-187" edge="1" parent="1" source="EJzCjU-CLY_FqDUSJdZx-8" style="endArrow=classic;html=1;rounded=0;exitX=0.49;exitY=0.257;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.48;entryY=0.257;entryDx=0;entryDy=0;entryPerimeter=0;" target="EJzCjU-CLY_FqDUSJdZx-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="905.5" y="2902" as="sourcePoint" />
+            <mxPoint x="1379" y="2902" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJzCjU-CLY_FqDUSJdZx-264" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;endFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1382.5" y="2941" as="sourcePoint" />
+            <mxPoint x="916.5014285714279" y="2941" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-185" edge="1" parent="1" source="EJzCjU-CLY_FqDUSJdZx-2" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="681.5" y="2740" as="sourcePoint" />
@@ -257,7 +314,7 @@
           <mxGeometry height="10" width="10" x="110.5" y="869" as="geometry" />
         </mxCell>
         <mxCell id="f3wFtoyvcu0oMsVillj6-19" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=0;collapsible=0;width=465;height=50;fontStyle=1;fontSize=13;strokeWidth=2;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px; background-color: transparent; text-align: left;&quot;&gt;PLARD&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px; background-color: transparent; text-align: left;&quot;&gt;- ALTA MASIVA DE TARJETAS DE DÉBITO&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="2230" width="3585" x="14.5" y="910" as="geometry" />
+          <mxGeometry height="7370" width="3585" x="14.5" y="910" as="geometry" />
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;div&gt;&lt;b&gt;&amp;lt;&amp;lt;Repositorio&amp;gt;&amp;gt;&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Kafka&lt;/b&gt;" vertex="1">
           <mxGeometry height="7370" width="160" x="1302.5" y="1011" as="geometry" />
@@ -275,7 +332,7 @@
           <mxGeometry height="7370" width="160" x="1543.5" y="1010" as="geometry" />
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-12" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};container=0;" value="" vertex="1">
-          <mxGeometry height="5542" width="10" x="657.5" y="1401" as="geometry" />
+          <mxGeometry height="5542" width="10" x="634.5" y="1401" as="geometry" />
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-13" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;fontStyle=1" value="&lt;div&gt;&lt;span&gt;&amp;lt;&amp;lt;Plataforma&amp;gt;&amp;gt;&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span&gt;Gravity&lt;/span&gt;" vertex="1">
           <mxGeometry height="7370" width="160" x="2264.5" y="1011" as="geometry" />
@@ -290,7 +347,7 @@
           <mxGeometry height="7370" width="160" x="2984.5" y="1011" as="geometry" />
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-17" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};container=0;" value="" vertex="1">
-          <mxGeometry height="5410" width="10" x="907.5" y="1492" as="geometry" />
+          <mxGeometry height="5410" width="10" x="906.5" y="1492" as="geometry" />
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-19" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;XXXX&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Toma solicitud de alta de contrato [MP4Z]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="223" x="683.5" y="1461" as="geometry" />
@@ -777,7 +834,7 @@
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-161" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;contract-data-retriever&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-align: center; font-size: 11px;&quot;&gt;Recibe información complementaria de tablas Corporativas y Captación&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-align: center; font-size: 11px;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;TRX|DDF -TBD] - LK01&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="260" x="1360.5" y="2487" as="geometry" />
         </mxCell>
-        <mxCell id="EJzCjU-CLY_FqDUSJdZx-162" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+        <mxCell id="EJzCjU-CLY_FqDUSJdZx-162" edge="1" parent="1" source="EJzCjU-CLY_FqDUSJdZx-2" style="endArrow=classic;html=1;rounded=0;exitX=0.476;exitY=0.267;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.48;entryY=0.267;entryDx=0;entryDy=0;entryPerimeter=0;" target="EJzCjU-CLY_FqDUSJdZx-8" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="682.5" y="2982" as="sourcePoint" />
             <mxPoint x="908.5" y="2982" as="targetPoint" />
@@ -786,20 +843,14 @@
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-163" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;contract-mgt&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Toma solicitud de&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: center; font-size: 11px;&quot;&gt;Alta de Contratos de Tarjeta de Crédito&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;[MP4Z]&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="223" x="686.5" y="2932" as="geometry" />
         </mxCell>
-        <mxCell id="EJzCjU-CLY_FqDUSJdZx-164" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="EJzCjU-CLY_FqDUSJdZx-166" value="">
+        <mxCell id="EJzCjU-CLY_FqDUSJdZx-165" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;endFill=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="908.5" y="3080" as="sourcePoint" />
-            <mxPoint x="1862.5" y="3072" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EJzCjU-CLY_FqDUSJdZx-165" edge="1" parent="1" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1864.000000000001" y="3173" as="sourcePoint" />
-            <mxPoint x="913.5" y="3173" as="targetPoint" />
+            <mxPoint x="1866.000000000001" y="3173" as="sourcePoint" />
+            <mxPoint x="915.5" y="3173" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-166" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};container=0;" value="" vertex="1">
-          <mxGeometry height="140" width="10" x="1858.5" y="3062" as="geometry" />
+          <mxGeometry height="124" width="10" x="1858.5" y="3066" as="geometry" />
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-167" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;">
           <mxGeometry relative="1" as="geometry">
@@ -823,12 +874,6 @@
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-169" parent="1" style="text;whiteSpace=wrap;html=1;container=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;contract-mgt&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Genera Response de Alta de contrato y tarjeta de crédito Express o Personalizada&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="89" width="180" x="975.5" y="3600" as="geometry" />
-        </mxCell>
-        <mxCell id="EJzCjU-CLY_FqDUSJdZx-170" edge="1" parent="1" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="906.5" y="3747" as="sourcePoint" />
-            <mxPoint x="676.5" y="3747" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-171" parent="1" style="text;whiteSpace=wrap;html=1;container=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;contract-mgt&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Déposita response de&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Alta de contrato y tarjeta de crédito Express o Personalizada.&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="89" width="180" x="706.5" y="3668" as="geometry" />
@@ -889,12 +934,6 @@
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-186" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;log-monitor&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Toma datos de públicación del MC&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;contract-data-retriever&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="223" x="682.5" y="2695" as="geometry" />
         </mxCell>
-        <mxCell id="EJzCjU-CLY_FqDUSJdZx-187" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="907.5" y="2902" as="sourcePoint" />
-            <mxPoint x="1381" y="2902" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-188" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;log-monitor&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Publica Trama de Bitacora&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="223" x="922.5" y="2861" as="geometry" />
         </mxCell>
@@ -914,26 +953,11 @@
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-191" parent="1" style="text;whiteSpace=wrap;html=1;container=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;log-monitor&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Genera Trama de Bitácora de MC&amp;nbsp;&lt;b style=&quot;background-color: initial;&quot;&gt;contract-data-retriever&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="26" width="161" x="974.5" y="2767" as="geometry" />
         </mxCell>
-        <mxCell id="EJzCjU-CLY_FqDUSJdZx-192" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="678.5" y="3828" as="sourcePoint" />
-            <mxPoint x="904.5" y="3828" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EJzCjU-CLY_FqDUSJdZx-193" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;log-monitor&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Toma datos de publicación del MC&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;contract-mgt&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="223" x="682.5" y="3783" as="geometry" />
-        </mxCell>
-        <mxCell id="EJzCjU-CLY_FqDUSJdZx-194" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="907.5" y="4021" as="sourcePoint" />
-            <mxPoint x="1381" y="4021" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-195" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;log-monitor&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Pública Trama de Bitácora&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="223" x="927.5" y="3982" as="geometry" />
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-196" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};container=0;" value="" vertex="1">
-          <mxGeometry height="41" width="10" x="1378.5" y="4021" as="geometry" />
+          <mxGeometry height="62" width="10" x="1376.5" y="4011" as="geometry" />
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-197" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;Response Ok&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="223" x="922.5" y="4039" as="geometry" />
@@ -1095,14 +1119,14 @@
             <mxPoint x="1853.5" y="3260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EJzCjU-CLY_FqDUSJdZx-214" edge="1" parent="1" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" value="">
+        <mxCell id="EJzCjU-CLY_FqDUSJdZx-214" edge="1" parent="1" source="EJzCjU-CLY_FqDUSJdZx-4" style="endArrow=classic;html=1;rounded=0;dashed=1;endFill=1;exitX=0.5;exitY=0.321;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1871.000000000001" y="3378" as="sourcePoint" />
-            <mxPoint x="909.5" y="3378" as="targetPoint" />
+            <mxPoint x="1876.000000000001" y="3378" as="sourcePoint" />
+            <mxPoint x="914.5" y="3378" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-215" parent="1" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;container=0;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;contract-mgt&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Retorna datos adicionales de la tarjeta Personalizada de crédito en PLARD&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="142" x="1701.5" y="3319" as="geometry" />
+          <mxGeometry height="30" width="213.5" x="1638" y="3330" as="geometry" />
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-216" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};container=0;" value="" vertex="1">
           <mxGeometry height="130" width="10" x="1859.5" y="3252" as="geometry" />
@@ -1117,48 +1141,36 @@
             <mxPoint x="1870.5" y="3337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EJzCjU-CLY_FqDUSJdZx-218" parent="1" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;container=0;" value="Realiza consulta de datos de la TDC PLARD&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: bold; background-color: initial;&quot;&gt;[API PLARD -&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Device Life Cycle]&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span data-teams=&quot;true&quot;&gt;&lt;b&gt;(GET)&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;/life-cycle/v4/devices/details&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="239" x="1879.5" y="3219" as="geometry" />
+        <mxCell id="EJzCjU-CLY_FqDUSJdZx-218" parent="1" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;container=0;fontStyle=0" value="Realiza consulta de datos de la TDC PLARD&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[API PLARD -&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span&gt;Device Life Cycle]&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span data-teams=&quot;true&quot;&gt;&lt;span&gt;(GET)&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span&gt;/life-cycle/v4/devices/details&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="270" x="1918.5" y="3267" as="geometry" />
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-219" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;contract-mgt&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Solicita el PAN de la tarjeta Personalizada de débito en PLARD&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="169" x="944.5" y="3414" as="geometry" />
         </mxCell>
-        <mxCell id="EJzCjU-CLY_FqDUSJdZx-220" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+        <mxCell id="EJzCjU-CLY_FqDUSJdZx-221" edge="1" parent="1" source="EJzCjU-CLY_FqDUSJdZx-4" style="endArrow=classic;html=1;rounded=0;dashed=1;endFill=1;exitX=0.509;exitY=0.346;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="908.5" y="3461" as="sourcePoint" />
-            <mxPoint x="1864.000000000001" y="3461" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EJzCjU-CLY_FqDUSJdZx-221" edge="1" parent="1" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1870.000000000001" y="3562" as="sourcePoint" />
-            <mxPoint x="908.5" y="3562" as="targetPoint" />
+            <mxPoint x="1878.000000000001" y="3562" as="sourcePoint" />
+            <mxPoint x="916.5" y="3562" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-222" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;contract-mgt&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Retorna el PAN de la tarjeta Personalizada de crédito en PLARD&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="133" x="1720.5" y="3502" as="geometry" />
+          <mxGeometry height="30" width="223.5" x="1631" y="3513" as="geometry" />
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-223" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};container=0;" value="" vertex="1">
-          <mxGeometry height="122" width="10" x="1864.5" y="3444" as="geometry" />
+          <mxGeometry height="122" width="10" x="1858.5" y="3449" as="geometry" />
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-224" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1932.5" y="3486" />
-              <mxPoint x="1932.5" y="3521" />
+              <mxPoint x="1924.5" y="3486" />
+              <mxPoint x="1924.5" y="3521" />
             </Array>
-            <mxPoint x="1876.5" y="3486" as="sourcePoint" />
-            <mxPoint x="1876.5" y="3521" as="targetPoint" />
+            <mxPoint x="1868.5" y="3486" as="sourcePoint" />
+            <mxPoint x="1868.5" y="3521" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EJzCjU-CLY_FqDUSJdZx-225" parent="1" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;container=0;" value="Realiza la consulta del PAN de la tarjeta&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: bold; background-color: initial;&quot;&gt;[API PLARD -&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Card Security]&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span data-teams=&quot;true&quot;&gt;&lt;b&gt;(POST)&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;/v4/card_security/{cardId}/restricted_data&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="89" x="1953.5" y="3402" as="geometry" />
-        </mxCell>
-        <mxCell id="EJzCjU-CLY_FqDUSJdZx-226" edge="1" parent="1" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1387.43" y="4062" as="sourcePoint" />
-            <mxPoint x="903.5014285714279" y="4062" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="EJzCjU-CLY_FqDUSJdZx-225" parent="1" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;container=0;fontStyle=0" value="Realiza la consulta del PAN de la tarjeta&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[API PLARD -&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span&gt;Card Security]&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span data-teams=&quot;true&quot;&gt;&lt;span&gt;(POST)&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;/v4/card_security/{cardId}/restricted_data&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="89" x="2017.5" y="3449" as="geometry" />
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-227" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;">
           <mxGeometry relative="1" as="geometry">
@@ -1172,12 +1184,6 @@
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-228" parent="1" style="text;whiteSpace=wrap;html=1;container=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;contract-mgt&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Genera datos de Alta de contrato y tarjeta de crédito requeridos para registro en &lt;b&gt;Card Place Locator&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="89" width="180" x="974.5" y="4082" as="geometry" />
-        </mxCell>
-        <mxCell id="EJzCjU-CLY_FqDUSJdZx-229" edge="1" parent="1" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="912.5" y="4247" as="sourcePoint" />
-            <mxPoint x="682.5" y="4247" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-230" parent="1" style="text;whiteSpace=wrap;html=1;container=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;contract-mgt&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Déposita datos de&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Alta de contrato y tarjeta de crédito Personalizada para registro en &lt;b&gt;Card Place Locator&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="89" width="180" x="712.5" y="4150" as="geometry" />
@@ -1195,10 +1201,10 @@
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-232" parent="1" style="text;whiteSpace=wrap;html=1;container=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;contract-mgt&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Genera datos de Alta de contrato y tarjeta de crédito requeridos para registro en &lt;b&gt;LK02&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="89" width="180" x="981.5" y="4279" as="geometry" />
         </mxCell>
-        <mxCell id="EJzCjU-CLY_FqDUSJdZx-233" edge="1" parent="1" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" value="">
+        <mxCell id="EJzCjU-CLY_FqDUSJdZx-233" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;endFill=1;entryX=0.508;entryY=0.466;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="912.5" y="4444" as="sourcePoint" />
-            <mxPoint x="682.5" y="4444" as="targetPoint" />
+            <mxPoint x="917.5" y="4444" as="sourcePoint" />
+            <mxPoint x="668.78" y="4445.42" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-234" parent="1" style="text;whiteSpace=wrap;html=1;container=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;contract-mgt&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Déposita datos de&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Alta de contrato y tarjeta de crédito Personalizada para registro en &lt;b&gt;LK02&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
@@ -1292,22 +1298,16 @@
           <mxGeometry height="56" width="219" x="403.5" y="5552" as="geometry" />
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-261" parent="1" style="text;html=1;align=center;verticalAlign=middle;rounded=0;fontColor=default;whiteSpace=wrap;container=0;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;contract-mgt&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Solicita alta de contrato y asignación de la tarjeta Personalizada de crédito en PLARD&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="215" x="926" y="3022" as="geometry" />
+          <mxGeometry height="30" width="215" x="926" y="3029" as="geometry" />
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-262" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;contract-mgt&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Retorna alta de contrato y asignación de la tarjeta Personalizada de crédito en PLARD&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="200" x="1653.5" y="3112" as="geometry" />
+          <mxGeometry height="30" width="233.5" x="1618" y="3127" as="geometry" />
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-263" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;Response Ok&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="223" x="1223.5" y="2918" as="geometry" />
         </mxCell>
-        <mxCell id="EJzCjU-CLY_FqDUSJdZx-264" edge="1" parent="1" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1373.5" y="2941" as="sourcePoint" />
-            <mxPoint x="907.5014285714279" y="2941" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EJzCjU-CLY_FqDUSJdZx-265" parent="1" style="text;html=1;align=center;verticalAlign=middle;rounded=0;container=0;" value="Realiza alta de contrato y&amp;nbsp;&lt;div&gt;asignación de TDC Personalizada&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[API PLARD -&amp;nbsp;&lt;/span&gt;&lt;span data-teams=&quot;true&quot;&gt;Card Onboarding&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;]&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span data-teams=&quot;true&quot;&gt;&lt;b&gt;(POST)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span data-teams=&quot;true&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;/v2/card_onboardings/direct_onboarding&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="70" x="1953.5" y="3032" as="geometry" />
+        <mxCell id="EJzCjU-CLY_FqDUSJdZx-265" parent="1" style="text;html=1;align=center;verticalAlign=middle;rounded=0;container=0;fontStyle=0" value="Realiza alta de contrato y&amp;nbsp;&lt;div&gt;asignación de TDC Personalizada&lt;div style=&quot;&quot;&gt;&lt;span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[API PLARD -&amp;nbsp;&lt;/span&gt;&lt;span data-teams=&quot;true&quot;&gt;Card Onboarding&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span data-teams=&quot;true&quot;&gt;&lt;span&gt;(POST)&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span&gt;/v2/card_onboardings/direct_onboarding&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="70" x="2027" y="3078" as="geometry" />
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-266" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;div&gt;&lt;b&gt;&amp;lt;&amp;lt;Repositorio&amp;gt;&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Redis Cache&lt;/b&gt;" vertex="1">
           <mxGeometry height="7370" width="160" x="1083.5" y="1011" as="geometry" />
