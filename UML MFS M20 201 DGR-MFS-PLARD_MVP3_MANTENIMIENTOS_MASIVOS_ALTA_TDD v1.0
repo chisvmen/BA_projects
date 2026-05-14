@@ -129,7 +129,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iW174s7W-5sLwbLbMquX" name="Alta Masiva">
-    <mxGraphModel dx="968" dy="1790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="1879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -474,8 +474,8 @@
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-153" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;log-monitor&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Deposita solicitud de Alta de Contrato y datos adicionales&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[MP4Z]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="223" x="675" y="1576" as="geometry" />
         </mxCell>
-        <mxCell id="EJzCjU-CLY_FqDUSJdZx-155" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;contract-data-retriever&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Toma solicitud de datos adicionales&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="223" x="683.5" y="1941" as="geometry" />
+        <mxCell id="EJzCjU-CLY_FqDUSJdZx-155" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;contract-data-retriever&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Toma solicitud de datos adicionales de la tarjeta&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="236.5" x="657" y="1945" as="geometry" />
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-156" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;">
           <mxGeometry relative="1" as="geometry">
@@ -731,8 +731,8 @@
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-257" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;Response Ok&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="223" x="1223.5" y="1879" as="geometry" />
         </mxCell>
-        <mxCell id="EJzCjU-CLY_FqDUSJdZx-258" parent="1" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;container=0;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;contract-data-retriever&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-align: center; font-size: 11px;&quot;&gt;Consulta información complementaria de tablas Corporativas y Captación&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-align: center; font-size: 11px;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;TRX|DDF -TBD] - LK01&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="249" x="911.5" y="1962" as="geometry" />
+        <mxCell id="EJzCjU-CLY_FqDUSJdZx-258" parent="1" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;container=0;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Microservicio&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;contract-data-retriever&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-align: center; font-size: 11px;&quot;&gt;Consulta información complementaria de la tarjeta en tablas Corporativas y Captación&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-align: center; font-size: 11px;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;TRX|DDF -TBD] - LK01&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="249" x="923.5" y="1968" as="geometry" />
         </mxCell>
         <mxCell id="EJzCjU-CLY_FqDUSJdZx-259" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;Response Ok&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="223" x="1223.5" y="4729" as="geometry" />
