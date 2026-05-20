@@ -129,7 +129,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qu99sBSED2wzyvw3_c0U" name="MPV2 - Pago TDC ATM">
-    <mxGraphModel dx="-3442" dy="3318" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-3949" dy="2991" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1121,16 +1121,16 @@
         <mxCell id="8ZzpzumilBQHT-7O0qt0-14" parent="NOjMO9uiFAuRXiwNZSpO-10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" value="&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); text-wrap-mode: nowrap; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Realiza análisis de&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); text-wrap-mode: nowrap; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;riesgo de fraude&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="20" width="114" x="1095.3199999999997" y="1163" as="geometry" />
         </mxCell>
-        <mxCell id="8ZzpzumilBQHT-7O0qt0-15" parent="NOjMO9uiFAuRXiwNZSpO-10" style="text;whiteSpace=wrap;html=1;align=center;container=0;" value="Recibe información de evaluación de fraudes&lt;div&gt;[MPA7]&lt;/div&gt;" vertex="1">
+        <mxCell id="8ZzpzumilBQHT-7O0qt0-15" parent="NOjMO9uiFAuRXiwNZSpO-10" style="text;whiteSpace=wrap;html=1;align=center;container=0;" value="Recibe información de evaluación de fraudes&lt;div&gt;[MPV2]&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="170" x="843.3199999999997" y="1157" as="geometry" />
         </mxCell>
-        <mxCell id="8ZzpzumilBQHT-7O0qt0-16" parent="NOjMO9uiFAuRXiwNZSpO-10" style="text;whiteSpace=wrap;html=1;align=center;container=0;" value="Recibe información de evaluación de fraudes&lt;div&gt;[MPA7]&lt;/div&gt;" vertex="1">
+        <mxCell id="8ZzpzumilBQHT-7O0qt0-16" parent="NOjMO9uiFAuRXiwNZSpO-10" style="text;whiteSpace=wrap;html=1;align=center;container=0;" value="Recibe información de evaluación de fraudes&lt;div&gt;[MPV2]&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="196" x="598.3199999999999" y="1184" as="geometry" />
         </mxCell>
-        <mxCell id="8ZzpzumilBQHT-7O0qt0-17" parent="NOjMO9uiFAuRXiwNZSpO-10" style="text;whiteSpace=wrap;html=1;fontStyle=0;container=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Realiza&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;la petición de evaluacion de fraudes&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[MPA7]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="8ZzpzumilBQHT-7O0qt0-17" parent="NOjMO9uiFAuRXiwNZSpO-10" style="text;whiteSpace=wrap;html=1;fontStyle=0;container=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Realiza&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;la petición de evaluacion de fraudes&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;MPV2&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="38" width="254.5" x="-187.18000000000006" y="1073" as="geometry" />
         </mxCell>
-        <mxCell id="8ZzpzumilBQHT-7O0qt0-18" parent="NOjMO9uiFAuRXiwNZSpO-10" style="text;whiteSpace=wrap;html=1;fontStyle=0;container=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Realiza&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;la petición de evaluacion de fraudes&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[MPA7]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="8ZzpzumilBQHT-7O0qt0-18" parent="NOjMO9uiFAuRXiwNZSpO-10" style="text;whiteSpace=wrap;html=1;fontStyle=0;container=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Realiza&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;la petición de evaluacion de fraudes&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[&lt;/span&gt;MPV2&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="38" width="150.25" x="858.3199999999997" y="1083" as="geometry" />
         </mxCell>
         <mxCell id="NOjMO9uiFAuRXiwNZSpO-11" parent="NOjMO9uiFAuRXiwNZSpO-3" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;div&gt;&lt;b&gt;&amp;lt;&amp;lt;Queue&amp;gt;&amp;gt;&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;MQ Canal&lt;/b&gt;" vertex="1">
@@ -1194,11 +1194,11 @@
         <mxCell id="NOjMO9uiFAuRXiwNZSpO-25" parent="NOjMO9uiFAuRXiwNZSpO-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};container=0;" value="" vertex="1">
           <mxGeometry height="1380" width="10" x="830" y="729" as="geometry" />
         </mxCell>
-        <mxCell id="NOjMO9uiFAuRXiwNZSpO-26" parent="NOjMO9uiFAuRXiwNZSpO-3" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;html=1;container=0;" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;Selecciona el botón &quot;Modificar&quot; para modificar los datos economicos de la tarjeta&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="166" x="156" y="439" as="geometry" />
+        <mxCell id="NOjMO9uiFAuRXiwNZSpO-26" parent="NOjMO9uiFAuRXiwNZSpO-3" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;html=1;container=0;" value="&lt;div style=&quot;&quot;&gt;Digita el monto exacto a pagar&lt;/div&gt;" vertex="1">
+          <mxGeometry height="27" width="166" x="149.5" y="453" as="geometry" />
         </mxCell>
-        <mxCell id="NOjMO9uiFAuRXiwNZSpO-27" parent="NOjMO9uiFAuRXiwNZSpO-3" style="text;whiteSpace=wrap;html=1;container=0;fontStyle=0" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Muestra la pantalla para ingresar la opción &quot;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Modificar Limites&quot;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="37" width="193" x="135.5" y="370" as="geometry" />
+        <mxCell id="NOjMO9uiFAuRXiwNZSpO-27" parent="NOjMO9uiFAuRXiwNZSpO-3" style="text;whiteSpace=wrap;html=1;container=0;fontStyle=0;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Selecciona &quot;pago de tarjeta&quot;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="11" width="193" x="135.5" y="384" as="geometry" />
         </mxCell>
         <mxCell id="NOjMO9uiFAuRXiwNZSpO-28" edge="1" parent="NOjMO9uiFAuRXiwNZSpO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;">
           <mxGeometry relative="1" as="geometry">
@@ -1243,7 +1243,7 @@
         <mxCell id="NOjMO9uiFAuRXiwNZSpO-37" parent="NOjMO9uiFAuRXiwNZSpO-3" style="text;whiteSpace=wrap;html=1;container=0;" value="[Error Final PLARD]" vertex="1">
           <mxGeometry height="20" width="120" x="718" y="1635" as="geometry" />
         </mxCell>
-        <mxCell id="NOjMO9uiFAuRXiwNZSpO-38" parent="NOjMO9uiFAuRXiwNZSpO-3" style="text;whiteSpace=wrap;html=1;align=center;container=0;" value="Error&lt;div&gt;[MPA7]&lt;/div&gt;" vertex="1">
+        <mxCell id="NOjMO9uiFAuRXiwNZSpO-38" parent="NOjMO9uiFAuRXiwNZSpO-3" style="text;whiteSpace=wrap;html=1;align=center;container=0;" value="Error&lt;div&gt;[MPV2]&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="71" x="921" y="1629" as="geometry" />
         </mxCell>
         <mxCell id="NOjMO9uiFAuRXiwNZSpO-39" edge="1" parent="NOjMO9uiFAuRXiwNZSpO-3" style="endArrow=classic;html=1;rounded=0;dashed=1;endFill=1;" value="">
@@ -1258,7 +1258,7 @@
             <mxPoint x="840" y="1468" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NOjMO9uiFAuRXiwNZSpO-41" parent="NOjMO9uiFAuRXiwNZSpO-3" style="text;whiteSpace=wrap;html=1;align=center;container=0;" value="Respuesta OK&lt;div&gt;[MPA7]&lt;/div&gt;" vertex="1">
+        <mxCell id="NOjMO9uiFAuRXiwNZSpO-41" parent="NOjMO9uiFAuRXiwNZSpO-3" style="text;whiteSpace=wrap;html=1;align=center;container=0;" value="Respuesta OK&lt;div&gt;[MPV2]&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="90" x="913" y="1429" as="geometry" />
         </mxCell>
         <mxCell id="NOjMO9uiFAuRXiwNZSpO-42" edge="1" parent="NOjMO9uiFAuRXiwNZSpO-3" style="endArrow=classic;html=1;rounded=0;dashed=1;endFill=1;" value="">
@@ -1267,7 +1267,7 @@
             <mxPoint x="117" y="411" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NOjMO9uiFAuRXiwNZSpO-43" parent="NOjMO9uiFAuRXiwNZSpO-3" style="text;whiteSpace=wrap;html=1;fontStyle=0;container=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Publicar auditoria OK&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;[MPA7]&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="NOjMO9uiFAuRXiwNZSpO-43" parent="NOjMO9uiFAuRXiwNZSpO-3" style="text;whiteSpace=wrap;html=1;fontStyle=0;container=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Publicar auditoria OK&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;[MPV2]&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="38" width="130" x="1102" y="1510" as="geometry" />
         </mxCell>
         <mxCell id="NOjMO9uiFAuRXiwNZSpO-44" edge="1" parent="NOjMO9uiFAuRXiwNZSpO-3" style="endArrow=classic;html=1;rounded=0;" target="NOjMO9uiFAuRXiwNZSpO-45" value="">
@@ -1297,7 +1297,7 @@
         <mxCell id="NOjMO9uiFAuRXiwNZSpO-50" parent="NOjMO9uiFAuRXiwNZSpO-3" style="shape=umlFrame;pointerEvents=0;dropTarget=0;height=15;width=50;container=0;" value="par" vertex="1">
           <mxGeometry height="100" width="600" x="1033" y="1489" as="geometry" />
         </mxCell>
-        <mxCell id="NOjMO9uiFAuRXiwNZSpO-51" parent="NOjMO9uiFAuRXiwNZSpO-3" style="text;whiteSpace=wrap;html=1;fontStyle=0;container=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Publicar auditoria ERROR&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;[MPA7]&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="NOjMO9uiFAuRXiwNZSpO-51" parent="NOjMO9uiFAuRXiwNZSpO-3" style="text;whiteSpace=wrap;html=1;fontStyle=0;container=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Publicar auditoria ERROR&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;[MPV2]&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="38" width="161" x="1102" y="1720" as="geometry" />
         </mxCell>
         <mxCell id="NOjMO9uiFAuRXiwNZSpO-52" edge="1" parent="NOjMO9uiFAuRXiwNZSpO-3" style="endArrow=classic;html=1;rounded=0;" target="NOjMO9uiFAuRXiwNZSpO-53" value="">
@@ -1381,8 +1381,8 @@
             <mxPoint x="3" y="43" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NOjMO9uiFAuRXiwNZSpO-70" parent="NOjMO9uiFAuRXiwNZSpO-3" style="text;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fontStyle=0;html=1;container=0;" value="&lt;div style=&quot;&quot;&gt;Selecciona la opción &quot;Mantenimiento de Tarjetas&quot;, botón &quot;Limites de tarjeta por moneda&quot;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="27" width="200" x="132" y="289" as="geometry" />
+        <mxCell id="NOjMO9uiFAuRXiwNZSpO-70" parent="NOjMO9uiFAuRXiwNZSpO-3" style="text;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fontStyle=0;html=1;container=0;" value="Digita NIP de seguridad de la tarjeta" vertex="1">
+          <mxGeometry height="17" width="200" x="132" y="306" as="geometry" />
         </mxCell>
         <mxCell id="NOjMO9uiFAuRXiwNZSpO-71" parent="NOjMO9uiFAuRXiwNZSpO-3" style="text;whiteSpace=wrap;html=1;container=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Envía solicitud de pago de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tarjeta de crédito&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;[MPV2]&lt;/div&gt;" vertex="1">
           <mxGeometry height="39" width="183.5" x="384.25" y="646.21" as="geometry" />
@@ -1402,11 +1402,11 @@
             <mxPoint x="117" y="574" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NOjMO9uiFAuRXiwNZSpO-76" parent="NOjMO9uiFAuRXiwNZSpO-3" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Muestra la pantalla para ingresar filtro de búsqueda:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;- PAN&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="200" x="132" y="519" as="geometry" />
+        <mxCell id="NOjMO9uiFAuRXiwNZSpO-76" parent="NOjMO9uiFAuRXiwNZSpO-3" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: center;&quot;&gt;Solicita ingreso de dinero en efectivo en el ATM&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="200" x="132" y="533" as="geometry" />
         </mxCell>
-        <mxCell id="NOjMO9uiFAuRXiwNZSpO-77" parent="NOjMO9uiFAuRXiwNZSpO-3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;Ingresa el PAN de la tarjeta&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="27" width="169" x="141" y="610" as="geometry" />
+        <mxCell id="NOjMO9uiFAuRXiwNZSpO-77" parent="NOjMO9uiFAuRXiwNZSpO-3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;Ingresa dinero en efectivo para&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;realizar el pago de la tarjeta de crédito&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="27" width="223" x="117" y="605" as="geometry" />
         </mxCell>
         <mxCell id="NOjMO9uiFAuRXiwNZSpO-78" edge="1" parent="NOjMO9uiFAuRXiwNZSpO-3" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
