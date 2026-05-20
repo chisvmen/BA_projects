@@ -1363,7 +1363,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pmPWr_XR9X4mEmW443zJ" name="MPV2 - Abono a TDC con cargo a cuenta de cheques">
-    <mxGraphModel dx="2533" dy="1633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1382" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1408,8 +1408,8 @@
         </mxCell>
         <mxCell id="rGHg6N9kqpX57Br18br_-14" edge="1" parent="rGHg6N9kqpX57Br18br_-3" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="116.5" y="329" as="sourcePoint" />
-            <mxPoint x="346.5" y="329" as="targetPoint" />
+            <mxPoint x="116.5" y="336" as="sourcePoint" />
+            <mxPoint x="346.5" y="336" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rGHg6N9kqpX57Br18br_-15" parent="rGHg6N9kqpX57Br18br_-3" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;div&gt;&lt;b&gt;&amp;lt;CaaS Integration Layer&amp;gt;&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;device-limits-mgt&lt;/b&gt;&lt;/div&gt;" vertex="1">
@@ -1418,15 +1418,15 @@
         <mxCell id="rGHg6N9kqpX57Br18br_-16" edge="1" parent="rGHg6N9kqpX57Br18br_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="162" y="214" />
-              <mxPoint x="162" y="255" />
+              <mxPoint x="162" y="221" />
+              <mxPoint x="162" y="262" />
             </Array>
-            <mxPoint x="117" y="214" as="sourcePoint" />
-            <mxPoint x="117" y="255" as="targetPoint" />
+            <mxPoint x="117" y="221" as="sourcePoint" />
+            <mxPoint x="117" y="262" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rGHg6N9kqpX57Br18br_-17" parent="rGHg6N9kqpX57Br18br_-3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" value="&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;Accede al Canal FDMP&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="27" width="142" x="168" y="217" as="geometry" />
+          <mxGeometry height="27" width="142" x="168" y="224" as="geometry" />
         </mxCell>
         <mxCell id="rGHg6N9kqpX57Br18br_-18" parent="rGHg6N9kqpX57Br18br_-3" style="text;whiteSpace=wrap;html=1;container=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Recibe solicitud para la modificación de los limites de la tarjeta de crédito&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;[MPA7]&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="31" width="198" x="614" y="685.21" as="geometry" />
@@ -1442,8 +1442,8 @@
         </mxCell>
         <mxCell id="rGHg6N9kqpX57Br18br_-22" edge="1" parent="rGHg6N9kqpX57Br18br_-3" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="117" y="487" as="sourcePoint" />
-            <mxPoint x="347" y="487" as="targetPoint" />
+            <mxPoint x="117" y="494" as="sourcePoint" />
+            <mxPoint x="347" y="494" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rGHg6N9kqpX57Br18br_-23" edge="1" parent="rGHg6N9kqpX57Br18br_-3" style="endArrow=classic;html=1;rounded=0;" value="">
@@ -1462,10 +1462,10 @@
           <mxGeometry height="1380" width="10" x="830" y="729" as="geometry" />
         </mxCell>
         <mxCell id="rGHg6N9kqpX57Br18br_-26" parent="rGHg6N9kqpX57Br18br_-3" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;html=1;container=0;" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;Selecciona el botón &quot;Modificar&quot; para modificar los datos economicos de la tarjeta&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="166" x="156" y="439" as="geometry" />
+          <mxGeometry height="30" width="166" x="156" y="446" as="geometry" />
         </mxCell>
         <mxCell id="rGHg6N9kqpX57Br18br_-27" parent="rGHg6N9kqpX57Br18br_-3" style="text;whiteSpace=wrap;html=1;container=0;fontStyle=0" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Muestra la pantalla para ingresar la opción &quot;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Modificar Limites&quot;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="37" width="193" x="135.5" y="370" as="geometry" />
+          <mxGeometry height="37" width="193" x="135.5" y="377" as="geometry" />
         </mxCell>
         <mxCell id="rGHg6N9kqpX57Br18br_-28" edge="1" parent="rGHg6N9kqpX57Br18br_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;">
           <mxGeometry relative="1" as="geometry">
@@ -1530,8 +1530,8 @@
         </mxCell>
         <mxCell id="rGHg6N9kqpX57Br18br_-42" edge="1" parent="rGHg6N9kqpX57Br18br_-3" style="endArrow=classic;html=1;rounded=0;dashed=1;endFill=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="346" y="411" as="sourcePoint" />
-            <mxPoint x="117" y="411" as="targetPoint" />
+            <mxPoint x="346" y="418" as="sourcePoint" />
+            <mxPoint x="117" y="418" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rGHg6N9kqpX57Br18br_-43" parent="rGHg6N9kqpX57Br18br_-3" style="text;whiteSpace=wrap;html=1;fontStyle=0;container=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Publicar auditoria OK&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;[MPA7]&lt;/div&gt;&lt;/div&gt;" vertex="1">
@@ -1649,7 +1649,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rGHg6N9kqpX57Br18br_-70" parent="rGHg6N9kqpX57Br18br_-3" style="text;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fontStyle=0;html=1;container=0;" value="&lt;div style=&quot;&quot;&gt;Selecciona la opción &quot;Mantenimiento de Tarjetas&quot;, botón &quot;Limites de tarjeta por moneda&quot;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="27" width="200" x="132" y="289" as="geometry" />
+          <mxGeometry height="27" width="200" x="132" y="296" as="geometry" />
         </mxCell>
         <mxCell id="rGHg6N9kqpX57Br18br_-71" parent="rGHg6N9kqpX57Br18br_-3" style="text;whiteSpace=wrap;html=1;container=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Solicita la modificación de limites de la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tarjeta de crédito&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;[MPA7]&lt;/div&gt;" vertex="1">
           <mxGeometry height="39" width="201" x="375.5" y="644" as="geometry" />
@@ -1665,20 +1665,20 @@
         </mxCell>
         <mxCell id="rGHg6N9kqpX57Br18br_-75" edge="1" parent="rGHg6N9kqpX57Br18br_-3" style="endArrow=classic;html=1;rounded=0;dashed=1;endFill=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="346" y="574" as="sourcePoint" />
-            <mxPoint x="117" y="574" as="targetPoint" />
+            <mxPoint x="346" y="581" as="sourcePoint" />
+            <mxPoint x="117" y="581" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rGHg6N9kqpX57Br18br_-76" parent="rGHg6N9kqpX57Br18br_-3" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Muestra la pantalla para ingresar filtro de búsqueda:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;- PAN&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="200" x="132" y="519" as="geometry" />
+          <mxGeometry height="50" width="200" x="132" y="526" as="geometry" />
         </mxCell>
         <mxCell id="rGHg6N9kqpX57Br18br_-77" parent="rGHg6N9kqpX57Br18br_-3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;Ingresa el PAN de la tarjeta&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="27" width="169" x="141" y="610" as="geometry" />
+          <mxGeometry height="27" width="169" x="141" y="617" as="geometry" />
         </mxCell>
         <mxCell id="rGHg6N9kqpX57Br18br_-78" edge="1" parent="rGHg6N9kqpX57Br18br_-3" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="117" y="639" as="sourcePoint" />
-            <mxPoint x="347" y="639" as="targetPoint" />
+            <mxPoint x="117" y="646" as="sourcePoint" />
+            <mxPoint x="347" y="646" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rGHg6N9kqpX57Br18br_-79" parent="rGHg6N9kqpX57Br18br_-3" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;div style=&quot;font-weight: 400;&quot;&gt;&lt;b&gt;&amp;lt;CaaS Integration Layer&amp;gt;&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 400;&quot;&gt;&lt;b&gt;transaction-consumer&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
