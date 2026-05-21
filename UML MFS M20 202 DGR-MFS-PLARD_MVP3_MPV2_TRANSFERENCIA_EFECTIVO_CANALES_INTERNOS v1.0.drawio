@@ -608,7 +608,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pmPWr_XR9X4mEmW443zJ" name="MPV2 - Abono a TDC con cargo a cuenta de cheques">
-    <mxGraphModel dx="760" dy="5166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1382" dy="5567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -729,7 +729,7 @@
           <mxGeometry height="30" width="150" x="677" y="1738" as="geometry" />
         </mxCell>
         <mxCell id="rGHg6N9kqpX57Br18br_-31" parent="rGHg6N9kqpX57Br18br_-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};container=0;" value="" vertex="1">
-          <mxGeometry height="130" width="10" x="1348" y="986" as="geometry" />
+          <mxGeometry height="146" width="10" x="1348" y="978" as="geometry" />
         </mxCell>
         <mxCell id="rGHg6N9kqpX57Br18br_-32" parent="rGHg6N9kqpX57Br18br_-3" style="text;whiteSpace=wrap;html=1;fontStyle=0;container=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Realiza&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;el &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cargo a cuenta de cheques para realizar el pago de tarjeta de crédito&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[MPV2]&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="38" width="224" x="1101" y="938" as="geometry" />
@@ -792,7 +792,7 @@
           <mxGeometry height="30" width="10" x="1588" y="1325" as="geometry" />
         </mxCell>
         <mxCell id="rGHg6N9kqpX57Br18br_-46" parent="rGHg6N9kqpX57Br18br_-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};container=0;" value="" vertex="1">
-          <mxGeometry height="180" width="10" x="1070" y="948" as="geometry" />
+          <mxGeometry height="180" width="10" x="1070" y="953" as="geometry" />
         </mxCell>
         <mxCell id="rGHg6N9kqpX57Br18br_-47" parent="rGHg6N9kqpX57Br18br_-3" style="text;whiteSpace=wrap;html=1;fontStyle=0;container=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Ejecuta&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;el &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cargo a cuenta de cheques para realizar el pago de tarjeta de crédito&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;[MPV2]&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="38" width="225" x="842" y="918" as="geometry" />
