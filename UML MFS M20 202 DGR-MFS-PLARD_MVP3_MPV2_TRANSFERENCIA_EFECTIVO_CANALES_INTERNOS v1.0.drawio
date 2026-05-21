@@ -608,7 +608,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pmPWr_XR9X4mEmW443zJ" name="MPV2 - Abono a TDC con cargo a cuenta de cheques">
-    <mxGraphModel dx="894" dy="5252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="760" dy="5166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -731,8 +731,8 @@
         <mxCell id="rGHg6N9kqpX57Br18br_-31" parent="rGHg6N9kqpX57Br18br_-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};container=0;" value="" vertex="1">
           <mxGeometry height="130" width="10" x="1348" y="986" as="geometry" />
         </mxCell>
-        <mxCell id="rGHg6N9kqpX57Br18br_-32" parent="rGHg6N9kqpX57Br18br_-3" style="text;whiteSpace=wrap;html=1;fontStyle=0;container=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Realiza&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;la modificación de los limites de la tarjeta de crédito&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[MPV2]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="38" width="196" x="1116" y="938" as="geometry" />
+        <mxCell id="rGHg6N9kqpX57Br18br_-32" parent="rGHg6N9kqpX57Br18br_-3" style="text;whiteSpace=wrap;html=1;fontStyle=0;container=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Realiza&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;el &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cargo a cuenta de cheques para realizar el pago de tarjeta de crédito&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[MPV2]&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="38" width="224" x="1101" y="938" as="geometry" />
         </mxCell>
         <mxCell id="rGHg6N9kqpX57Br18br_-33" edge="1" parent="rGHg6N9kqpX57Br18br_-3" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -740,8 +740,8 @@
             <mxPoint x="1348" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rGHg6N9kqpX57Br18br_-34" parent="rGHg6N9kqpX57Br18br_-3" style="text;whiteSpace=wrap;html=1;align=center;container=0;" value="Recibe datos de la modificación de los limites de la tarjeta de crédito&lt;div&gt;[MPV2]&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="256" x="1092" y="1060" as="geometry" />
+        <mxCell id="rGHg6N9kqpX57Br18br_-34" parent="rGHg6N9kqpX57Br18br_-3" style="text;whiteSpace=wrap;html=1;align=center;container=0;" value="Recibe datos del&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cargo a cuenta de cheques para realizar el pago de tarjeta de crédito&lt;/span&gt;&lt;div&gt;[MPV2]&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="256" x="1085" y="1059" as="geometry" />
         </mxCell>
         <mxCell id="rGHg6N9kqpX57Br18br_-35" edge="1" parent="rGHg6N9kqpX57Br18br_-3" style="endArrow=classic;html=1;rounded=0;dashed=1;endFill=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
