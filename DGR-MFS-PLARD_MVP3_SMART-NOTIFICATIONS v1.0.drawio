@@ -193,7 +193,7 @@
           <mxGeometry height="30" width="106" x="959" y="841" as="geometry" />
         </mxCell>
         <mxCell id="EjlI5V-22sPIOH3BMPNB-17" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="1992" width="10" x="150" y="296" as="geometry" />
+          <mxGeometry height="1978" width="10" x="150" y="310" as="geometry" />
         </mxCell>
         <mxCell id="EjlI5V-22sPIOH3BMPNB-18" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="1542" width="10" x="630" y="610" as="geometry" />
@@ -257,7 +257,7 @@
           <mxGeometry height="30" width="166" x="190" y="542" as="geometry" />
         </mxCell>
         <mxCell id="EjlI5V-22sPIOH3BMPNB-32" parent="1" style="text;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Valida información de la tarjeta&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="27" width="193" x="180" y="476" as="geometry" />
+          <mxGeometry height="27" width="193" x="180" y="474" as="geometry" />
         </mxCell>
         <mxCell id="EjlI5V-22sPIOH3BMPNB-33" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;">
           <mxGeometry relative="1" as="geometry">
@@ -322,8 +322,8 @@
         </mxCell>
         <mxCell id="EjlI5V-22sPIOH3BMPNB-47" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;endFill=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="389" y="503" as="sourcePoint" />
-            <mxPoint x="160" y="503" as="targetPoint" />
+            <mxPoint x="389" y="501" as="sourcePoint" />
+            <mxPoint x="160" y="501" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EjlI5V-22sPIOH3BMPNB-48" parent="1" style="text;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;Publicar auditoria OK&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;[MPR9]&lt;/div&gt;&lt;/div&gt;" vertex="1">
