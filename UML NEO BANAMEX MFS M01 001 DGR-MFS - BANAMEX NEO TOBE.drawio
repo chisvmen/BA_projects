@@ -17,179 +17,179 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wS90ZfRmGwVmIEzOjl0F" name="MINUTAS">
-    <mxGraphModel dx="1132" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="809" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=center;" value="" vertex="1">
-          <mxGeometry height="384" width="799" x="14" y="70" as="geometry" />
+        <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=left;" value="" vertex="1">
+          <mxGeometry height="510" width="799" x="16" y="70" as="geometry" />
         </mxCell>
         <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-2" parent="Xsqp_vE4QO3ZjxZNXvGB-1" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="" vertex="1">
-          <mxGeometry height="36" width="799" as="geometry" />
+          <mxGeometry height="41" width="799" as="geometry" />
         </mxCell>
-        <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-3" parent="Xsqp_vE4QO3ZjxZNXvGB-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="NOMBRE" vertex="1">
-          <mxGeometry height="36" width="144" as="geometry">
-            <mxRectangle height="36" width="144" as="alternateBounds" />
+        <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-3" parent="Xsqp_vE4QO3ZjxZNXvGB-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="PROYECTO" vertex="1">
+          <mxGeometry height="41" width="144" as="geometry">
+            <mxRectangle height="41" width="144" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-4" parent="Xsqp_vE4QO3ZjxZNXvGB-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="FECHA" vertex="1">
-          <mxGeometry height="36" width="96" x="144" as="geometry">
-            <mxRectangle height="36" width="96" as="alternateBounds" />
+          <mxGeometry height="41" width="96" x="144" as="geometry">
+            <mxRectangle height="41" width="96" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-5" parent="Xsqp_vE4QO3ZjxZNXvGB-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="VERSION" vertex="1">
-          <mxGeometry height="36" width="81" x="240" as="geometry">
-            <mxRectangle height="36" width="81" as="alternateBounds" />
+          <mxGeometry height="41" width="81" x="240" as="geometry">
+            <mxRectangle height="41" width="81" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-6" parent="Xsqp_vE4QO3ZjxZNXvGB-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="PRODUCT" vertex="1">
-          <mxGeometry height="36" width="178" x="321" as="geometry">
-            <mxRectangle height="36" width="178" as="alternateBounds" />
+          <mxGeometry height="41" width="178" x="321" as="geometry">
+            <mxRectangle height="41" width="178" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cpQQcRGRSxEJRmIIAxYn-1" parent="Xsqp_vE4QO3ZjxZNXvGB-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="STAKEHOLDER" vertex="1">
-          <mxGeometry height="36" width="111" x="499" as="geometry">
-            <mxRectangle height="36" width="111" as="alternateBounds" />
+          <mxGeometry height="41" width="111" x="499" as="geometry">
+            <mxRectangle height="41" width="111" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cpQQcRGRSxEJRmIIAxYn-6" parent="Xsqp_vE4QO3ZjxZNXvGB-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="COMENTARIO" vertex="1">
-          <mxGeometry height="36" width="189" x="610" as="geometry">
-            <mxRectangle height="36" width="189" as="alternateBounds" />
+          <mxGeometry height="41" width="189" x="610" as="geometry">
+            <mxRectangle height="41" width="189" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-7" parent="Xsqp_vE4QO3ZjxZNXvGB-1" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="" vertex="1">
-          <mxGeometry height="44" width="799" y="36" as="geometry" />
+          <mxGeometry height="51" width="799" y="41" as="geometry" />
         </mxCell>
-        <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-8" parent="Xsqp_vE4QO3ZjxZNXvGB-7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Christopher Valencia Mendoza&lt;/font&gt;" vertex="1">
-          <mxGeometry height="44" width="144" as="geometry">
-            <mxRectangle height="44" width="144" as="alternateBounds" />
+        <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-8" parent="Xsqp_vE4QO3ZjxZNXvGB-7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;NEO&lt;/font&gt;" vertex="1">
+          <mxGeometry height="51" width="144" as="geometry">
+            <mxRectangle height="51" width="144" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-9" parent="Xsqp_vE4QO3ZjxZNXvGB-7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;20/09/2026&lt;/span&gt;" vertex="1">
-          <mxGeometry height="44" width="96" x="144" as="geometry">
-            <mxRectangle height="44" width="96" as="alternateBounds" />
+          <mxGeometry height="51" width="96" x="144" as="geometry">
+            <mxRectangle height="51" width="96" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-10" parent="Xsqp_vE4QO3ZjxZNXvGB-7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="1.0" vertex="1">
-          <mxGeometry height="44" width="81" x="240" as="geometry">
-            <mxRectangle height="44" width="81" as="alternateBounds" />
+          <mxGeometry height="51" width="81" x="240" as="geometry">
+            <mxRectangle height="51" width="81" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-11" parent="Xsqp_vE4QO3ZjxZNXvGB-7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=left;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;1. HISTORIAS DE USUARIO REFINEMENT&lt;/font&gt;" vertex="1">
-          <mxGeometry height="44" width="178" x="321" as="geometry">
-            <mxRectangle height="44" width="178" as="alternateBounds" />
+          <mxGeometry height="51" width="178" x="321" as="geometry">
+            <mxRectangle height="51" width="178" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cpQQcRGRSxEJRmIIAxYn-2" parent="Xsqp_vE4QO3ZjxZNXvGB-7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=center;" value="ARTURO / HILDA" vertex="1">
-          <mxGeometry height="44" width="111" x="499" as="geometry">
-            <mxRectangle height="44" width="111" as="alternateBounds" />
+          <mxGeometry height="51" width="111" x="499" as="geometry">
+            <mxRectangle height="51" width="111" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cpQQcRGRSxEJRmIIAxYn-7" parent="Xsqp_vE4QO3ZjxZNXvGB-7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=center;" vertex="1">
-          <mxGeometry height="44" width="189" x="610" as="geometry">
-            <mxRectangle height="44" width="189" as="alternateBounds" />
+          <mxGeometry height="51" width="189" x="610" as="geometry">
+            <mxRectangle height="51" width="189" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-12" parent="Xsqp_vE4QO3ZjxZNXvGB-1" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="" vertex="1">
-          <mxGeometry height="220" width="799" y="80" as="geometry" />
+          <mxGeometry height="198" width="799" y="92" as="geometry" />
         </mxCell>
-        <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-13" parent="Xsqp_vE4QO3ZjxZNXvGB-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Christopher Valencia Mendoza&lt;/font&gt;" vertex="1">
-          <mxGeometry height="220" width="144" as="geometry">
-            <mxRectangle height="220" width="144" as="alternateBounds" />
+        <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-13" parent="Xsqp_vE4QO3ZjxZNXvGB-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;NEO&lt;/span&gt;" vertex="1">
+          <mxGeometry height="198" width="144" as="geometry">
+            <mxRectangle height="198" width="144" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-14" parent="Xsqp_vE4QO3ZjxZNXvGB-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="21/05/2026" vertex="1">
-          <mxGeometry height="220" width="96" x="144" as="geometry">
-            <mxRectangle height="220" width="96" as="alternateBounds" />
+          <mxGeometry height="198" width="96" x="144" as="geometry">
+            <mxRectangle height="198" width="96" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-15" parent="Xsqp_vE4QO3ZjxZNXvGB-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="1.0" vertex="1">
-          <mxGeometry height="220" width="81" x="240" as="geometry">
-            <mxRectangle height="220" width="81" as="alternateBounds" />
+        <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-15" parent="Xsqp_vE4QO3ZjxZNXvGB-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Christopher Valencia Mendoza&lt;/span&gt;" vertex="1">
+          <mxGeometry height="198" width="81" x="240" as="geometry">
+            <mxRectangle height="198" width="81" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-16" parent="Xsqp_vE4QO3ZjxZNXvGB-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=left;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;2. DEMO FUNCIONAL CEO&lt;/font&gt;" vertex="1">
-          <mxGeometry height="220" width="178" x="321" as="geometry">
-            <mxRectangle height="220" width="178" as="alternateBounds" />
+          <mxGeometry height="198" width="178" x="321" as="geometry">
+            <mxRectangle height="198" width="178" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cpQQcRGRSxEJRmIIAxYn-3" parent="Xsqp_vE4QO3ZjxZNXvGB-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=center;" value="" vertex="1">
-          <mxGeometry height="220" width="111" x="499" as="geometry">
-            <mxRectangle height="220" width="111" as="alternateBounds" />
+          <mxGeometry height="198" width="111" x="499" as="geometry">
+            <mxRectangle height="198" width="111" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cpQQcRGRSxEJRmIIAxYn-8" parent="Xsqp_vE4QO3ZjxZNXvGB-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=center;" value="&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Se agrega el diagrama que cubre la funcionalidad de la transacción de Alta Masivas de Tarjetas de Débito.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Se agregan los mapeos de campos correspondientes a PAMPA TRX Crédito.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="220" width="189" x="610" as="geometry">
-            <mxRectangle height="220" width="189" as="alternateBounds" />
+          <mxGeometry height="198" width="189" x="610" as="geometry">
+            <mxRectangle height="198" width="189" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-17" parent="Xsqp_vE4QO3ZjxZNXvGB-1" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="" vertex="1">
-          <mxGeometry height="52" width="799" y="300" as="geometry" />
+          <mxGeometry height="100" width="799" y="290" as="geometry" />
         </mxCell>
         <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-18" parent="Xsqp_vE4QO3ZjxZNXvGB-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="" vertex="1">
-          <mxGeometry height="52" width="144" as="geometry">
-            <mxRectangle height="52" width="144" as="alternateBounds" />
+          <mxGeometry height="100" width="144" as="geometry">
+            <mxRectangle height="100" width="144" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-19" parent="Xsqp_vE4QO3ZjxZNXvGB-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="" vertex="1">
-          <mxGeometry height="52" width="96" x="144" as="geometry">
-            <mxRectangle height="52" width="96" as="alternateBounds" />
+        <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-19" parent="Xsqp_vE4QO3ZjxZNXvGB-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="22/05/2026" vertex="1">
+          <mxGeometry height="100" width="96" x="144" as="geometry">
+            <mxRectangle height="100" width="96" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-20" parent="Xsqp_vE4QO3ZjxZNXvGB-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="" vertex="1">
-          <mxGeometry height="52" width="81" x="240" as="geometry">
-            <mxRectangle height="52" width="81" as="alternateBounds" />
+          <mxGeometry height="100" width="81" x="240" as="geometry">
+            <mxRectangle height="100" width="81" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-21" parent="Xsqp_vE4QO3ZjxZNXvGB-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=center;" value="" vertex="1">
-          <mxGeometry height="52" width="178" x="321" as="geometry">
-            <mxRectangle height="52" width="178" as="alternateBounds" />
+        <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-21" parent="Xsqp_vE4QO3ZjxZNXvGB-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=left;" value="3.&amp;nbsp;&lt;span style=&quot;font-size: 15px;&quot;&gt;HISTORIAS DE USUARIO REFINEMENT&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="178" x="321" as="geometry">
+            <mxRectangle height="100" width="178" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cpQQcRGRSxEJRmIIAxYn-4" parent="Xsqp_vE4QO3ZjxZNXvGB-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=center;" value="ARTURO / HILDA" vertex="1">
-          <mxGeometry height="52" width="111" x="499" as="geometry">
-            <mxRectangle height="52" width="111" as="alternateBounds" />
+          <mxGeometry height="100" width="111" x="499" as="geometry">
+            <mxRectangle height="100" width="111" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cpQQcRGRSxEJRmIIAxYn-9" parent="Xsqp_vE4QO3ZjxZNXvGB-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=center;" vertex="1">
-          <mxGeometry height="52" width="189" x="610" as="geometry">
-            <mxRectangle height="52" width="189" as="alternateBounds" />
+          <mxGeometry height="100" width="189" x="610" as="geometry">
+            <mxRectangle height="100" width="189" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-22" parent="Xsqp_vE4QO3ZjxZNXvGB-1" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="" vertex="1">
-          <mxGeometry height="32" width="799" y="352" as="geometry" />
+          <mxGeometry height="120" width="799" y="390" as="geometry" />
         </mxCell>
         <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-23" parent="Xsqp_vE4QO3ZjxZNXvGB-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="" vertex="1">
-          <mxGeometry height="32" width="144" as="geometry">
-            <mxRectangle height="32" width="144" as="alternateBounds" />
+          <mxGeometry height="120" width="144" as="geometry">
+            <mxRectangle height="120" width="144" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-24" parent="Xsqp_vE4QO3ZjxZNXvGB-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="" vertex="1">
-          <mxGeometry height="32" width="96" x="144" as="geometry">
-            <mxRectangle height="32" width="96" as="alternateBounds" />
+        <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-24" parent="Xsqp_vE4QO3ZjxZNXvGB-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="23/05/2026" vertex="1">
+          <mxGeometry height="120" width="96" x="144" as="geometry">
+            <mxRectangle height="120" width="96" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-25" parent="Xsqp_vE4QO3ZjxZNXvGB-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="" vertex="1">
-          <mxGeometry height="32" width="81" x="240" as="geometry">
-            <mxRectangle height="32" width="81" as="alternateBounds" />
+          <mxGeometry height="120" width="81" x="240" as="geometry">
+            <mxRectangle height="120" width="81" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-26" parent="Xsqp_vE4QO3ZjxZNXvGB-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=center;" value="" vertex="1">
-          <mxGeometry height="32" width="178" x="321" as="geometry">
-            <mxRectangle height="32" width="178" as="alternateBounds" />
+        <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-26" parent="Xsqp_vE4QO3ZjxZNXvGB-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=left;" value="&lt;span style=&quot;&quot;&gt;4. SESION UX //&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;HISTORIAS DE USUARIO REFINEMENT&lt;/span&gt;" vertex="1">
+          <mxGeometry height="120" width="178" x="321" as="geometry">
+            <mxRectangle height="120" width="178" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cpQQcRGRSxEJRmIIAxYn-5" parent="Xsqp_vE4QO3ZjxZNXvGB-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=center;" value="PAOLA" vertex="1">
-          <mxGeometry height="32" width="111" x="499" as="geometry">
-            <mxRectangle height="32" width="111" as="alternateBounds" />
+          <mxGeometry height="120" width="111" x="499" as="geometry">
+            <mxRectangle height="120" width="111" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cpQQcRGRSxEJRmIIAxYn-10" parent="Xsqp_vE4QO3ZjxZNXvGB-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=center;" vertex="1">
-          <mxGeometry height="32" width="189" x="610" as="geometry">
-            <mxRectangle height="32" width="189" as="alternateBounds" />
+          <mxGeometry height="120" width="189" x="610" as="geometry">
+            <mxRectangle height="120" width="189" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#36393D;fontSize=20;align=left;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;CONTROL DE SESIONES&lt;/font&gt;" vertex="1">
+        <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#36393D;fontSize=20;align=left;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;CONTROL DE SESIONES - SPRIT ZERO&lt;/font&gt;" vertex="1">
           <mxGeometry height="41" width="799" x="14" y="10" as="geometry" />
         </mxCell>
       </root>
