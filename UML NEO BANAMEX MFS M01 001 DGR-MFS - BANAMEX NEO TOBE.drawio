@@ -17,12 +17,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wS90ZfRmGwVmIEzOjl0F" name="MINUTAS">
-    <mxGraphModel dx="1235" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="892" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=left;" value="" vertex="1">
-          <mxGeometry height="528" width="797" x="16" y="70" as="geometry" />
+        <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=left;verticalAlign=bottom;" value="" vertex="1">
+          <mxGeometry height="648" width="797" x="16" y="70" as="geometry" />
         </mxCell>
         <mxCell id="Xsqp_vE4QO3ZjxZNXvGB-2" parent="Xsqp_vE4QO3ZjxZNXvGB-1" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="" vertex="1">
           <mxGeometry height="41" width="797" as="geometry" />
@@ -118,7 +118,7 @@
             <mxRectangle height="198" width="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cpQQcRGRSxEJRmIIAxYn-8" parent="Xsqp_vE4QO3ZjxZNXvGB-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=center;" value="&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Se agrega el diagrama que cubre la funcionalidad de la transacción de Alta Masivas de Tarjetas de Débito.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Se agregan los mapeos de campos correspondientes a PAMPA TRX Crédito.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+        <mxCell id="cpQQcRGRSxEJRmIIAxYn-8" parent="Xsqp_vE4QO3ZjxZNXvGB-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=center;" value="&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Se agrega el diagrama que cubre la funcionalidad de la transacción de Alta Masivas de Tarjetas de Débito.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Se agregan los mapeos de campos correspondientes a PAMPA TRX Crédito.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="198" width="213" x="584" as="geometry">
             <mxRectangle height="198" width="213" as="alternateBounds" />
           </mxGeometry>
@@ -185,6 +185,39 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cpQQcRGRSxEJRmIIAxYn-10" parent="Xsqp_vE4QO3ZjxZNXvGB-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=center;" vertex="1">
+          <mxGeometry height="120" width="213" x="584" as="geometry">
+            <mxRectangle height="120" width="213" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fj3EeXfWwvHjFVMoYtjq-1" parent="Xsqp_vE4QO3ZjxZNXvGB-1" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" vertex="1">
+          <mxGeometry height="120" width="797" y="528" as="geometry" />
+        </mxCell>
+        <mxCell id="fj3EeXfWwvHjFVMoYtjq-2" parent="fj3EeXfWwvHjFVMoYtjq-1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;NEO&lt;/span&gt;" vertex="1">
+          <mxGeometry height="120" width="84" as="geometry">
+            <mxRectangle height="120" width="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fj3EeXfWwvHjFVMoYtjq-3" parent="fj3EeXfWwvHjFVMoYtjq-1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;" value="24/05/2026" vertex="1">
+          <mxGeometry height="120" width="103" x="84" as="geometry">
+            <mxRectangle height="120" width="103" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fj3EeXfWwvHjFVMoYtjq-4" parent="fj3EeXfWwvHjFVMoYtjq-1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=left;" value="5. &lt;span style=&quot;font-size: 15px;&quot;&gt;HISTORIAS DE USUARIO REFINEMENT&lt;/span&gt;" vertex="1">
+          <mxGeometry height="120" width="167" x="187" as="geometry">
+            <mxRectangle height="120" width="167" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fj3EeXfWwvHjFVMoYtjq-5" parent="fj3EeXfWwvHjFVMoYtjq-1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=center;" value="ARTURO / HILDA" vertex="1">
+          <mxGeometry height="120" width="130" x="354" as="geometry">
+            <mxRectangle height="120" width="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fj3EeXfWwvHjFVMoYtjq-6" parent="fj3EeXfWwvHjFVMoYtjq-1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=center;" vertex="1">
+          <mxGeometry height="120" width="100" x="484" as="geometry">
+            <mxRectangle height="120" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fj3EeXfWwvHjFVMoYtjq-7" parent="fj3EeXfWwvHjFVMoYtjq-1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Roboto;fontSource=https://fonts.googleapis.com/css?family=Roboto;fontSize=16;strokeWidth=1;align=center;" vertex="1">
           <mxGeometry height="120" width="213" x="584" as="geometry">
             <mxRectangle height="120" width="213" as="alternateBounds" />
           </mxGeometry>
