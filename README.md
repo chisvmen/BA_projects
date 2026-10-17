@@ -55,6 +55,9 @@ https://monday.com/
 https://app.mural.co/
 
 
+##IA
+https://skillsmp.com
+
 ##TESTING
 
 chrome://inspect/#devices
