@@ -1,0 +1,466 @@
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>User Story – NIP Validation</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, "Segoe UI", system-ui, sans-serif;
+      font-size: 14px;
+      line-height: 1.6;
+      color: #1f2328;
+      background: #ffffff;
+      padding: 40px 24px;
+    }
+
+    .page {
+      max-width: 760px;
+      margin: 0 auto;
+    }
+
+    /* Header */
+    .header {
+      border-bottom: 2px solid #e5e7eb;
+      padding-bottom: 20px;
+      margin-bottom: 28px;
+    }
+    .header .badge {
+      display: inline-block;
+      background: #3b82d4;
+      color: #fff;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      padding: 3px 10px;
+      border-radius: 4px;
+      margin-bottom: 10px;
+    }
+    .header h1 {
+      font-size: 22px;
+      font-weight: 700;
+      color: #1f2328;
+      margin-bottom: 6px;
+    }
+    .header .subtitle {
+      color: #57606a;
+      font-size: 13px;
+    }
+
+    /* Meta table */
+    .meta-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      background: #f7f8fa;
+      border: 1px solid #e5e7eb;
+      border-radius: 6px;
+      padding: 16px;
+      margin-bottom: 28px;
+    }
+    .meta-item .label {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: #57606a;
+      font-weight: 600;
+      margin-bottom: 3px;
+    }
+    .meta-item .value {
+      font-size: 13px;
+      color: #1f2328;
+      font-weight: 500;
+    }
+
+    /* Sections */
+    section {
+      margin-bottom: 28px;
+    }
+    section h2 {
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+      font-weight: 700;
+      color: #57606a;
+      border-bottom: 1px solid #e5e7eb;
+      padding-bottom: 6px;
+      margin-bottom: 14px;
+    }
+
+    /* Story statement */
+    .story-card {
+      background: #f7f8fa;
+      border-left: 4px solid #3b82d4;
+      border-radius: 0 6px 6px 0;
+      padding: 16px 20px;
+      font-size: 15px;
+      color: #1f2328;
+      line-height: 1.8;
+    }
+    .story-card em {
+      font-style: italic;
+      color: #3b82d4;
+      font-weight: 600;
+    }
+
+    /* Acceptance criteria */
+    .criteria-list {
+      list-style: none;
+      padding: 0;
+    }
+    .criteria-list li {
+      display: flex;
+      gap: 10px;
+      align-items: flex-start;
+      padding: 8px 0;
+      border-bottom: 1px solid #f0f1f3;
+      font-size: 14px;
+    }
+    .criteria-list li:last-child {
+      border-bottom: none;
+    }
+    .criteria-list li .num {
+      min-width: 22px;
+      height: 22px;
+      background: #3b82d4;
+      color: #fff;
+      font-size: 11px;
+      font-weight: 700;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 1px;
+      flex-shrink: 0;
+    }
+    .given-when-then {
+      display: block;
+    }
+    .given-when-then span.keyword {
+      font-weight: 700;
+      color: #7c5cd8;
+      font-size: 13px;
+    }
+
+    /* Business rules */
+    .rules-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 13px;
+    }
+    .rules-table thead tr {
+      background: #f7f8fa;
+    }
+    .rules-table th {
+      text-align: left;
+      padding: 8px 12px;
+      font-weight: 600;
+      border: 1px solid #e5e7eb;
+      color: #1f2328;
+    }
+    .rules-table td {
+      padding: 8px 12px;
+      border: 1px solid #e5e7eb;
+      vertical-align: top;
+    }
+    .rules-table tr:nth-child(even) td {
+      background: #fafbfc;
+    }
+    .tag {
+      display: inline-block;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 1px 7px;
+      border-radius: 4px;
+    }
+    .tag.must    { background: #fde8e8; color: #b91c1c; }
+    .tag.should  { background: #fef3c7; color: #92400e; }
+    .tag.could   { background: #d1fae5; color: #065f46; }
+
+    /* Out of scope */
+    .oos-list {
+      list-style: none;
+      padding: 0;
+    }
+    .oos-list li {
+      padding: 6px 0;
+      border-bottom: 1px solid #f0f1f3;
+      font-size: 13px;
+      color: #57606a;
+      display: flex;
+      gap: 8px;
+      align-items: flex-start;
+    }
+    .oos-list li::before {
+      content: "✕";
+      color: #b91c1c;
+      font-weight: 700;
+      font-size: 12px;
+      margin-top: 1px;
+    }
+    .oos-list li:last-child { border-bottom: none; }
+
+    /* Notes */
+    .notes-block {
+      background: #f7f8fa;
+      border: 1px solid #e5e7eb;
+      border-radius: 6px;
+      padding: 14px 16px;
+      font-size: 13px;
+      color: #57606a;
+      line-height: 1.7;
+    }
+
+    /* Footer */
+    footer {
+      margin-top: 48px;
+      padding-top: 16px;
+      border-top: 1px solid #e5e7eb;
+      text-align: center;
+      font-size: 12px;
+      color: #57606a;
+    }
+  </style>
+</head>
+<body>
+<div class="page">
+
+  
+  <div class="header">
+    <div class="badge">User Story</div>
+    <h1>NIP Validation</h1>
+    <div class="subtitle">Feature: Numeric PIN access-code entry and server-side validation</div>
+  </div>
+
+  
+  <div class="meta-grid">
+    <div class="meta-item">
+      <div class="label">Story ID</div>
+      <div class="value">US-NIP-001</div>
+    </div>
+    <div class="meta-item">
+      <div class="label">Epic</div>
+      <div class="value">Authentication &amp; Access Control</div>
+    </div>
+    <div class="meta-item">
+      <div class="label">Priority</div>
+      <div class="value">High</div>
+    </div>
+    <div class="meta-item">
+      <div class="label">Story Points</div>
+      <div class="value">5</div>
+    </div>
+    <div class="meta-item">
+      <div class="label">Status</div>
+      <div class="value">Backlog</div>
+    </div>
+    <div class="meta-item">
+      <div class="label">Last Updated</div>
+      <div class="value">2025-07-14</div>
+    </div>
+  </div>
+
+  
+  <section>
+    <h2>Story Statement</h2>
+    <div class="story-card">
+      <em>As a</em> registered user,<br />
+      <em>I want to</em> enter and validate my NIP (Numeric Identification PIN) to gain access to the system,<br />
+      <em>So that</em> only authorised users can access protected resources, and unauthorised access attempts are blocked.
+    </div>
+  </section>
+
+  
+  <section>
+    <h2>Background &amp; Context</h2>
+    <p style="font-size:14px;color:#1f2328;line-height:1.7">
+      The NIP is a numeric personal identification code used as a second or primary verification factor.
+      It must be validated against a securely stored, hashed value on the server side.
+      The feature covers the full validation flow: input, format checking, server verification, success/failure response,
+      and account lock-out after repeated failed attempts.
+    </p>
+  </section>
+
+  
+  <section>
+    <h2>Acceptance Criteria</h2>
+    <ul class="criteria-list">
+
+      <li>
+        <span class="num">1</span>
+        <span class="given-when-then">
+          <span class="keyword">Given</span> the user is on the NIP entry screen,<br />
+          <span class="keyword">When</span> they enter a NIP with the correct length and only numeric characters,<br />
+          <span class="keyword">Then</span> the submit action is enabled and the input is accepted for validation.
+        </span>
+      </li>
+
+      <li>
+        <span class="num">2</span>
+        <span class="given-when-then">
+          <span class="keyword">Given</span> the user enters a NIP that contains non-numeric characters or is of incorrect length,<br />
+          <span class="keyword">When</span> the form is submitted (or focus leaves the field),<br />
+          <span class="keyword">Then</span> a clear inline error message is displayed (e.g., "NIP must be exactly 4–6 digits") and the form cannot be submitted.
+        </span>
+      </li>
+
+      <li>
+        <span class="num">3</span>
+        <span class="given-when-then">
+          <span class="keyword">Given</span> the user submits a valid-format NIP,<br />
+          <span class="keyword">When</span> the NIP matches the stored hashed value on the server,<br />
+          <span class="keyword">Then</span> the user is granted access and redirected to the protected area.
+        </span>
+      </li>
+
+      <li>
+        <span class="num">4</span>
+        <span class="given-when-then">
+          <span class="keyword">Given</span> the user submits a valid-format NIP,<br />
+          <span class="keyword">When</span> the NIP does NOT match the stored value,<br />
+          <span class="keyword">Then</span> an error message is shown (e.g., "Incorrect NIP. Try again."), the field is cleared, and the failed-attempt counter is incremented.
+        </span>
+      </li>
+
+      <li>
+        <span class="num">5</span>
+        <span class="given-when-then">
+          <span class="keyword">Given</span> the user has reached the maximum number of consecutive failed attempts (default: 3),<br />
+          <span class="keyword">When</span> the limit is exceeded,<br />
+          <span class="keyword">Then</span> the account is temporarily locked, the user is informed of the lockout duration, and further attempts are blocked until the lockout expires or an admin resets the account.
+        </span>
+      </li>
+
+      <li>
+        <span class="num">6</span>
+        <span class="given-when-then">
+          <span class="keyword">Given</span> a NIP entry is in progress,<br />
+          <span class="keyword">When</span> the characters are displayed,<br />
+          <span class="keyword">Then</span> each character is masked (shown as ●) to prevent shoulder-surfing.
+        </span>
+      </li>
+
+      <li>
+        <span class="num">7</span>
+        <span class="given-when-then">
+          <span class="keyword">Given</span> a failed or successful NIP validation attempt occurs,<br />
+          <span class="keyword">When</span> the event is processed,<br />
+          <span class="keyword">Then</span> an audit log entry is created (timestamp, user ID, outcome) without logging the NIP value itself.
+        </span>
+      </li>
+
+    </ul>
+  </section>
+
+  
+  <section>
+    <h2>Business Rules</h2>
+    <table class="rules-table">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Rule</th>
+          <th>Priority</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>BR-01</td>
+          <td>NIP must be numeric only (digits 0–9); no letters or special characters.</td>
+          <td><span class="tag must">MUST</span></td>
+        </tr>
+        <tr>
+          <td>BR-02</td>
+          <td>NIP length must be between 4 and 6 digits (configurable per environment).</td>
+          <td><span class="tag must">MUST</span></td>
+        </tr>
+        <tr>
+          <td>BR-03</td>
+          <td>Validation must occur server-side; client-side checks are format-only guards, not security controls.</td>
+          <td><span class="tag must">MUST</span></td>
+        </tr>
+        <tr>
+          <td>BR-04</td>
+          <td>The NIP must be stored as a salted cryptographic hash (never in plaintext).</td>
+          <td><span class="tag must">MUST</span></td>
+        </tr>
+        <tr>
+          <td>BR-05</td>
+          <td>After 3 consecutive failed attempts, the account must be locked for a configurable period (default: 15 minutes).</td>
+          <td><span class="tag must">MUST</span></td>
+        </tr>
+        <tr>
+          <td>BR-06</td>
+          <td>The NIP value must never appear in logs, error messages, or API responses.</td>
+          <td><span class="tag must">MUST</span></td>
+        </tr>
+        <tr>
+          <td>BR-07</td>
+          <td>The system should display the remaining attempt count to the user after each failed attempt.</td>
+          <td><span class="tag should">SHOULD</span></td>
+        </tr>
+        <tr>
+          <td>BR-08</td>
+          <td>A "Forgot NIP" recovery flow could be provided via a separate authenticated channel.</td>
+          <td><span class="tag could">COULD</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  
+  <section>
+    <h2>Out of Scope</h2>
+    <ul class="oos-list">
+      <li>NIP creation / change flow (handled by US-NIP-002)</li>
+      <li>Biometric or hardware token authentication</li>
+      <li>Multi-factor combinations beyond NIP (separate epic)</li>
+      <li>Admin panel for managing locked accounts (separate story)</li>
+    </ul>
+  </section>
+
+  
+  <section>
+    <h2>Definition of Done</h2>
+    <ul class="criteria-list">
+      <li>
+        <span class="num">✓</span>
+        All 7 acceptance criteria pass in the test environment.
+      </li>
+      <li>
+        <span class="num">✓</span>
+        Unit and integration tests cover happy path, format errors, wrong NIP, and account lockout.
+      </li>
+      <li>
+        <span class="num">✓</span>
+        Security review confirms hashing, masking, and audit-log compliance.
+      </li>
+      <li>
+        <span class="num">✓</span>
+        Accessibility: input field is labelled, error messages are screen-reader accessible.
+      </li>
+      <li>
+        <span class="num">✓</span>
+        Product Owner has accepted the story in a demo.
+      </li>
+    </ul>
+  </section>
+
+  
+  <section>
+    <h2>Notes &amp; Dependencies</h2>
+    <div class="notes-block">
+      <strong>Dependencies:</strong> User account management service must expose a NIP verification endpoint. The lockout mechanism depends on a shared session/rate-limit store (e.g., Redis).<br /><br />
+      <strong>Assumptions:</strong> The user is already identified (username or account number) before the NIP screen is shown. The NIP is not a replacement for password-based authentication but acts as a quick-access code in addition to or instead of it, depending on the access policy.<br /><br />
+      <strong>Security Note:</strong> Validation response time should be constant (timing-safe comparison) to prevent timing-based attacks on the PIN.
+    </div>
+  </section>
+
+</div>
+
+<footer>Made with IBM Bob</footer>
+</body>
+</html>
